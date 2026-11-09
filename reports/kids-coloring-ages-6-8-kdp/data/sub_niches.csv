@@ -1,0 +1,11 @@
+product_type,holiday,audience,age_band,books,on_best_sellers,median_reviews,median_price,est_daily_sales,score
+coloring,,christians,6-8,168,48,2,9.99,37,74
+coloring,christmas,,6-8,126,31,2,9.99,18,73
+coloring,winter,,6-8,46,15,2,9.99,12,71
+coloring,,boys,6-8,179,80,4,9.99,93,71
+coloring,,girls,6-8,250,121,8,9.99,116,68
+coloring,,diverse,6-8,120,46,2,9.99,8,66
+coloring,thanksgiving,,6-8,26,6,2,9.99,11,64
+coloring,halloween,,6-8,34,8,8,9.99,2,64
+coloring,summer,,6-8,20,6,1,9.99,1,60
+coloring,easter,,6-8,18,5,2,9.99,2,59
