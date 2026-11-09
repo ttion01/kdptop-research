@@ -1,16 +1,29 @@
 # KDPTop Research
 
-Monthly and topic reports on the Amazon KDP book market, written from the Best Sellers, New Releases and search data that [KDPTop](https://kdptop.com/) collects every day. Each report has its tables as CSV.
+Data reports on the Amazon KDP book market — monthly market reports, niche and seasonal reports, pricing and review-barrier benchmarks, author rankings and weekly briefs — written from the Best Sellers, New Releases and search data that [KDPTop](https://kdptop.com/) collects every day. Each report states its sample and data window and ships its tables as CSV.
 
-亚马逊 KDP 图书市场的月度报告和专题报告，数据来自 KDPTop 每天抓取的畅销榜、新品榜和搜索数据，每份报告附 CSV。
+亚马逊 KDP 图书市场的数据报告：月度市场报告、细分市场和节日季报告、定价和评论门槛基准、作者榜和每周简报。数据来自 KDPTop 每天抓取的畅销榜、新品榜和搜索数据，每份报告写明样本和数据区间，并附 CSV。
 
 ## Reports / 报告
 
-| Report | Data window | English | 中文 | Data |
-|---|---|---|---|---|
-| The first report is being prepared. | | | | |
+| Report | Type | Data window | Version | English | 中文 | Data |
+|---|---|---|---|---|---|---|
+| The first report is being prepared. | | | | | | |
 
-Web versions: https://kdptop.com/research/ (中文：https://kdptop.com/research/zh/). Method: [methodology.md](methodology.md).
+## Weekly briefs / 每周简报
+
+| Week | English | 中文 |
+|---|---|---|
+| 2026-W46 | [Amazon KDP Week 46: 28,346 New Best Sellers](weekly/2026-W46.md) |  |
+| 2026-W45 | [Amazon KDP Week 2026-W45: 75,541 New Breakouts](weekly/2026-W45.md) | [2026-W45 KDP 周报：34,435 本新书冲进亚马逊畅销榜](weekly/2026-W45.zh.md) |
+
+Web versions: https://kdptop.com/research/ (中文：https://kdptop.com/research/zh/). How the numbers are made: [methodology.md](methodology.md) (https://kdptop.com/research/methodology/).
+
+## Versions / 版本
+
+Reports are refreshed at the same URL when newer data arrives. Each published version is tagged `{slug}-v{n}` in this repository, so a citation can point at the exact numbers it quoted.
+
+报告有新数据时在同一网址更新，每个发布的版本在本仓库打上 `{slug}-v{n}` 标签，引用时可以指向当时的数字。
 
 ## License / 许可
 
@@ -20,4 +33,4 @@ Text and data: CC BY 4.0 ([LICENSE](LICENSE)). Quote and reuse freely with the a
 
 ## Cite / 引用
 
-See [CITATION.cff](CITATION.cff), or: `KDPTop Research (year). Report title. URL`.
+See [CITATION.cff](CITATION.cff), or each report's "Cite this report" section: `KDPTop Research (year). Report title. Version n, date. URL`.
