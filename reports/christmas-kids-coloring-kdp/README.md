@@ -2,12 +2,12 @@
 
 > Source: KDPTop Research, KDPTop (kdptop.com). Original: https://kdptop.com/research/niches/christmas-kids-coloring-kdp/
 
-中文版: [README.zh.md](README.zh.md) · Version 1 (2026-11-09) · [Methodology](../../methodology.md)
+中文版: [README.zh.md](README.zh.md) · Version 2 (2026-11-09) · [Methodology](../../methodology.md)
 
 **Data window**: Oct 27, 2026 – Nov 8, 2026  
 **Sample**: 257 books in this niche on Amazon.com lists
 
-Christmas kids coloring scores 77/100, ranking 5th of 1,612 niches, with 219 estimated daily sales and a median of 4 reviews.
+Christmas kids coloring has 257 books and estimated daily sales of 219. It scores 77 and ranks 5 of 1612 markets, with a median of just 4 reviews.
 
 | Books on the lists | Median reviews | Niche score rank |
 |---|---|---|
@@ -15,19 +15,19 @@ Christmas kids coloring scores 77/100, ranking 5th of 1,612 niches, with 219 est
 
 ## Key findings
 
-1. Christmas kids coloring ranked 5th among 1,612 KDP niches as of November 8, 2026, with a niche score of 77 and 219 estimated daily sales.
-2. Amazon.com Christmas kids coloring lists contained 257 books as of November 8, 2026, including 91 Best Sellers and 192 New Releases list appearances.
-3. The Christmas kids coloring niche had a median of 4 reviews, while 214 of 252 sampled books had fewer than 10 reviews as of November 8, 2026.
-4. The search term christmas coloring book recorded 24,240 Amazon searches and 2,628 purchases in the supplied search data, making it the leading term for the Christmas coloring market.
-5. Christmas kids coloring demand peaks in December, with September through October identified as the publishing window for the seasonal market.
+1. Christmas kids coloring ranks 5 of 1612 niches as of November 8, 2026. It has a niche score of 77 and 257 books across Amazon Best Sellers and New Releases lists.
+2. The Amazon search term "christmas coloring book" records 24240 searches and 2628 purchases. December is the peak month for demand.
+3. The Christmas kids coloring sample has a median of 0 reviews, and 92.9% of sampled books have fewer than 50 reviews. This points to a relatively low review barrier for new publishers.
+4. Independently published books account for 85.0% of the Christmas kids coloring niche. A further 73.1% of sampled books were published within the last year.
+5. Christmas kids coloring for ages 6-8 scores 73 across 125 books. The segment has a median of just 2 reviews and a median price of $9.99.
 
 ## How big is the niche
 
-Christmas kids coloring has 257 books across the current Best Sellers and New Releases lists, comprising 256 print books and 1 Kindle eBook. The lists include 91 Best Sellers and 192 New Releases appearances. Estimated daily sales are 219 units, giving the niche a score of 77 out of 100 and a rank of 5th among 1,612 niches.
+Christmas kids coloring covers 257 books across Amazon Best Sellers and New Releases lists, comprising 91 Best Sellers and 192 New Releases. The market is almost entirely print-based, with 256 print books and 1 Kindle eBook. Estimated daily sales reach 219 units, pointing to substantial seasonal demand across the niche.
 
-The sample covers 252 books, with sales estimates available for 249. The overall niche score reflects strong demand, a low review barrier and new-release inflow, although the estimated sales are concentrated among relatively few titles.
+The niche scores 77 out of 100 and ranks 5 of 1612 niches. Its score reflects strong estimated demand, relatively few reviews among competing books, a steady flow of new releases and a high indie share. The KDP feasibility score is 94.6%, indicating that most products in the market are suitable for independent print publishing.
 
-![Books on Best Sellers, day by day](https://kdptop.com/research/img/christmas-kids-coloring-kdp/20261109041710/history-en.webp)
+![Books on Best Sellers, day by day](https://kdptop.com/research/img/christmas-kids-coloring-kdp/20261109042813/history-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -42,9 +42,9 @@ The sample covers 252 books, with sales estimates available for 249. The overall
 
 ## Search demand and timing
 
-The main search term, christmas coloring book, recorded 24,240 searches and 2,628 purchases. The narrower term christmas coloring book for kids recorded 3,127 searches and 321 purchases, providing a more directly relevant demand signal for children's publishers. Demand peaks in December. The indicated publishing window is September through October, allowing books to accumulate rankings and reviews before the seasonal peak.
+The main Amazon search term, "christmas coloring book", records 24240 searches and 2628 purchases. The more specific term "christmas coloring book for kids" records 3127 searches and 321 purchases, with 6313 competing products. Demand peaks in December, and the recommended publishing window is September through October. Since the data ends November 8, 2026, publishers have already missed the recommended launch window for the current season and have less time to reach buyers before peak demand.
 
-![Search interest by month](https://kdptop.com/research/img/christmas-kids-coloring-kdp/20261109041710/season-en.webp)
+![Search interest by month](https://kdptop.com/research/img/christmas-kids-coloring-kdp/20261109042813/season-en.webp)
 
 | Search term | Monthly searches | Monthly purchases | Competing products | Average price |
 |---|---|---|---|---|
@@ -61,13 +61,13 @@ The main search term, christmas coloring book, recorded 24,240 searches and 2,62
 
 ## Competition and the review barrier
 
-The sampled books have a median of 0 reviews, and 214 of 252 have fewer than 10 reviews. A total of 92.9% have fewer than 50 reviews, while the niche-level median review count is 4. This is a low review barrier, with 236 sampled books estimated to sell fewer than 30 copies monthly and only 3 in the 100-or-more monthly sales bands. The 100–300 band contains 2 books and the 1,000+ band contains 1.
+The 252-book sample has a median review count of 0. Most competing books have very few reviews: 213 have fewer than 10, 21 have 10–50, 8 have 50–100, 9 have 100–500, and 1 has more than 500. Overall, 92.9% of sampled books have fewer than 50 reviews. However, only 1.2% sell more than 100 copies per month. Monthly sales break down as follows: 235 books sell fewer than 30 units, 10 fall in the 30–100 band, 2 in the 100–300 band and 1 in the 1,000+ band.
 
-Independently published books account for 89.7% of the sample, while 74.8% were published in the last year. The niche-level indie share is 85.0%. These figures indicate active independent-publisher participation and substantial recent inflow. The combination of low reviews and recent releases makes entry accessible, but the monthly sales distribution shows that low review counts do not guarantee meaningful sales.
+Independently published books account for 89.7% of the sample, compared with 85.0% across the wider niche statistics. New publishing activity is also high: 73.1% of sampled books were published within the last year. Low review counts and a steady flow of new titles make the market accessible to new publishers. The sales figures, however, show that most competing books generate limited monthly volume.
 
-![How many reviews the books have](https://kdptop.com/research/img/christmas-kids-coloring-kdp/20261109041710/reviews-en.webp)
+![How many reviews the books have](https://kdptop.com/research/img/christmas-kids-coloring-kdp/20261109042813/reviews-en.webp)
 
-![Estimated monthly sales per book](https://kdptop.com/research/img/christmas-kids-coloring-kdp/20261109041710/units-en.webp)
+![Estimated monthly sales per book](https://kdptop.com/research/img/christmas-kids-coloring-kdp/20261109042813/units-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -76,13 +76,13 @@ Independently published books account for 89.7% of the sample, while 74.8% were 
 | Median est. monthly sales | 6 |
 | Books selling 100+ a month (est.) | 1.2% |
 | Independently published | 89.7% |
-| Published in the last 12 months | 74.8% |
+| Published in the last 12 months | 73.1% |
 
 ## Price, page count and trim size
 
-The median price is $9.99, with the 25th percentile at $9.95 and the 75th percentile at $9.99. Most sampled books fall in the $8–$10 band, containing 166 titles. The median book has 84 pages. The most common recorded trim size is 8.5x10.98, with 82 books, followed by 8.5x8.5 with 22 books. The data supports a mainstream price position around $9.99 and a standard children's coloring-book format.
+The median price is $9.99, and the middle 50% of prices fall between $9.95 and $9.99. The largest price band is $8–$10, with 165 books, followed by 44 books priced at $5–$8. The median book has 84 pages. The most common trim size is 8.5x10.98, used by 82 books, followed by 8.5x8.5 on 22 books. Most books in the sample are priced close to $9.99 and use larger coloring-book formats.
 
-![Price distribution](https://kdptop.com/research/img/christmas-kids-coloring-kdp/20261109041710/prices-en.webp)
+![Price distribution](https://kdptop.com/research/img/christmas-kids-coloring-kdp/20261109042813/prices-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -95,7 +95,7 @@ The median price is $9.99, with the 25th percentile at $9.95 and the 75th percen
 
 ## Best-selling books in the niche
 
-The leading titles vary considerably in format and positioning. Cozy Countdown: An Advent Coloring Book Bundle has 576 pages, a $22.48 price and 2,340 estimated monthly units. Coloring Book for a 5 Year Old Girl: Birthday Gift, Christmas Stocking, or Easter Basket Stuffer has 68 pages and 261 estimated monthly units, while I am 4 and I Sparkle : Coloring Book With Unicorns , Mermaids , Fairies & Princesses Full of Fun & Positive Affirmations: Christmas Valentine Easter Birthday Gifts for Four Year Old Girl has 118 pages and 216 estimated monthly units. Other listed titles include Bluey: Merry Christmas: A Coloring Book and books featuring Santa, reindeer, snowmen and Christmas ornaments. The table suggests that seasonal positioning, recognizable characters and age-specific gift framing can all appear among higher-ranking books, but the leading sales estimates are concentrated in a few titles.
+The leading title, "Cozy Countdown: An Advent Coloring Book Bundle", has 576 pages, a $22.48 price and 121 reviews. Its estimated monthly sales are 2340 units. Other strong performers include "Coloring Book for a 5 Year Old Girl: Birthday Gift, Christmas Stocking, or Easter Basket Stuffer", with 261 estimated monthly units, and "I am 4 and I Sparkle : Coloring Book With Unicorns , Mermaids , Fairies & Princesses Full of Fun & Positive Affirmations: Christmas Valentine Easter Birthday Gifts for Four Year Old Girl", with 216. The sample also includes Christmas-specific titles such as "Christmas Coloring Book For Kids: Cute And Easy Christmas Stocking Stuffer Coloring Book For Kids With Santas, Christmas Trees, Reindeer, Snowmen, Toys And Ornaments (Xmas Coloring Book)". Leading examples range from 24 to 576 pages, reflecting a wide variation in book length and positioning.
 
 | Title | Author | Store | Price | Reviews | Est. sales/mo | Pages | Published | Indie |
 |---|---|---|---|---|---|---|---|---|
@@ -117,7 +117,7 @@ The leading titles vary considerably in format and positioning. Cozy Countdown: 
 
 ## Sub-niches
 
-Christmas kids coloring, ages 6-8 has the strongest narrower opportunity score at 73, with 125 books, a median of 2 reviews and a median price of $9.99. Christmas kids coloring, ages 3-5 scores 69 across 83 books, with a median of 6 reviews. Christmas kids coloring, ages 0-2 scores 68 across 19 books, also with a median of 2 reviews. These age-specific segments combine relatively strong scores with low review barriers. Christmas kids coloring Christian scores 62 across 31 books, while Christmas kids coloring for girls scores 61 across 27 books.
+Christmas kids coloring for ages 6-8 has the strongest combination of niche score and review accessibility. It scores 73 across 125 books, with a median of 2 reviews. Christmas kids coloring for ages 0-2 scores 68 across 19 books and also has a median of 2 reviews. The ages 3-5 segment scores 69 across 83 books, with a median of 6 reviews. Christmas kids coloring for girls scores 61 across 27 books, with a median of 4 reviews. These narrower age and audience segments give publishers more specific positioning options while keeping review barriers relatively low.
 
 | Sub-niche | Books | Median reviews | Median price | Est. daily sales | Score |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@ Christmas kids coloring, ages 6-8 has the strongest narrower opportunity score a
 
 ## Where these books rank
 
-The recorded category opportunities are modest despite the niche's overall score of 77. Around the World has the highest category opportunity score at 31 across 8 books. Painting and Religious each score 30, with 15 and 9 books respectively. Non-religious scores 26 across 10 books, while Coloring Books and Art each score 21, with 15 and 9 books. Around the World, Painting and Religious have the strongest recorded category scores, although their book counts are relatively small.
+The sampled books appear in several Amazon categories. Around the World has 8 books and an opportunity score of 31, the highest among the listed categories. Painting has 15 books and an opportunity score of 30. Religious has 9 books and the same score of 30. Non-religious has 10 books and an opportunity score of 26. Coloring Books has 15 books and an opportunity score of 21, matching Art, which has 9 books and an opportunity score of 21. Based on the supplied data, Around the World, Painting and Religious offer the highest category opportunity scores.
 
 | Category | Store | Niche books | Opportunity score |
 |---|---|---|---|
@@ -146,27 +146,27 @@ The recorded category opportunities are modest despite the niche's overall score
 
 ## Should you publish in this niche?
 
-Christmas kids coloring is a strong seasonal niche for independent publishers, with a score of 77, a rank of 5th out of 1,612 niches and an indie share of 89.7% in the sample. The clearest entry point is an age-specific product, particularly Christmas kids coloring, ages 6-8, which scores 73 with a median of just 2 reviews. The ages 0-2 segment also has a low median review count of 2, although its sample contains only 19 books.
+Christmas kids coloring is a promising seasonal niche for independent publishers. It scores 77, ranks 5 of 1612 and has an indie share of 85.0%. The median review count is low, while the ages 6-8 segment scores 73 with only 2 median reviews. Publishers who focus on a defined age group have a measurable entry opportunity, particularly when the subject and format fit established demand for children's coloring books. The $9.99 median price also gives publishers a useful reference for pricing their products.
 
-The main constraint is sales concentration. Although 92.9% of sampled books have fewer than 50 reviews, only 1.2% sell 100 or more copies monthly. December is the peak month, and the September-to-October publishing window means publishers assessing the niche for the current season are already working close to peak demand as of November 8, 2026. The opportunity is better suited to publishers who can develop a clearly differentiated children's format and plan ahead for the next seasonal cycle than to publishers relying on low competition alone.
+Timing is the main constraint. Demand peaks in December, and the recommended publishing window is September through October. As of November 8, 2026, publishers planning to enter this season have missed the preferred launch period. Sales are also unevenly distributed: 92.9% of books have fewer than 50 reviews, but only 1.2% achieve more than 100 monthly sales. This niche is better suited to publishers who plan seasonal releases well ahead of peak demand and give their books a clear focus by age group or subject. Low review counts make entry easier, but they do not guarantee strong sales.
 
 ## FAQ
 
-### How competitive is the Christmas kids coloring book niche on Amazon KDP?
+### How many Christmas kids coloring books are on Amazon?
 
-The niche contains 257 books and has a median of 4 reviews. In the 252-book sample, 214 titles have fewer than 10 reviews and 92.9% have fewer than 50 reviews, indicating a relatively low review barrier.
+The Christmas kids coloring niche contains 257 books, including 91 on Best Sellers lists and 192 on New Releases lists. The market is almost entirely print-based, with 256 print books and 1 Kindle eBook.
 
-### How many Christmas coloring books for kids sell on Amazon?
+### Is Christmas kids coloring a profitable KDP niche?
 
-The niche has 219 estimated daily sales across its lists. Among 252 sampled books, 249 have sales estimates, and 3 are in the monthly sales bands above 100 units.
+The niche has estimated daily sales of 219 and scores 77, ranking 5 of 1612 niches. However, only 1.2% of sampled books sell more than 100 copies per month. Most sales are concentrated among a small number of titles.
 
-### What is the best age group for a Christmas kids coloring book?
+### How many reviews do competing Christmas kids coloring books have?
 
-Christmas kids coloring, ages 6-8 has the highest narrower-subniche score at 73, with 125 books and a median of 2 reviews. Christmas kids coloring, ages 0-2 scores 68, with 19 books and the same median review count.
+The median review count across the 252-book sample is 0. A total of 92.9% have fewer than 50 reviews, and 213 books have fewer than 10 reviews. This indicates a relatively low review barrier for new publishers.
 
-### When should I publish a Christmas coloring book on Amazon KDP?
+### When should publishers release Christmas coloring books for kids?
 
-December is the peak month for Christmas kids coloring, and the indicated publishing window is September through October. Publishing during that window gives a new title time to build rankings and reviews before peak seasonal demand.
+December is the peak demand month, and the recommended publishing window is September through October. The main search term, "christmas coloring book", records 24240 searches and 2628 purchases, supporting a launch ahead of the holiday season.
 
 ## Method and limits
 
@@ -180,6 +180,7 @@ Definitions used in this report: [Niche](../../methodology.md#niche), [Niche sco
 
 ## Version history
 
+- v2 · 2026-11-09 · Data refreshed to 2026-11-08
 - v1 · 2026-11-09 · First published
 
 ## Download the data
@@ -193,7 +194,7 @@ Definitions used in this report: [Niche](../../methodology.md#niche), [Niche sco
 ## Cite this report
 
 ```
-KDPTop Research (2026). Christmas kids coloring on Amazon KDP: Market Size, Competition and Prices (November 2026). Version 1, 2026-11-09. https://kdptop.com/research/niches/christmas-kids-coloring-kdp/
+KDPTop Research (2026). Christmas kids coloring on Amazon KDP: Market Size, Competition and Prices (November 2026). Version 2, 2026-11-09. https://kdptop.com/research/niches/christmas-kids-coloring-kdp/
 ```
 
 Text and data are released under CC BY 4.0: quote freely with "Source: KDPTop (kdptop.com)" and a link.
