@@ -1,0 +1,10 @@
+product_type,holiday,audience,age_band,books,on_best_sellers,median_reviews,median_price,est_daily_sales,score
+coloring,christmas,,6-8,125,31,2,9.99,18,73
+coloring,christmas,,3-5,83,31,6,9.99,41,69
+coloring,christmas,,0-2,19,7,2,9.99,3,68
+coloring,christmas,christians,,31,10,6,9.99,4,62
+coloring,christmas,girls,,27,14,4,9.99,15,61
+coloring,christmas,,9-12,14,8,6,9.99,155,56
+coloring,christmas,parents,,11,3,6,9.99,1,54
+coloring,christmas,boys,,22,13,4,9.99,2,54
+coloring,christmas,stress_relief,,15,11,6,9.99,2,49
