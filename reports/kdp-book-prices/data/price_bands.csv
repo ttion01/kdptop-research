@@ -1,0 +1,12 @@
+store,band,books,share_pct,median_est_monthly_units
+books,under $7,34733,12.1,9
+books,$7–$10,42262,14.7,8
+books,$10–$15,68356,23.8,7
+books,$15–$20,53864,18.8,6
+books,$20–$30,40591,14.1,6
+books,$30+,47347,16.5,5
+kindle,under $1,14115,6.4,9
+kindle,$1–$2.99,8616,3.9,6
+kindle,$2.99–$5,63813,28.8,6
+kindle,$5–$10,76835,34.7,6
+kindle,$10+,58205,26.3,6

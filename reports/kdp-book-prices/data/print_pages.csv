@@ -1,0 +1,7 @@
+pages,books,median_price,median_est_monthly_units
+under 50 pages,16508,9.99,15
+50-99 pages,12636,11.99,9
+100-149 pages,20969,12.99,9
+150-249 pages,30064,15.95,9
+250-399 pages,32127,17.48,11
+400+ pages,21105,24.99,10
