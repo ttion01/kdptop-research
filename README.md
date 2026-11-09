@@ -9,6 +9,7 @@ Data reports on the Amazon KDP book market — monthly market reports, niche and
 | Report | Type | Data window | Version | English | 中文 | Data |
 |---|---|---|---|---|---|---|
 | [Winter adult coloring on Amazon KDP: Market Size, Competition and Prices (November 2026)](https://kdptop.com/research/niches/winter-adult-coloring-kdp/) | Niche report | 2026-10-27 – 2026-11-08 | v1 | [README](reports/winter-adult-coloring-kdp/README.md) | [README.zh](reports/winter-adult-coloring-kdp/README.zh.md) | [CSV](reports/winter-adult-coloring-kdp/data/) |
+| [Kids coloring on Amazon KDP: Market Size, Competition and Prices (November 2026)](https://kdptop.com/research/niches/kids-coloring-kdp/) | Niche report | 2026-10-27 – 2026-11-08 | v1 | [README](reports/kids-coloring-kdp/README.md) | [README.zh](reports/kids-coloring-kdp/README.zh.md) | [CSV](reports/kids-coloring-kdp/data/) |
 
 ## Weekly briefs / 每周简报
 
