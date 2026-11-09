@@ -2,12 +2,12 @@
 
 > Source: KDPTop Research, KDPTop (kdptop.com). Original: https://kdptop.com/research/niches/kids-coloring-kdp/
 
-中文版: [README.zh.md](README.zh.md) · Version 1 (2026-11-09) · [Methodology](../../methodology.md)
+中文版: [README.zh.md](README.zh.md) · Version 2 (2026-11-09) · [Methodology](../../methodology.md)
 
 **Data window**: Oct 27, 2026 – Nov 8, 2026  
 **Sample**: 4,203 books in this niche on Amazon.com lists
 
-Kids coloring ranks 1 of 1,612 KDP niches, with 2,175 estimated daily sales, a 4-review median and 82.1% indie share across 4,203 books.
+Kids coloring ranks 1 of 1612 Amazon KDP niches, with 2175 estimated daily sales. The market has a low review barrier, with opportunities in specific age groups and holiday themes.
 
 | Books on the lists | Median reviews | Niche score rank |
 |---|---|---|
@@ -15,19 +15,19 @@ Kids coloring ranks 1 of 1,612 KDP niches, with 2,175 estimated daily sales, a 4
 
 ## Key findings
 
-1. Kids coloring ranked 1 of 1,612 Amazon KDP niches as of November 8, 2026, with a niche score of 81 and 4,203 books across Best Sellers and New Releases lists.
-2. Amazon search demand for kids coloring themes includes 92,401 searches for "halloween coloring book" and 24,240 searches for "christmas coloring book" in the measured period.
-3. The kids coloring market has a low review barrier: 3,465 books have fewer than 10 reviews, and the sample has a median of 4 reviews.
-4. Independently published books account for 82.1% of the kids coloring niche, while 62.6% of sampled books were published in the last year.
-5. Kids coloring, ages 6-8, scored 80 with 3 median reviews across 1,956 books, making it the highest-scoring age-specific sub-niche in the data.
+1. Kids coloring ranked 1 of 1612 niches as of November 8, 2026, with a niche score of 81 and 2175 estimated daily sales across 4203 books.
+2. Halloween coloring book had the strongest Amazon search demand among kids coloring-related terms, recording 92401 searches and 14442 purchases during the measured period.
+3. The review barrier in Kids coloring was low as of November 8, 2026. The niche median was 4 reviews, and 3440 books in the sample had fewer than 10 reviews.
+4. Independently published books accounted for 82.1% of the Kids coloring niche as of November 8, 2026. In the sample, 62.8% of books were published within the last year.
+5. Kids coloring, ages 6-8 scored 80 across 1956 books, with a median of 3 reviews. Kids coloring Christian scored 77 across 302 books, also with a median of 3 reviews.
 
 ## How big is the niche
 
-Kids coloring covers 4,203 books across Amazon Best Sellers and New Releases lists, including 1,789 Best Sellers and 2,725 New Releases. Print books account for 4,159 listings, compared with 44 Kindle eBooks. Estimated daily sales are 2,175 units across the niche, indicating substantial existing purchasing activity across a broad range of themes.
+Kids coloring covers 4203 books across current Amazon Best Sellers and New Releases lists. These include 1789 Best Sellers and 2725 New Releases entries. Print books account for 4159 listings, compared with 44 Kindle eBooks. Estimated daily sales total 2175 units. The niche scores 81, placing it 1 of 1612 niches in the dataset.
 
-The niche scores 81 out of 100 and ranks 1 of 1,612 niches. Its score reflects strong estimated demand, a low review barrier, new-release inflow and a high indie share. The sample also contains 311 breakouts and 319 newcomers, suggesting that the market continues to produce new opportunities alongside established titles.
+Physical books account for most of the market, and 95.9% of the niche is considered feasible for KDP printing. The 311 breakouts and 319 newcomers show continued movement in the rankings. With 4203 books already competing, new releases will need a clearly defined audience or theme to establish a position in the market.
 
-![Books on Best Sellers, day by day](https://kdptop.com/research/img/kids-coloring-kdp/20261109041711/history-en.webp)
+![Books on Best Sellers, day by day](https://kdptop.com/research/img/kids-coloring-kdp/20261109042615/history-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -42,7 +42,7 @@ The niche scores 81 out of 100 and ranks 1 of 1,612 niches. Its score reflects s
 
 ## Search demand
 
-Amazon search data shows particularly strong seasonal interest, led by "halloween coloring book" with 92,401 searches and 14,442 purchases, followed by "christmas coloring book" with 24,240 searches and 2,628 purchases. "harry potter coloring book" generated 15,244 searches and 1,785 purchases from 346 competing products. "bible coloring book" recorded 7,898 searches and 971 purchases. These figures show that specific themes and recognizable subjects attract measurable demand, although the main search term for the overall niche is not available.
+Seasonal and character-related terms generate the strongest Amazon search demand in this niche. Halloween coloring book leads with 92401 searches and 14442 purchases, followed by christmas coloring book with 24240 searches and 2628 purchases. Harry potter coloring book recorded 15244 searches and 1785 purchases, while bible coloring book recorded 7898 searches and 971 purchases. The available data does not point to one dominant search term or a clear seasonal peak for the broader niche. Publishers should choose keywords that match the intended audience and subject of each book.
 
 | Search term | Monthly searches | Monthly purchases | Competing products | Average price |
 |---|---|---|---|---|
@@ -59,28 +59,28 @@ Amazon search data shows particularly strong seasonal interest, led by "hallowee
 
 ## Competition and the review barrier
 
-The review distribution shows a low entry barrier across much of the market. Of the sampled books, 3,465 have fewer than 10 reviews, while 357 have 10–50, 109 have 50–100, 148 have 100–500 and 113 have 500+ reviews. The sample median is 0.0 reviews, compared with a niche-level median of 4. Under 50 reviews account for 91.2% of the sample, so most competing listings have limited review histories.
+Review counts are low across much of the market. The niche median is 4 reviews, while the sample median is 0 reviews. The distribution includes 3440 books with fewer than 10 reviews, 360 with 10–50, 111 with 50–100, 149 with 100–500 and 113 with 500+. In the sample, 91.1% of books have fewer than 50 reviews. This suggests that new publishers can enter many parts of the market without competing against large review counts, although a low review count does not guarantee sales.
 
-Monthly sales estimates show 3,859 books selling under 30 units, 169 selling 30–100, 58 selling 100–300, 20 selling 300–1,000 and 8 selling 1,000+ units. The niche-level indie share is 82.1%, while the sampled-book indie share is 89.8%. Independently published books therefore have a substantial presence. Another 62.6% of sampled books were published in the last year, indicating consistent new-release activity. However, the 2.1% sample share selling 100+ units monthly shows that meaningful sales remain concentrated in a relatively small part of the market.
+Only 2.1% of sampled books sell 100+ copies monthly. The monthly sales bands include 58 books at 100–300 units, 20 at 300–1,000 and 8 at 1,000+. Independently published books account for 82.1% of the niche and 89.7% of the sample. Recent releases also make up a substantial share of the sample, with 62.8% published within the last year. Competition remains active across a large number of titles, but relatively few books reach substantial monthly sales.
 
-![How many reviews the books have](https://kdptop.com/research/img/kids-coloring-kdp/20261109041711/reviews-en.webp)
+![How many reviews the books have](https://kdptop.com/research/img/kids-coloring-kdp/20261109042615/reviews-en.webp)
 
-![Estimated monthly sales per book](https://kdptop.com/research/img/kids-coloring-kdp/20261109041711/units-en.webp)
+![Estimated monthly sales per book](https://kdptop.com/research/img/kids-coloring-kdp/20261109042615/units-en.webp)
 
 | Metric | Value |
 |---|---|
 | Median reviews | 0 |
-| Books with under 50 reviews | 91.2% |
+| Books with under 50 reviews | 91.1% |
 | Median est. monthly sales | 5 |
 | Books selling 100+ a month (est.) | 2.1% |
-| Independently published | 89.8% |
-| Published in the last 12 months | 62.6% |
+| Independently published | 89.7% |
+| Published in the last 12 months | 62.8% |
 
 ## Price, page count and trim size
 
-The median price is $9.99, with the 25th percentile at $8.99 and the 75th percentile at $9.99. The largest price band is $8–$10, containing 2,308 books, followed by $5–$8 with 788 books and $10–$13 with 722. Median length is 80 pages. The most common recorded trim size is 8.5x10.98, with 1,230 books, followed by 8.5x8.5 with 256 and 5.98x9.02 with 24. The data points to a market centered on affordable print editions around the $9.99 median.
+The median price is $9.99, with a P25 of $8.99 and a P75 of $9.99. Most sampled books fall within the $8–$10 price band, which contains 2293 books. Median length is 80 pages. The most common listed trim size is 8.5x10.98, used by 1230 books, followed by 8.5x8.5 with 256 books and 5.98x9.02 with 24 books. These figures point to a market centered on standard children's coloring-book formats, with a median price of $9.99.
 
-![Price distribution](https://kdptop.com/research/img/kids-coloring-kdp/20261109041711/prices-en.webp)
+![Price distribution](https://kdptop.com/research/img/kids-coloring-kdp/20261109042615/prices-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -93,7 +93,7 @@ The median price is $9.99, with the 25th percentile at $8.99 and the 75th percen
 
 ## Best-selling books in the niche
 
-The top-selling books combine substantial page counts, recognizable themes or established children's properties, and estimated monthly sales ranging from 690 to 5,610 units. My First BIG Toddler Coloring Book with 128 Perforated Pages of Fun Coloring Scenes Including Animals, Unicorns, Dinosaurs, Mermaids, Castles, Trucks, and More! (Start Little Learn Big Series) leads with 5,610 estimated monthly units at $5.99 and 128 pages. Big Book of Colouring: Animals: For Children Ages 4+ (Big Books of Colouring (Ages 4+)) has 2,610 estimated monthly units, 127 pages and a $7.99 price. Seasonal packaging also appears in Cozy Countdown: An Advent Coloring Book Bundle, with 576 pages, a $22.48 price and 2,340 estimated monthly units. Bluey and KPop Demon Hunters titles also appear among the leading books, showing the presence of licensed properties in the top-selling group.
+The highest-selling books tend to focus on familiar subjects and established series or character brands, with substantial coloring content. My First BIG Toddler Coloring Book with 128 Perforated Pages of Fun Coloring Scenes Including Animals, Unicorns, Dinosaurs, Mermaids, Castles, Trucks, and More! (Start Little Learn Big Series) leads with 5610 estimated monthly units at $5.99 and 128 pages. Big Book of Colouring: Animals: For Children Ages 4+ (Big Books of Colouring (Ages 4+)) records 2610 estimated monthly units, 127 pages and 2072 reviews. Licensed titles also hold prominent positions. Bluey: Hooray, It's Halloween!: A Coloring Book records 1710 estimated monthly units, while KPop Demon Hunters 40-Page Official Coloring Book | Action-Packed Coloring Book by Bendon records 1380. The top 10 include one independently published title: Toddler's Head Start Educational Coloring Book Ages 1-3: Over 100 Pages | Learn Colors, Words, ABCs, Numbers, Foods, Objects, Cute Animals, with 1140 estimated monthly units.
 
 | Title | Author | Store | Price | Reviews | Est. sales/mo | Pages | Published | Indie |
 |---|---|---|---|---|---|---|---|---|
@@ -115,7 +115,7 @@ The top-selling books combine substantial page counts, recognizable themes or es
 
 ## Sub-niches
 
-Kids coloring, ages 6-8, leads the narrower markets with a score of 80, 1,956 books and 3 median reviews. Kids coloring, ages 3-5, scores 78 across 1,174 books with 4 median reviews. Kids coloring Christian scores 77 with 302 books and 3 median reviews, while Christmas kids coloring also scores 77 across 257 books with 4 median reviews. Winter kids coloring scores 73 with 113 books and 3 median reviews. These segments combine relatively high opportunity scores with low existing review counts, making them relevant areas for publishers assessing narrower positioning. Halloween kids coloring has 91 books, 7 median reviews and a score of 70.
+Kids coloring, ages 6-8 leads the narrower segments with a score of 80, 1956 books and a median of 3 reviews. Kids coloring, ages 3-5 scores 78 across 1174 books, with a median of 4 reviews. Christmas kids coloring scores 77 across 257 books, with 4 median reviews. Kids coloring Christian also scores 77, with 302 books and 3 median reviews. Winter kids coloring scores 73 across 113 books, with 3 median reviews. These segments offer relatively high opportunity scores alongside low review counts, particularly the Christian and winter themes. Halloween kids coloring scores 70 across 91 books, with a median of 7 reviews.
 
 | Sub-niche | Books | Median reviews | Median price | Est. daily sales | Score |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@ Kids coloring, ages 6-8, leads the narrower markets with a score of 80, 1,956 bo
 
 ## Where these books rank
 
-The listed Amazon categories include Painting, with 107 books and an opportunity score of 30, and Construction Vehicles, with 85 books and a score of 34. Coloring Books contains 84 books and scores 21, while Cartooning has 71 books and scores 27. Buses has 56 books and an opportunity score of 23, and Colors has 46 books with a score of 21. Construction Vehicles has the highest opportunity score among these listed categories, although the category data covers only a selection of the 1,331 categories represented in the niche.
+The listed Amazon categories include Painting, with 107 books and an opportunity score of 30; Construction Vehicles, with 85 books and a score of 34; Coloring Books, with 84 books and a score of 21; Cartooning, with 71 books and a score of 27; Buses, with 56 books and a score of 23; and Colors, with 46 books and a score of 21. Construction Vehicles has the highest opportunity score among these categories, while Painting has the most books. Publishers should select categories that match the actual subject of their books and use the scores as an additional indicator of relative opportunity.
 
 | Category | Store | Niche books | Opportunity score |
 |---|---|---|---|
@@ -145,31 +145,31 @@ The listed Amazon categories include Painting, with 107 books and an opportunity
 
 ## Should you publish in this niche?
 
-Kids coloring is a strong candidate for independent publishers based on its score of 81, rank of 1 among 1,612 niches and 82.1% indie share. The low review barrier is particularly relevant: the niche has a median of 4 reviews, and 91.2% of the sample has fewer than 50 reviews. Publishers targeting ages 6-8, ages 3-5 or Christian coloring can investigate segments with scores of 77–80 and median reviews of 3–4. The data supports a market where new independent listings can compete for visibility without first matching the review histories of established titles.
+Kids coloring offers a strong opportunity for independent publishers who focus on a specific age group, subject or seasonal theme. The niche scores 81 and ranks first among 1612 niches, with 2175 estimated daily sales, an 82.1% indie share and a median review count of 4. Kids coloring, ages 6-8, Kids coloring Christian and Christmas kids coloring are among the stronger narrower segments. Low review counts leave room for new titles to compete in established search results. The fact that 62.8% of sampled books were published within the last year also shows that new releases account for a substantial share of the market.
 
-The main constraint is sales concentration. Only 2.1% of sampled books sell an estimated 100+ units monthly, while 3,859 books sell under 30 units. The leading books also include established licensed properties and titles with substantial review histories, so their sales should not be treated as a typical launch outcome. The $9.99 median price and 80-page median provide useful market reference points, but the category and theme choices matter. Seasonal timing cannot be established from this dataset because the seasonal peak month and launch window are unavailable. Publishers should also account for the fact that 95.9% of the niche is considered KDP-feasible, meaning the market data includes some products that may not translate directly into printable KDP books.
+The main limitation is the difference between overall market activity and individual book performance. Only 2.1% of sampled books sell 100+ copies monthly. Established brands and licensed properties hold several of the top-selling positions, so independent publishers should be cautious about using those sales figures as a benchmark for general coloring themes. The available data does not establish a single seasonal peak or launch window for the overall niche. Before developing a general-purpose title, publishers should assess demand for narrower keywords and audiences. They should also account for the fact that most competing books are physical print products.
 
 ## FAQ
 
-### How many kids coloring books are on Amazon KDP?
+### Is kids coloring a profitable niche on Amazon KDP?
 
-The kids coloring niche contains 4,203 books across Amazon Best Sellers and New Releases lists. The dataset records 1,789 Best Sellers and 2,725 New Releases, with 4,159 print books and 44 Kindle eBooks.
+Kids coloring records 2175 estimated daily sales across 4203 books and scores 81, ranking 1 of 1612 niches. However, only 2.1% of sampled books sell 100+ copies monthly. The overall demand is strong, but individual title sales vary considerably.
 
-### How much do kids coloring books sell on Amazon?
+### How competitive is the kids coloring book market?
 
-Estimated daily sales across the niche are 2,175 units. In the sampled listings, 58 books sell an estimated 100–300 units monthly, 20 sell 300–1,000 and 8 sell 1,000+.
+The niche median is 4 reviews, and 3440 sampled books have fewer than 10 reviews. In the sample, 91.1% of books have fewer than 50 reviews. This indicates a relatively low review barrier for new publishers entering the market.
 
-### How many reviews do you need to compete in kids coloring books?
+### What is the average price of a kids coloring book on Amazon?
 
-The niche has a median of 4 reviews, and 3,465 sampled books have fewer than 10 reviews. Another 91.2% of the sample has fewer than 50 reviews, indicating a relatively low review barrier for new listings.
+The median price is $9.99, with a P25 of $8.99 and a P75 of $9.99. Median length is 80 pages. The most common listed trim size is 8.5x10.98, appearing on 1230 books.
 
-### What is the best kids coloring book niche to publish?
+### Which kids coloring sub-niches have the best KDP opportunities?
 
-Kids coloring, ages 6-8, has the highest score among the listed sub-niches at 80, with 1,956 books and 3 median reviews. Kids coloring, ages 3-5, scores 78 with 1,174 books, while Kids coloring Christian scores 77 with 302 books and 3 median reviews.
+Kids coloring, ages 6-8 scores 80 across 1956 books, with a median of 3 reviews. Kids coloring Christian scores 77 across 302 books, with 3 median reviews. Christmas kids coloring also scores 77, with 257 books and 4 median reviews.
 
 ## Method and limits
 
-The niche's books are those on an Amazon.com Best Sellers or New Releases list in the three days to 2026-11-08 whose AI classification falls in this niche: 4,203 books. The review, sales and price distributions use the 4,192 of them KDPTop has full details for; sales are estimated from sales rank.
+The niche's books are those on an Amazon.com Best Sellers or New Releases list in the three days to 2026-11-08 whose AI classification falls in this niche: 4,203 books. The review, sales and price distributions use the 4,173 of them KDPTop has full details for; sales are estimated from sales rank.
 
 List data comes from KDPTop's daily crawl of every Amazon.com Books and Kindle Best Sellers and New Releases list; book details come from the list cards, book pages and Keepa; search volumes come from a third-party keyword tool and are estimates. Adult content categories are excluded.
 
@@ -179,6 +179,7 @@ Definitions used in this report: [Niche](../../methodology.md#niche), [Niche sco
 
 ## Version history
 
+- v2 · 2026-11-09 · Data refreshed to 2026-11-08
 - v1 · 2026-11-09 · First published
 
 ## Download the data
@@ -192,7 +193,7 @@ Definitions used in this report: [Niche](../../methodology.md#niche), [Niche sco
 ## Cite this report
 
 ```
-KDPTop Research (2026). Kids coloring on Amazon KDP: Market Size, Competition and Prices (November 2026). Version 1, 2026-11-09. https://kdptop.com/research/niches/kids-coloring-kdp/
+KDPTop Research (2026). Kids coloring on Amazon KDP: Market Size, Competition and Prices (November 2026). Version 2, 2026-11-09. https://kdptop.com/research/niches/kids-coloring-kdp/
 ```
 
 Text and data are released under CC BY 4.0: quote freely with "Source: KDPTop (kdptop.com)" and a link.
