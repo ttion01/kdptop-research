@@ -2,12 +2,12 @@
 
 > Source: KDPTop Research, KDPTop (kdptop.com). Original: https://kdptop.com/research/niches/winter-adult-coloring-kdp/
 
-中文版: [README.zh.md](README.zh.md) · Version 1 (2026-11-09) · [Methodology](../../methodology.md)
+中文版: [README.zh.md](README.zh.md) · Version 2 (2026-11-09) · [Methodology](../../methodology.md)
 
 **Data window**: Oct 27, 2026 – Nov 8, 2026  
 **Sample**: 240 books in this niche on Amazon.com lists
 
-Winter adult coloring ranks 8th of 1,612 KDP niches, with 223 estimated daily sales, a $9.99 median price and a January demand peak for publishers.
+Winter adult coloring ranks 8th among 1,612 niches, with 223 estimated daily sales, an 85.3% indie share and a median of 10 reviews.
 
 | Books on the lists | Median reviews | Niche score rank |
 |---|---|---|
@@ -15,19 +15,17 @@ Winter adult coloring ranks 8th of 1,612 KDP niches, with 223 estimated daily sa
 
 ## Key findings
 
-1. Winter adult coloring had 240 books across Amazon Best Sellers and New Releases lists as of November 8, 2026, with 223 estimated daily sales and a niche score of 76.
-2. Winter adult coloring ranked 8th among 1,612 KDP niches as of November 8, 2026, placing it in the top group of scored publishing opportunities.
-3. Amazon's winter adult coloring sample had a median of 1 review, and 85.7% of sampled books had fewer than 50 reviews as of November 8, 2026.
-4. Independently published books accounted for 86.5% of the winter adult coloring sample, while 71.6% of sampled books were published in the last year.
-5. January is the peak month for winter adult coloring, with October and November identified as the publishing window for books entering the seasonal market.
+1. Winter adult coloring ranked 8th among 1,612 KDP niches as of November 8, 2026, with a niche score of 76 and 223 estimated daily sales.
+2. Amazon.com Best Sellers and New Releases lists included 240 winter adult coloring books during the data period, with 144 Best Sellers and 146 New Releases list appearances.
+3. The niche had a median of 10 reviews as of November 8, 2026. Among 237 sampled print books, 170 had fewer than 10 reviews.
+4. Independently published books made up 86.5% of the sampled winter adult coloring print books. A further 71.7% had been published within the last year.
+5. Demand for winter adult coloring peaks in January. October and November are the indicated publishing months for books targeting the seasonal market.
 
 ## How big is the niche
 
-Winter adult coloring covers 240 books across Amazon's current Best Sellers and New Releases lists, including 144 Best Sellers and 146 New Releases entries. The market is overwhelmingly print-based, with 237 print books and 3 Kindle eBooks. Estimated daily sales reach 223 units, giving the niche a score of 76 out of 100.
+The winter adult coloring niche covered 240 books across the Amazon Best Sellers and New Releases lists between October 10 and November 8, 2026. These included 144 Best Sellers and 146 New Releases appearances. Estimated daily sales were 223 units. The niche scored 76, ranking 8th among 1,612 niches. Of the listings, 237 were print books and 3 were Kindle eBooks, making this a predominantly print market.
 
-The niche ranks 8th out of 1,612 scored markets. Its score reflects strong demand, a low review barrier, new-release inflow and seasonal timing. The KDP feasibility estimate is 99.2%, suggesting that nearly all books in the market fit the platform's print-publishing model.
-
-![Books on Best Sellers, day by day](https://kdptop.com/research/img/winter-adult-coloring-kdp/20261109041711/history-en.webp)
+![Books on Best Sellers, day by day](https://kdptop.com/research/img/winter-adult-coloring-kdp/20261109042834/history-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -42,32 +40,32 @@ The niche ranks 8th out of 1,612 scored markets. Its score reflects strong deman
 
 ## Search demand and timing
 
-The main search term is "winter adult coloring book", but Amazon search-volume data is unavailable, so keyword demand cannot be quantified independently. Estimated daily sales of 223 indicate an active buying market, with January as the peak month. October and November are the recommended publishing months, giving new books time to establish rankings and reviews before seasonal demand peaks.
+The niche recorded 223 estimated daily sales, with demand reaching its peak in January. Winter adult coloring book is the main search term. Search volume data is unavailable, so this dataset does not establish how much traffic the keyword receives. The indicated publishing window is October through November, ahead of the January peak. This gives new titles time to gain rankings and reviews before seasonal demand increases.
 
 ## Competition and the review barrier
 
-The 237-book sample has a median of 1 review. The review distribution is concentrated at the low end: 168 books have fewer than 10 reviews, 35 have 10–50, 9 have 50–100, 17 have 100–500 and 8 have more than 500. A total of 85.7% of sampled books have fewer than 50 reviews, indicating a relatively accessible review barrier for new entrants.
+Review counts suggest that publishers can enter this niche without an established review base. Among 237 sampled print books, 170 had fewer than 10 reviews, 34 had 10–50, 9 had 50–100, 16 had 100–500, and 8 had more than 500. The sample median was 1 review, and 86.1% had fewer than 50 reviews. Monthly sales were more concentrated: only 3.4% sold 100 or more copies, while 191 books sold fewer than 30 monthly units and 33 sold 30–100. Most titles therefore operate at relatively low sales volumes, with a smaller group accounting for the stronger results.
 
-Only 3.4% of sampled books sell 100 or more copies per month, while 193 fall below 30 monthly units. Independently published titles account for 86.5% of the sample, and 71.6% of books were published in the last year. This combination shows that independent publishers dominate the market, but most titles generate modest estimated sales. New releases are competing in an active publishing environment, so entering the niche does not guarantee meaningful monthly volume.
+Independently published books made up 86.5% of the sampled print titles. Books published within the last year accounted for 71.7%, showing a steady flow of new releases. The niche-level indie share was 85.3%, and the dataset recorded 51 newcomers and 50 breakouts. Independent publishers already account for most of the market. Given the low monthly sales of most sampled books, product differentiation and launch timing remain important considerations.
 
-![How many reviews the books have](https://kdptop.com/research/img/winter-adult-coloring-kdp/20261109041711/reviews-en.webp)
+![How many reviews the books have](https://kdptop.com/research/img/winter-adult-coloring-kdp/20261109042834/reviews-en.webp)
 
-![Estimated monthly sales per book](https://kdptop.com/research/img/winter-adult-coloring-kdp/20261109041711/units-en.webp)
+![Estimated monthly sales per book](https://kdptop.com/research/img/winter-adult-coloring-kdp/20261109042834/units-en.webp)
 
 | Metric | Value |
 |---|---|
 | Median reviews | 1 |
-| Books with under 50 reviews | 85.7% |
+| Books with under 50 reviews | 86.1% |
 | Median est. monthly sales | 9 |
 | Books selling 100+ a month (est.) | 3.4% |
 | Independently published | 86.5% |
-| Published in the last 12 months | 71.6% |
+| Published in the last 12 months | 71.7% |
 
 ## Price, page count and trim size
 
-The median price is $9.99, with a P25 price of $8.79 and a P75 price of $9.99. Most books sit in the $8–$10 band, containing 122 titles, followed by 52 in the $5–$8 band and 43 in the $10–$13 band. The wider price distribution extends from under $5 to $20+. Median length is 104 pages. The two dominant trim sizes are 8.5x10.98, used by 89 books, and 8.5x8.5, used by 74 books. These figures point to a market centered on standard paperback coloring-book formats and prices around $9.99.
+The median book price was $9.99, with the 25th percentile at $8.79 and the 75th percentile at $9.99. The $8–$10 range contained the most books, with 124 titles. Another 51 were priced at $5–$8 and 43 at $10–$13. Median length was 104 pages. The most common trim sizes were 8.5x10.98, used by 89 books, and 8.5x8.5, used by 74. Most publishers are pricing medium-length print books in the $8–$10 range.
 
-![Price distribution](https://kdptop.com/research/img/winter-adult-coloring-kdp/20261109041711/prices-en.webp)
+![Price distribution](https://kdptop.com/research/img/winter-adult-coloring-kdp/20261109042834/prices-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -80,7 +78,7 @@ The median price is $9.99, with a P25 price of $8.79 and a P75 price of $9.99. M
 
 ## Best-selling books in the niche
 
-The leading books combine recognizable seasonal subjects with specific coloring formats and audiences. New 2026 Christmas Adult Coloring Book: 50 Simple Christmas-Themed Large Print Coloring Pages for Adults and Seniors | Cozy Winter Holiday Designs for Relaxation leads with 510 estimated monthly units at $7.99 and 102 pages. Cozy Winter: Cute & Comfy Coloring Book has 255 estimated monthly units, 316 reviews and 119 pages. Several other leading titles emphasize cozy winter scenes, Christmas designs, animals, large print or relaxation. Recent independent titles also appear among the strongest performers: Little Advent: Kawaii Christmas Coloring Book: Cute Winter Coloring Pages with Fox, Bunny, Hedgehos, Otter, Bear, Cat, Dog and More (Sweet & Kitsch) has 123 estimated monthly units and 2 reviews. The leading titles suggest that focused seasonal themes can compete without an established review history.
+The leading books combine Christmas or winter themes with cozy imagery, large-print pages, relaxation or stress-relief positioning, and clearly stated design counts. New 2026 Christmas Adult Coloring Book: 50 Simple Christmas-Themed Large Print Coloring Pages for Adults and Seniors | Cozy Winter Holiday Designs for Relaxation led the table with 510 estimated monthly units at $7.99, 102 pages and 33 reviews. Cozy Winter: Cute & Comfy Coloring Book recorded 255 estimated monthly units. Cozy Christmas Coloring Book: Filled With Charming Holiday Scenes, Cozy Winter Moments And Delightful Christmas-Inspired illustrations For Teens and Adults recorded 192. Newer indie titles also appeared in the top 10 with relatively few reviews. One example is Little Advent: Kawaii Christmas Coloring Book: Cute Winter Coloring Pages with Fox, Bunny, Hedgehos, Otter, Bear, Cat, Dog and More (Sweet & Kitsch), which recorded 123 estimated monthly units and 2 reviews. The results show that specific seasonal themes and accessible design formats can gain traction alongside established titles.
 
 | Title | Author | Store | Price | Reviews | Est. sales/mo | Pages | Published | Indie |
 |---|---|---|---|---|---|---|---|---|
@@ -94,15 +92,15 @@ The leading books combine recognizable seasonal subjects with specific coloring 
 | [Winter Color By Number Coloring Book: Large Print Winter Christmas Season Coloring For Adu](https://www.amazon.com/dp/B0DGT4L7NQ) | Ivy Rivers | Print books | $9.99 | 207 | 102 | 63 | 2024-09 | Yes |
 | [Calming Christmas Coloring Book for Adults: Large Print Pages for Adults & Seniors \| Beaut](https://www.amazon.com/dp/1998241017) | Relax and Color | Print books | $19.60 | 315 | 93 | 105 | 2023-10 |  |
 | [Monochrome Christmas Coloring Book: 50 Cozy & Festive Christmas Designs with Snowy Village](https://www.amazon.com/dp/B0HJHSSWVX) | Book2bees house | Print books | $5.99 | 10 | 78 | 105 | 2026-09 | Yes |
-| [Christmas Coloring Book for Adults: Large Print Christmas Coloring Book for Adults and Sen](https://www.amazon.com/dp/B0G4G72QPR) | Arellyn Feysora | Print books | $6.99 | 15 | 72 | 105 | 2025-11 | Yes |
 | [Christmas Bold and Easy Coloring Book: Simple, Cute and Cozy Large Print Designs for Adult](https://www.amazon.com/dp/1997873060) | BJB Publishing | Print books | $5.99 | 59 | 63 | 108 | 2025-10 |  |
 | [Cozy Girl Winter Coloring Book: Bold and Easy Hygge Inspired Designs for Adults & Teens. S](https://www.amazon.com/dp/B0DQGWWWR5) | Jeanett Veronica | Print books | $9.99 | 160 | 63 | 102 | 2024-12 | Yes |
 | [Cozy Girl Holidays: Christmas Inspired Coloring Book for Adults & Teens, With Easy Hygge I](https://www.amazon.com/dp/B0H7JPGQPD) | Jeanett Veronica | Print books | $9.99 | 4 | 60 | 84 | 2026-07 | Yes |
 | [Christmas 100 Page Color by Number Coloring Book: Large Print Christmas Color by Number Ad](https://www.amazon.com/dp/B0H5DLY9KT) | Orvexa Lab | Print books | $6.92 | 3 | 57 | 113 | 2026-06 | Yes |
+| [Mythographic Color and Discover: Christmas Tales: An Artist’s Coloring Book of Yuletide Cl](https://www.amazon.com/dp/1250444497) | Weronika Kolinska | Print books | $15.98 | 8 | 51 | 96 | 2026-10 |  |
 
 ## Sub-niches
 
-Winter adult coloring for stress relief has the strongest sub-niche score at 75, with 212 books, 10 median reviews and a $9.99 median price. Winter adult coloring, adults scores 74 across 159 books, with 12 median reviews. Winter adult coloring, ages 13-17 scores 72 across 78 books and has only 6 median reviews, making it an interesting narrower audience with a low review barrier. Winter adult coloring for women scores 67 across 42 books, also with 6 median reviews. Winter adult coloring for seniors scores 66 across 30 books, with 16 median reviews and a lower $7.88 median price. The strongest combination of score and review accessibility appears in the stress relief and ages 13-17 segments.
+Winter adult coloring for stress relief had the highest listed sub-niche score, at 75, across 212 books. Its median review count was 10, and its median price was $9.99. Winter adult coloring, ages 13-17 scored 72 across 78 books, with 6 median reviews and a $9.99 median price. Winter adult coloring for women scored 67 across 42 books, also with 6 median reviews. Winter adult coloring for girls had the smallest listed book count, at 15, and a score of 60, with 6 median reviews. The ages 13-17 and women segments have relatively low review barriers and more defined audiences. Stress relief has the highest score among the listed segments.
 
 | Sub-niche | Books | Median reviews | Median price | Est. daily sales | Score |
 |---|---|---|---|---|---|
@@ -115,7 +113,7 @@ Winter adult coloring for stress relief has the strongest sub-niche score at 75,
 
 ## Where these books rank
 
-Winter adult coloring books appear across several Amazon categories, with Religious & Inspirational containing 43 books and an opportunity score of 36. Coloring Books for Grown-Ups has 23 books and an opportunity score of 24. Seasonal contains 22 books and scores 41, the highest opportunity score among the listed categories. Flowers & Landscapes has 17 books and scores 30, Art has 17 books and scores 32, and Animals has 16 books and scores 31. Seasonal is the strongest category opportunity in this group, while Coloring Books for Grown-Ups has the lowest opportunity score despite its direct relevance to the product.
+Religious & Inspirational had the largest number of books, with 43 and an opportunity score of 36. Coloring Books for Grown-Ups followed with 23 books and a score of 24. Seasonal contained 22 books and recorded the highest listed opportunity score, at 41. Flowers & Landscapes and Art each contained 17 books, with opportunity scores of 30 and 32 respectively. Animals contained 16 books and had an opportunity score of 31. Seasonal has the strongest category opportunity in this dataset. Coloring Books for Grown-Ups has a lower score despite its direct connection to the niche.
 
 | Category | Store | Niche books | Opportunity score |
 |---|---|---|---|
@@ -128,27 +126,27 @@ Winter adult coloring books appear across several Amazon categories, with Religi
 
 ## Should you publish in this niche?
 
-Winter adult coloring is a strong candidate for independent publishers who can produce seasonal print coloring books with a clear audience or theme. Its score of 76 and rank of 8th among 1,612 niches support further consideration. The 86.5% indie share and 1-review sample median suggest that established publishing brands do not control the entire market. The stress relief and ages 13-17 sub-niches offer particularly accessible review conditions.
+Winter adult coloring is a viable option for independent publishers planning seasonal print releases in October or November. The niche scored 76 and ranked 8th among 1,612 niches. Its 85.3% niche-level indie share and median review count of 10 also indicate that independent publishers have room to compete. The leading titles point to several workable themes, including cozy Christmas scenes, large-print designs, cute animals and relaxation. Publishers considering narrower audiences can also examine the ages 13-17 and women segments, both of which have median review counts of 6.
 
-The main limitation is sales concentration. Although the market generates 223 estimated daily sales, only 3.4% of sampled books sell 100 or more copies per month. Most sampled titles sell fewer than 30 monthly units. Publishers should also account for the January peak: the October-November publishing window is already underway in the data period. Pricing around the $9.99 median and using established trim sizes would align with current market patterns, but the available data does not establish profitability or guarantee that a new title will achieve the sales of leading books.
+Sales concentration is the main concern. Only 3.4% of sampled books sold 100 or more units monthly, while 191 sold fewer than 30. Search volume figures are unavailable, so the dataset cannot independently establish demand for the main keyword. Publishers also need to plan around the January peak and allow time for indexing and review accumulation before seasonal demand rises. Launching outside the October–November window may leave less time to establish a listing before the peak.
 
 ## FAQ
 
-### Is winter adult coloring a profitable KDP niche?
+### How many winter adult coloring books are on Amazon KDP?
 
-Winter adult coloring has a niche score of 76 and generates 223 estimated daily sales across 240 books. However, only 3.4% of sampled books sell 100 or more copies per month, so publishers should account for the large number of low-volume titles. Profitability cannot be established without production costs, advertising expenses and royalty data.
+The niche dataset included 240 books across Amazon Best Sellers and New Releases lists between October 10 and November 8, 2026. The sample consisted of 237 print books and 3 Kindle eBooks.
 
-### How many reviews do winter adult coloring books need to compete?
+### Is winter adult coloring profitable for self-publishers?
 
-The sampled books have a median of 1 review, and 168 of the 237 books have fewer than 10 reviews. Another 85.7% have fewer than 50 reviews. These figures indicate that publishers can enter the market without first building a large review count, although sales performance varies considerably.
+The niche recorded 223 estimated daily sales and ranked 8th among 1,612 niches, with a score of 76. Sales vary considerably across the sample, however. Only 3.4% of books sold 100 or more estimated monthly units.
 
-### When should I publish a winter adult coloring book on Amazon KDP?
+### When should I publish a winter adult coloring book?
 
-January is the peak month for winter adult coloring. The recommended publishing window is October through November, allowing time to establish rankings and reviews before peak demand. The seasonal timing score is 1.0.
+January is the peak demand month for winter adult coloring. The indicated publishing window is October through November, giving a new title time to build rankings and reviews before seasonal demand peaks.
 
-### What price should I charge for a winter adult coloring book?
+### How many reviews do competing winter adult coloring books have?
 
-The median price is $9.99, while the P25 and P75 prices are $8.79 and $9.99. The largest price band is $8–$10, containing 122 books. Median page count is 104, and the most common trim size is 8.5x10.98.
+The sampled print books had a median of 1 review, and 170 of 237 had fewer than 10 reviews. The niche-level median was 10 reviews. These figures suggest that publishers can enter the market without first building a large review count.
 
 ## Method and limits
 
@@ -162,6 +160,7 @@ Definitions used in this report: [Niche](../../methodology.md#niche), [Niche sco
 
 ## Version history
 
+- v2 · 2026-11-09 · Data refreshed to 2026-11-08
 - v1 · 2026-11-09 · First published
 
 ## Download the data
@@ -175,7 +174,7 @@ Definitions used in this report: [Niche](../../methodology.md#niche), [Niche sco
 ## Cite this report
 
 ```
-KDPTop Research (2026). Winter adult coloring on Amazon KDP: Market Size, Competition and Prices (November 2026). Version 1, 2026-11-09. https://kdptop.com/research/niches/winter-adult-coloring-kdp/
+KDPTop Research (2026). Winter adult coloring on Amazon KDP: Market Size, Competition and Prices (November 2026). Version 2, 2026-11-09. https://kdptop.com/research/niches/winter-adult-coloring-kdp/
 ```
 
 Text and data are released under CC BY 4.0: quote freely with "Source: KDPTop (kdptop.com)" and a link.
