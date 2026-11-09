@@ -1,0 +1,3 @@
+store,books,median_reviews,under_10_pct,under_50_pct,under_100_pct,median_rating
+books,256410,55,25.0,48.3,59.0,4.6
+kindle,194271,62,23.7,46.5,57.4,4.6

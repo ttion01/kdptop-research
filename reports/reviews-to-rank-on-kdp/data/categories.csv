@@ -1,0 +1,26 @@
+list,node_id,store,path,median_reviews,under_100_pct,median_daily_units,median_price,opportunity_score
+low_barrier,11314,books,Books > Biographies & Memoirs > True Crime,0,76.0,13.5,13.93,66
+low_barrier,5571275011,books,Books > Politics & Social Sciences > Politics & Government > Public Affairs & Policy,0,58.0,9.3,14.74,60
+low_barrier,10767,books,Books > Politics & Social Sciences > Politics & Government > Public Affairs & Policy > Public Affairs & Administration,0,75.3,7.1,14.99,66
+low_barrier,67250,books,Books > Calendars > Animals > Dogs,1,96.0,0.7,16.95,45
+low_barrier,67297,books,Books > Calendars > Foreign Language,1,95.0,0.6,17.99,43
+low_barrier,67319,books,Books > Calendars > Nature,1,87.0,0.45,17.99,40
+low_barrier,157699011,kindle,Kindle eBooks > Engineering & Transportation > Engineering > Electrical & Electronics > Circuits,2,80.0,0.4,8.99,33
+low_barrier,16232546011,kindle,Kindle eBooks > Nonfiction > Computers & Technology > Web Development,2,86.0,0.4,7.99,36
+low_barrier,206810142011,kindle,Kindle eBooks > Religion & Spirituality > Creation,2,85.7,0.4,4.99,30
+low_barrier,211758995011,books,Books > Religion & Spirituality > Christian Books & Bibles > Children's & Teens > Christianity > Saints & Sainthood,2,93.6,0.4,12.99,38
+low_barrier,7661750011,books,"Books > Cookbooks, Food & Wine > Kitchen Appliances > Rice Cookers",3,77.8,0.4,13.96,33
+low_barrier,10020721011,books,Books > Business & Money > Processes & Infrastructure > Office Equipment & Supplies,4,88.0,0.5,6.99,36
+low_barrier,8407407011,kindle,"Kindle eBooks > Foreign Languages > Spanish > Informática, Internet y Medios Digitales",4,76.0,0.4,8.47,32
+low_barrier,154718011,kindle,"Kindle eBooks > Arts & Photography > Photography > Collections, Catalogues & Exhibitions",4,85.0,0.4,5.0,31
+low_barrier,6361642011,kindle,Kindle eBooks > Religion & Spirituality > Islam > Sufism,4,78.0,0.4,6.5,33
+high_barrier,10484,books,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense",61592,6.0,243.0,10.99,16
+high_barrier,10491,books,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense > Psychological Thrillers",57675,5.0,145.0,5.99,10
+high_barrier,6190491011,kindle,"Kindle eBooks > Mystery, Thriller & Suspense > Thrillers > Psychological",46468,3.0,128.0,4.99,10
+high_barrier,16190,books,Books > Science Fiction & Fantasy > Fantasy,43922,8.0,193.0,15.89,20
+high_barrier,10495,books,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense > Suspense",42244,3.0,128.0,12.99,17
+high_barrier,18289232011,books,Books > Literature & Fiction > Genre Fiction > Psychological,38808,5.0,71.0,5.99,12
+high_barrier,10134,books,Books > Literature & Fiction > Genre Fiction,38514,3.0,321.0,12.98,18
+high_barrier,157323011,kindle,"Kindle eBooks > Mystery, Thriller & Suspense > Suspense",38260,3.0,149.0,4.99,11
+high_barrier,13922577011,books,Books > Science Fiction & Fantasy > Fantasy > Romantic,37996,9.0,165.0,13.49,17
+high_barrier,157319011,kindle,"Kindle eBooks > Mystery, Thriller & Suspense > Thrillers",37853,4.0,176.0,4.99,12
