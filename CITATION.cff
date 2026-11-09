@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these reports or their data, please cite them as below."
+type: dataset
+title: "KDPTop Research: Amazon KDP market reports"
+authors:
+  - name: "KDPTop"
+    website: "https://kdptop.com"
+date-released: "2026-11-09"
+license: CC-BY-4.0
+url: "https://kdptop.com/research/"
+repository-code: "https://github.com/ttion01/kdptop-research"
+keywords:
+  - Amazon KDP
+  - Kindle Direct Publishing
+  - self-publishing
+  - book market
+  - best sellers
