@@ -4,7 +4,7 @@
 
 中文版: [README.zh.md](README.zh.md) · Version 1 (2026-11-09) · [Methodology](../../methodology.md)
 
-**Data window**: Oct 27, 2026 – Nov 8, 2026  
+**Data window**: Oct 27, 2026 to Nov 8, 2026  
 **Sample**: 1,979 books in this niche on Amazon.com lists
 
 Kids coloring books for ages 6-8 score 80 and rank 2nd among 1,605 KDP niches. The niche has 615 estimated daily sales and a low review barrier.
@@ -89,7 +89,7 @@ The most common recorded trim size is 8.5x10.98, with 551 books, followed by 8.5
 | Metric | Value |
 |---|---|
 | Median price | $9.99 |
-| Price range (P25-P75) | $8.99 – $9.99 |
+| Price range (P25-P75) | $8.99-$9.99 |
 | Median page count | 71 |
 | Common trim size 1 | 8.5x10.98 in (551) |
 | Common trim size 2 | 8.5x8.5 in (112) |
@@ -161,7 +161,7 @@ The main concern is the difference between overall market activity and the sales
 
 Search data shows strong interest in seasonal terms, but it does not identify the niche's seasonal peak or recommended publishing window. The available figures therefore do not support a specific launch-month recommendation.
 
-## FAQ
+## Common questions
 
 ### How many kids coloring books for ages 6-8 are on Amazon?
 

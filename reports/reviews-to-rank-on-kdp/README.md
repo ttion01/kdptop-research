@@ -4,7 +4,7 @@
 
 中文版: [README.zh.md](README.zh.md) · Version 1 (2026-11-09) · [Methodology](../../methodology.md)
 
-**Data window**: Oct 27, 2026 – Nov 8, 2026  
+**Data window**: Oct 27, 2026 to Nov 8, 2026  
 **Sample**: 450,681 books on Amazon.com Best Sellers lists
 
 How many reviews does it take to rank on Amazon KDP? A comparison of 450,681 books by store, product type, rank tier and category in November 2026.
@@ -145,7 +145,7 @@ Publishers seeking lower review barriers should start by examining Notebook, Log
 
 Established fiction categories such as Thrillers & Suspense and Psychological Thrillers have much higher measured review barriers. New publishers may find better prospects in a narrower niche or a different category than by competing directly with established leaders. These figures represent snapshots of existing Best Sellers lists. They are not minimum review requirements or forecasts. Breakout results show that many new books reached a list with fewer than 10 reviews, but they do not reveal how many books failed to rank, how long breakout books stayed listed or how profitable those launches were. Estimated sales are calculated from sales rank and should be treated as estimates rather than verified transactions.
 
-## FAQ
+## Common questions
 
 ### How many reviews does a book need to rank on Amazon KDP?
 

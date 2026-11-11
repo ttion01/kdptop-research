@@ -4,7 +4,7 @@
 
 中文版: [README.zh.md](README.zh.md) · Version 1 (2026-11-09) · [Methodology](../../methodology.md)
 
-**Data window**: Oct 27, 2026 – Nov 8, 2026  
+**Data window**: Oct 27, 2026 to Nov 8, 2026  
 **Sample**: 6,419 Christmas books on Amazon.com lists
 
 Christmas KDP market data for 2026 covers 6419 books, estimated sales, product types, reader ages, backlist titles and seasonal search demand.
@@ -157,7 +157,7 @@ December is the peak month for Christmas books, with September through October i
 
 A November launch can still be viable for formats that are quick to produce and have a clear seasonal purpose, particularly when the publisher has relevant keywords and a focused product concept. Existing titles can also benefit from the approaching December peak without requiring a new publication. Publishers planning a new seasonal book should compare production time with the remaining month before peak demand. A November release has less preparation time than a title published in September or October.
 
-## FAQ
+## Common questions
 
 ### When should I publish a Christmas book on Amazon KDP?
 

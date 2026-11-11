@@ -4,7 +4,7 @@
 
 中文版: [README.zh.md](README.zh.md) · Version 2 (2026-11-09) · [Methodology](../../methodology.md)
 
-**Data window**: Oct 27, 2026 – Nov 8, 2026  
+**Data window**: Oct 27, 2026 to Nov 8, 2026  
 **Sample**: 240 books in this niche on Amazon.com lists
 
 Winter adult coloring ranks 8th among 1,612 niches, with 223 estimated daily sales, an 85.3% indie share and a median of 10 reviews.
@@ -70,7 +70,7 @@ The median book price was $9.99, with the 25th percentile at $8.79 and the 75th 
 | Metric | Value |
 |---|---|
 | Median price | $9.99 |
-| Price range (P25-P75) | $8.79 – $9.99 |
+| Price range (P25-P75) | $8.79-$9.99 |
 | Median page count | 104 |
 | Common trim size 1 | 8.5x10.98 in (89) |
 | Common trim size 2 | 8.5x8.5 in (74) |
@@ -130,7 +130,7 @@ Winter adult coloring is a viable option for independent publishers planning sea
 
 Sales concentration is the main concern. Only 3.4% of sampled books sold 100 or more units monthly, while 191 sold fewer than 30. Search volume figures are unavailable, so the dataset cannot independently establish demand for the main keyword. Publishers also need to plan around the January peak and allow time for indexing and review accumulation before seasonal demand rises. Launching outside the October–November window may leave less time to establish a listing before the peak.
 
-## FAQ
+## Common questions
 
 ### How many winter adult coloring books are on Amazon KDP?
 

@@ -4,7 +4,7 @@
 
 中文版: [README.zh.md](README.zh.md) · Version 1 (2026-11-09) · [Methodology](../../methodology.md)
 
-**Data window**: Oct 27, 2026 – Nov 8, 2026  
+**Data window**: Oct 27, 2026 to Nov 8, 2026  
 **Sample**: 1,184 books in this niche on Amazon.com lists
 
 Kids coloring books for ages 3-5 rank 4 of 1,605 niches, with 444 estimated daily sales and a median price of $9.99 across Amazon KDP lists.
@@ -85,7 +85,7 @@ The median price is $9.99, with the P25 at $7.99 and the P75 at $9.99. The large
 | Metric | Value |
 |---|---|
 | Median price | $9.99 |
-| Price range (P25-P75) | $7.99 – $9.99 |
+| Price range (P25-P75) | $7.99-$9.99 |
 | Median page count | 80 |
 | Common trim size 1 | 8.5x10.98 in (355) |
 | Common trim size 2 | 8.5x8.5 in (75) |
@@ -149,7 +149,7 @@ Kids coloring, ages 3-5 scores 78 and ranks 4 of 1,605 under the supplied scorin
 
 Sales concentration is the main constraint. Only 1.9% of sampled books sell 100 or more copies monthly, while 1,100 sell fewer than 30. Low review counts reduce the initial competitive barrier, but they do not guarantee sales. Established licensed titles such as Bluey also hold leading positions. Publishers should distinguish the broad niche's estimated sales from the likely performance of an individual title. The search volumes for Halloween and Christmas coloring books also should not be treated as direct evidence of demand for every preschool coloring concept. The data identifies neither a seasonal peak nor a specific launch window for the overall niche.
 
-## FAQ
+## Common questions
 
 ### How big is the kids coloring book market for ages 3-5 on Amazon KDP?
 

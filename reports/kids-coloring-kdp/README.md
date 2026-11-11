@@ -4,7 +4,7 @@
 
 中文版: [README.zh.md](README.zh.md) · Version 2 (2026-11-09) · [Methodology](../../methodology.md)
 
-**Data window**: Oct 27, 2026 – Nov 8, 2026  
+**Data window**: Oct 27, 2026 to Nov 8, 2026  
 **Sample**: 4,203 books in this niche on Amazon.com lists
 
 Kids coloring ranks 1 of 1612 Amazon KDP niches, with 2175 estimated daily sales. The market has a low review barrier, with opportunities in specific age groups and holiday themes.
@@ -85,7 +85,7 @@ The median price is $9.99, with a P25 of $8.99 and a P75 of $9.99. Most sampled 
 | Metric | Value |
 |---|---|
 | Median price | $9.99 |
-| Price range (P25-P75) | $8.99 – $9.99 |
+| Price range (P25-P75) | $8.99-$9.99 |
 | Median page count | 80 |
 | Common trim size 1 | 8.5x10.98 in (1,230) |
 | Common trim size 2 | 8.5x8.5 in (256) |
@@ -149,7 +149,7 @@ Kids coloring offers a strong opportunity for independent publishers who focus o
 
 The main limitation is the difference between overall market activity and individual book performance. Only 2.1% of sampled books sell 100+ copies monthly. Established brands and licensed properties hold several of the top-selling positions, so independent publishers should be cautious about using those sales figures as a benchmark for general coloring themes. The available data does not establish a single seasonal peak or launch window for the overall niche. Before developing a general-purpose title, publishers should assess demand for narrower keywords and audiences. They should also account for the fact that most competing books are physical print products.
 
-## FAQ
+## Common questions
 
 ### Is kids coloring a profitable niche on Amazon KDP?
 

@@ -4,7 +4,7 @@
 
 中文版: [README.zh.md](README.zh.md) · Version 1 (2026-11-09) · [Methodology](../../methodology.md)
 
-**Data window**: Oct 27, 2026 – Nov 8, 2026  
+**Data window**: Oct 27, 2026 to Nov 8, 2026  
 **Sample**: 132 books in this niche on Amazon.com lists
 
 Christmas sudoku and logic books rank 3rd among 1,605 KDP niches, with 132 books and estimated daily sales of 274 units.
@@ -72,7 +72,7 @@ The median price is $12.99, with the 25th and 75th percentiles at $9.99 and $14.
 | Metric | Value |
 |---|---|
 | Median price | $12.99 |
-| Price range (P25-P75) | $9.99 – $14.99 |
+| Price range (P25-P75) | $9.99-$14.99 |
 | Median page count | 120 |
 | Common trim size 1 | 5.98x9.02 in (39) |
 | Common trim size 2 | 8.5x10.98 in (35) |
@@ -131,7 +131,7 @@ Christmas sudoku & logic ranks 3rd among 1,605 niches, with a score of 78 under 
 
 The main concern is the difference between overall niche sales and the performance of individual books. Only 4.5% of sampled books sell 100+ units monthly, while 93.5% were published in the last year. New competition is entering the market regularly, but relatively few titles reach that sales level. The leading books also rely heavily on advent calendars, murder mysteries and escape-room formats, alongside sudoku. The absence of Amazon search-volume data makes it difficult to verify keyword demand independently. Publishers planning a seasonal release should also account for the September to October publishing window; November 2026 is already late for a full seasonal launch.
 
-## FAQ
+## Common questions
 
 ### How many Christmas sudoku and logic books are on Amazon?
 

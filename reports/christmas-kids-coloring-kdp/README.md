@@ -4,7 +4,7 @@
 
 中文版: [README.zh.md](README.zh.md) · Version 2 (2026-11-09) · [Methodology](../../methodology.md)
 
-**Data window**: Oct 27, 2026 – Nov 8, 2026  
+**Data window**: Oct 27, 2026 to Nov 8, 2026  
 **Sample**: 257 books in this niche on Amazon.com lists
 
 Christmas kids coloring has 257 books and estimated daily sales of 219. It scores 77 and ranks 5 of 1612 markets, with a median of just 4 reviews.
@@ -87,7 +87,7 @@ The median price is $9.99, and the middle 50% of prices fall between $9.95 and $
 | Metric | Value |
 |---|---|
 | Median price | $9.99 |
-| Price range (P25-P75) | $9.95 – $9.99 |
+| Price range (P25-P75) | $9.95-$9.99 |
 | Median page count | 84 |
 | Common trim size 1 | 8.5x10.98 in (82) |
 | Common trim size 2 | 8.5x8.5 in (22) |
@@ -150,7 +150,7 @@ Christmas kids coloring is a promising seasonal niche for independent publishers
 
 Timing is the main constraint. Demand peaks in December, and the recommended publishing window is September through October. As of November 8, 2026, publishers planning to enter this season have missed the preferred launch period. Sales are also unevenly distributed: 92.9% of books have fewer than 50 reviews, but only 1.2% achieve more than 100 monthly sales. This niche is better suited to publishers who plan seasonal releases well ahead of peak demand and give their books a clear focus by age group or subject. Low review counts make entry easier, but they do not guarantee strong sales.
 
-## FAQ
+## Common questions
 
 ### How many Christmas kids coloring books are on Amazon?
 

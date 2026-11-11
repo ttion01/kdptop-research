@@ -4,7 +4,7 @@
 
 中文版: [README.zh.md](README.zh.md) · Version 1 (2026-11-09) · [Methodology](../../methodology.md)
 
-**Data window**: Nov 2, 2026 – Nov 8, 2026  
+**Data window**: Nov 2, 2026 to Nov 8, 2026  
 **Sample**: 508,737 books on Amazon.com Best Sellers lists
 
 KDP Best Sellers pricing, estimated sales, Kindle royalties and KU, plus print prices by page count, based on 508,737 books from November 2–8, 2026.
@@ -45,10 +45,10 @@ Kindle eBooks were most concentrated in the $5–$10 band, which contained 76,83
 | Price band | Books | Share | Median est. sales/mo |
 |---|---|---|---|
 | under $7 | 34,733 | 12.1% | 9 |
-| $7–$10 | 42,262 | 14.7% | 8 |
-| $10–$15 | 68,356 | 23.8% | 7 |
-| $15–$20 | 53,864 | 18.8% | 6 |
-| $20–$30 | 40,591 | 14.1% | 6 |
+| $7-$10 | 42,262 | 14.7% | 8 |
+| $10-$15 | 68,356 | 23.8% | 7 |
+| $15-$20 | 53,864 | 18.8% | 6 |
+| $20-$30 | 40,591 | 14.1% | 6 |
 | $30+ | 47,347 | 16.5% | 5 |
 
 ### Kindle eBooks
@@ -56,9 +56,9 @@ Kindle eBooks were most concentrated in the $5–$10 band, which contained 76,83
 | Price band | Books | Share | Median est. sales/mo |
 |---|---|---|---|
 | under $1 | 14,115 | 6.4% | 9 |
-| $1–$2.99 | 8,616 | 3.9% | 6 |
-| $2.99–$5 | 63,813 | 28.8% | 6 |
-| $5–$10 | 76,835 | 34.7% | 6 |
+| $1-$2.99 | 8,616 | 3.9% | 6 |
+| $2.99-$5 | 63,813 | 28.8% | 6 |
+| $5-$10 | 76,835 | 34.7% | 6 |
 | $10+ | 58,205 | 26.3% | 6 |
 
 ## Kindle royalty band and Kindle Unlimited
@@ -129,7 +129,7 @@ For a new Kindle eBook, the $5–$10 band offers the largest pool of comparable 
 
 For print books, the $10–$15 band contains the most titles, and the store-wide median is $14.99. Publishers pricing a new 150–249-page book can use the $15.95 page-count median as a reference. For a 250–399-page book, the comparable median is $17.48. Category differences are also worth accounting for: Study guide & reference has a $37.25 print median, while Fiction has a $10.88 median. These figures reflect observed Best Sellers prices; matching a category or page-count median does not guarantee similar sales. Estimated sales are calculated from sales rank using a store-specific rank-to-sales curve, and the figures cover a seven-day period. The sample does not account separately for advertising, publication age, audience size, competition, production costs or book quality. Publishers can use these benchmarks to set an initial price, then assess their own conversion and royalty results when testing price changes.
 
-## FAQ
+## Common questions
 
 ### What is the median Amazon KDP book price?
 
