@@ -1,0 +1,11 @@
+product_type,holiday,audience,age_band,books,on_best_sellers,median_reviews,median_price,est_daily_sales,score
+game_book,christmas,,adult,218,136,23,10.99,618,76
+game_book,christmas,,9-12,132,69,21,9.99,580,75
+game_book,christmas,couples,,40,30,20,13.99,146,70
+game_book,christmas,,6-8,48,30,18,9.99,185,68
+game_book,christmas,dads,,34,25,29,9.99,190,67
+game_book,christmas,parents,,64,33,20,11.49,18,65
+game_book,christmas,boys,,43,25,15,9.99,23,65
+game_book,christmas,girls,,34,19,8,9.99,17,63
+game_book,christmas,men,,36,27,24,9.99,30,62
+game_book,christmas,grandparents,,18,8,4,9.99,4,60

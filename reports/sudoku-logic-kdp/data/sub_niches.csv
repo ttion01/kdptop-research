@@ -1,0 +1,11 @@
+product_type,holiday,audience,age_band,books,on_best_sellers,median_reviews,median_price,est_daily_sales,score
+puzzle_logic,christmas,,,154,79,14,12.99,413,80
+puzzle_logic,,,adult,1306,898,19,9.99,4390,76
+puzzle_logic,,,13-17,114,80,17,11.49,300,74
+puzzle_logic,,,9-12,197,109,20,10.99,258,70
+puzzle_logic,,stress_relief,,194,130,11,9.99,161,70
+puzzle_logic,,seniors,,266,197,17,9.99,249,62
+puzzle_logic,,,6-8,66,45,24,9.99,80,61
+puzzle_logic,,girls,,12,7,12,12.86,11,58
+puzzle_logic,halloween,,,22,6,6,12.75,6,58
+puzzle_logic,,students,,151,109,19,10.21,44,58

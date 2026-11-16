@@ -1,0 +1,7 @@
+product_type,holiday,audience,age_band,books,on_best_sellers,median_reviews,median_price,est_daily_sales,score
+coloring,,christians,6-8,200,57,2,9.99,42,75
+coloring,,christians,3-5,107,34,2,9.99,30,74
+coloring,christmas,christians,,59,14,2,9.99,8,66
+coloring,,christians,adult,13,7,4,9.99,1,61
+coloring,,christians,9-12,27,12,8,9.99,51,60
+coloring,easter,christians,,16,5,1,9.99,2,58
