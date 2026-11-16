@@ -22,6 +22,7 @@ Data reports on the Amazon KDP book market: monthly market reports, niche and se
 
 | Week | English | 中文 |
 |---|---|---|
+| 2026-W47 | [Amazon KDP Week 47: 24,353 New Best Sellers Break Through](weekly/2026-W47.md) |  |
 | 2026-W46 | [Amazon KDP Week 46: 28,346 New Best Sellers](weekly/2026-W46.md) |  |
 | 2026-W45 | [Amazon KDP Week 2026-W45: 75,541 New Breakouts](weekly/2026-W45.md) | [2026-W45 KDP 周报：34,435 本新书冲进亚马逊畅销榜](weekly/2026-W45.zh.md) |
 
