@@ -1,0 +1,11 @@
+product_type,holiday,audience,age_band,books,on_best_sellers,median_reviews,median_price,est_daily_sales,score
+notebook,,,adult,1861,1756,6,7.99,442,57
+notebook,,students,,978,919,5,7.95,188,54
+notebook,,christians,,45,34,10,7.99,42,53
+notebook,,,9-12,75,57,16,7.99,42,51
+notebook,,special_needs,,21,20,6,8.49,8,49
+notebook,,teachers,,168,158,6,7.95,50,48
+notebook,christmas,,,40,32,8,6.99,15,48
+notebook,,seniors,,27,24,4,7.97,17,48
+notebook,,,6-8,178,151,8,7.93,65,45
+notebook,,women,,134,128,4,7.24,24,45
