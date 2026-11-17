@@ -2,12 +2,12 @@
 
 > Source: KDPTop Research, KDPTop (kdptop.com). Original: https://kdptop.com/research/niches/journal-kdp/
 
-中文版: [README.zh.md](README.zh.md) · Version 1 (2026-11-17) · [Methodology](../../methodology.md)
+中文版: [README.zh.md](README.zh.md) · Version 2 (2026-11-17) · [Methodology](../../methodology.md)
 
 **Data window**: Oct 27, 2026 to Nov 16, 2026  
 **Sample**: 2,915 books in this niche on Amazon.com lists
 
-The Amazon KDP Journal niche scores 70, with 2,915 books, estimated daily sales of 2,334 and a median price of $10.99.
+The Journal niche scored 70, with 2,915 books, estimated daily sales of 2,334, and a median price of $10.99 across Amazon KDP lists in November 2026.
 
 | Books on the lists | Median reviews | Niche score rank |
 |---|---|---|
@@ -15,17 +15,17 @@ The Amazon KDP Journal niche scores 70, with 2,915 books, estimated daily sales 
 
 ## Key findings
 
-1. The Amazon.com Journal niche contains 2,915 books across the Best Sellers and New Releases lists as of November 16, 2026. Estimated daily sales total 2,334 units.
-2. The Journal niche scores 70 out of 100 and ranks 94 of 1,715 niches, placing it in the upper range of the measured KDP market.
-3. Competition is relatively accessible at the lower end of the market. A total of 1,672 books have fewer than 10 reviews, and 75.4% of the sample have fewer than 50 reviews.
-4. Independent publishers account for 61.5% of the Journal niche, and 42.6% of sampled books were published in the last year as of November 16, 2026.
-5. The leading Journal titles include Wreck This Journal: Now in Color, with estimated monthly sales of 3,300 units, and Journey: The Year That Changes Everything, with estimated monthly sales of 1,500 units.
+1. Amazon.com had 2,915 Journal books across its Best Sellers and New Releases lists from October 18 to November 16, 2026. Estimated daily sales reached 2,334 units.
+2. The Journal niche scored 70 out of 100 and ranked 94 of 1,715 niches in November 2026, putting it in the upper tier of opportunities in the dataset.
+3. Amazon.com Journal books had a median of 22 reviews. During the November 2026 measurement period, 1,672 books had fewer than 10 reviews.
+4. Independently published books made up 61.5% of the Journal niche as of November 16, 2026. A further 42.6% of sampled books had been published within the last year.
+5. Christmas journal scored 68 across 79 books, with a median of 11 reviews. New Year journal scored 67 across 36 books, with the same median review count in November 2026.
 
 ## How big is the niche
 
-The Journal niche contains 2,915 books across Amazon Best Sellers and New Releases, comprising 2,574 print books and 341 Kindle eBooks. The lists include 2,276 Best Sellers and 856 New Releases. Estimated daily sales reach 2,334 units, showing consistent purchasing activity across the niche. Its score is 70 out of 100, ranking 94 of 1,715 measured niches. These figures put the Journal niche in a relatively strong position for publishers evaluating KDP opportunities.
+The Journal niche contained 2,915 books across Amazon Best Sellers and New Releases lists between October 18 and November 16, 2026. Best Sellers accounted for 2,276 books, while New Releases accounted for 856. The listings included 2,574 print books and 341 Kindle eBooks. Estimated daily sales reached 2,334 units, showing an established level of buyer activity across the niche.
 
-![Books on Best Sellers, day by day](https://kdptop.com/research/img/journal-kdp/20261117140236/history-en.webp)
+![Books on Best Sellers, day by day](https://kdptop.com/research/img/journal-kdp/20261117143102/history-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -40,28 +40,22 @@ The Journal niche contains 2,915 books across Amazon Best Sellers and New Releas
 
 ## Search demand
 
-Amazon search data records demand across several journal-related and adjacent gift terms. The keyword guided journal for women receives 6,051 searches and 475 purchases, with an average price of $27.99. Other recorded terms include the overthinking book at 8,960 searches, japan travel essentials at 11,718 searches and italy travel essentials at 8,951 searches. The highest recorded search volume belongs to baptism gifts for boys, with 56,139 searches and 1,661 purchases. The figures show activity across related gift and journal-shopping searches, but they do not establish one dominant search term for the Journal niche.
+Search activity points to demand for journals aimed at specific formats and audiences. guided journal for women generated 6,051 searches and 475 purchases, while japan travel essentials recorded 11,718 searches and 96 purchases. Competition for guided journal with prompts was considerable, with 1,274 searches against 67,685 products. guided journal for men recorded 649 searches and 18 purchases. The data did not identify a main search term for the overall Journal niche.
 
 | Search term | Monthly searches | Monthly purchases | Competing products | Average price |
 |---|---|---|---|---|
-| baptism gifts for boys | 56,139 | 1,661 | 11,191 | - |
-| baby gifts for boys | 36,013 | 1,105 | 175,338 | - |
-| purple gifts for women | 17,654 | 441 | 139,541 | - |
-| purple gifts | 14,129 | 356 | 167,707 | - |
 | japan travel essentials | 11,718 | 96 | 1,078 | $9.93 |
-| wonka bar | 9,371 | 361 | 99 | - |
-| the overthinking book | 8,960 | 72 | 10,729 | - |
-| italy travel essentials | 8,951 | 55 | 1,993 | - |
 | guided journal for women | 6,051 | 475 | 20,735 | $27.99 |
-| hiking gifts for women | 2,759 | 92 | 132,057 | - |
+| guided journal with prompts | 1,274 | 12 | 67,685 | $29.71 |
+| guided journal for men | 649 | 18 | 7,555 | $26.97 |
 
 ## Competition and the review barrier
 
-The niche-level median review count is 22, compared with 4 reviews across the sampled books. A total of 1,672 books have fewer than 10 reviews. The remaining review distribution includes 527 books with 10-50 reviews, 157 with 50-100, 287 with 100-500 and 272 with 500+ reviews. Overall, 75.4% of sampled books have fewer than 50 reviews. Publishers can therefore find competing titles with relatively short review histories.
+The overall median review count was 22, compared with a median of 4 among sampled books. The review distribution included 1,672 books with fewer than 10 reviews, 527 with 10-50, 157 with 50-100, 287 with 100-500 and 272 with 500 or more. Among sampled books, 75.4% had fewer than 50 reviews, so many listings have relatively short review histories. Sales were more concentrated at the lower end: only 3.4% of sampled books sold 100 or more units per month, while 2,547 sold fewer than 30 monthly units.
 
-![How many reviews the books have](https://kdptop.com/research/img/journal-kdp/20261117140236/reviews-en.webp)
+![How many reviews the books have](https://kdptop.com/research/img/journal-kdp/20261117143102/reviews-en.webp)
 
-![Estimated monthly sales per book](https://kdptop.com/research/img/journal-kdp/20261117140236/units-en.webp)
+![Estimated monthly sales per book](https://kdptop.com/research/img/journal-kdp/20261117143102/units-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -74,9 +68,9 @@ The niche-level median review count is 22, compared with 4 reviews across the sa
 
 ## Price, page count and trim size
 
-The median Journal price is $10.99, with a P25 of $8.99 and a P75 of $14.99. The largest recorded price bands are $13-$20, containing 710 books, and $8-$10, containing 705 books. The median book has 123 pages. The most common trim size is 5.98x9.02, recorded for 611 books, followed by 8.5x10.98 with 221 books and 7.01x10.0 with 115 books. The pricing data points to a core paperback market around $10.99, alongside titles positioned at higher price points.
+The median price in the Journal niche was $10.99, and the middle half of books fell between $8.99 and $14.99. The price distribution included 209 books under $5, 411 priced at $5-$8, 705 at $8-$10, 611 at $10-$13, 710 at $13-$20 and 239 above $20. The median page count was 123. The most common trim size was 5.98x9.02, used by 611 books, followed by 8.5x10.98 with 221 and 7.01x10.0 with 115.
 
-![Price distribution](https://kdptop.com/research/img/journal-kdp/20261117140236/prices-en.webp)
+![Price distribution](https://kdptop.com/research/img/journal-kdp/20261117143102/prices-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -89,7 +83,7 @@ The median Journal price is $10.99, with a P25 of $8.99 and a P75 of $14.99. The
 
 ## Best-selling books in the niche
 
-The leading Journal titles cover guided prompts, personal relationships and memory keeping. Wreck This Journal: Now in Color has estimated monthly sales of 3,300 units at $9.59. Journey: The Year That Changes Everything: 365 Daily Reflections to Build Self-Awareness and Inner Peace sells an estimated 1,500 units monthly at $21.00. Family storytelling is another established format. Mom, I Want to Hear Your Story (Expanded Edition) has estimated monthly sales of 1,230 units, while Mom's Story: A Memory and Keepsake Journal for My Family reaches an estimated 840. Interactive relationship formats also appear among the leading titles. Just Between You & Me, Kid: A Back & Forth Journal Between Grown-Up & Kid has estimated monthly sales of 840. These results suggest that leading books often give readers a clear reason to use the journal and identify the person it is intended for.
+The leading books address guided reflection, family memories, relationships and creative activities. Wreck This Journal: Now in Color had estimated monthly sales of 3,300 units, 24,235 reviews and 224 pages. Journey: The Year That Changes Everything: 365 Daily Reflections to Build Self-Awareness and Inner Peace recorded estimated monthly sales of 1,500 units, with 11 reviews and 400 pages. Family keepsake books also generated strong sales. Mom, I Want to Hear Your Story (Expanded Edition): A Mother's Guided Journal to Share Her Life & Her Love (Hear Your Story Books) had estimated monthly sales of 1,230 units, while Mom's Story: A Memory and Keepsake Journal for My Family (Heirloom Story Books and Guided Journals) reached 840. The sales figures show that both established titles and recently published books can attract substantial demand.
 
 | Title | Author | Store | Price | Reviews | Est. sales/mo | Pages | Published | Indie |
 |---|---|---|---|---|---|---|---|---|
@@ -111,7 +105,7 @@ The leading Journal titles cover guided prompts, personal relationships and memo
 
 ## Sub-niches
 
-Journal, adults has the highest score among the listed sub-niches at 69, with 2,119 books and a median of 21 reviews. Christmas journal scores 68, with 79 books and 11 median reviews. New Year journal scores 67, with 36 books and 11 median reviews. Journal for seniors scores 64, with 52 books and 12 median reviews. These smaller segments have relatively high scores and lower median review counts, particularly Christmas journal, New Year journal and Journal for seniors. Journal for moms scores 63, but its median review count of 49 points to a higher review barrier.
+Journal, adults scored 69 across 2,119 books, with a median of 21 reviews. Christmas journal scored 68 across 79 books, with a median of 11 reviews. New Year journal scored 67 across 36 books, also with a median of 11. Journal for seniors scored 64 across 52 books, with a median of 12 reviews. Seasonal journals and journals for seniors offer relatively strong scores alongside lower review barriers. Journal for moms scored 63 across 166 books, but its median of 49 reviews points to a more demanding entry point.
 
 | Sub-niche | Books | Median reviews | Median price | Est. daily sales | Score |
 |---|---|---|---|---|---|
@@ -128,7 +122,7 @@ Journal, adults has the highest score among the listed sub-niches at 69, with 2,
 
 ## Where these books rank
 
-Journal books appear in categories including Guided Journals, Journal Writing and Diaries. The recorded Guided Journals entries include 150 books with an opportunity score of 23 and 69 books with a score of 18. Journal Writing appears in three entries: 119 books with a score of 26, 106 books with a score of 25, and 66 books with a score of 23. Diaries contains 116 books and has an opportunity score of 33, the highest among the listed category entries. Publishers considering these categories should review the competing titles before making a selection, particularly in Diaries, which has the highest recorded score.
+The category data identifies opportunities in Guided Journals, Journal Writing and Diaries. One Guided Journals entry contained 150 books and had an opportunity score of 23; another contained 69 books and scored 18. Journal Writing entries included 119 books with a score of 26, 106 books with a score of 25 and 66 books with a score of 23. Diaries had 116 books and an opportunity score of 33, the highest among the listed category entries. The differences suggest that category choice can affect the level of competition a Journal listing faces.
 
 | Category | Store | Niche books | Opportunity score |
 |---|---|---|---|
@@ -141,25 +135,25 @@ Journal books appear in categories including Guided Journals, Journal Writing an
 
 ## Should you publish in this niche?
 
-The Journal niche offers independent publishers a market with a score of 70, estimated daily sales of 2,334 and an indie share of 61.5%. The review distribution leaves room for newer titles: 75.4% of sampled books have fewer than 50 reviews, while 42.6% were published in the last year. The strongest opportunities in the data are associated with journals built around a defined audience or purpose, including adult reflection, family memories, seasonal journaling and senior-focused formats. Christmas journal and New Year journal warrant particular attention. They score 68 and 67, respectively, and each has a median review count of 11.
+Journal is a viable broad market for independent publishers. It scored 70, generated estimated daily sales of 2,334 and had an indie share of 61.5%. Review counts among sampled listings were relatively low, leaving room to compete in focused segments such as Christmas journal, New Year journal and Journal for seniors. The fact that 42.6% of books were published in the last year also points to ongoing new-release activity. Publishers are likely to have better prospects with a journal built around a defined audience or purpose than with a generic blank notebook.
 
 ## Common questions
 
-### How big is the Amazon KDP Journal niche?
+### How many Journal books are on Amazon KDP?
 
-The Journal niche contains 2,915 books across Amazon Best Sellers and New Releases, including 2,574 print books and 341 Kindle eBooks. Estimated daily sales reach 2,334 units. The niche scores 70 out of 100 and ranks 94 of 1,715 niches.
+There were 2,915 books in the Journal niche across Amazon Best Sellers and New Releases from October 18 to November 16, 2026. The dataset covered 2,574 print books and 341 Kindle eBooks.
 
-### How competitive is the Journal niche on Amazon KDP?
+### How much do Journal books sell on Amazon?
 
-The sampled books have a median of 4 reviews, and 1,672 titles have fewer than 10 reviews. A total of 75.4% have fewer than 50 reviews, while 3.4% sell an estimated 100+ copies per month. Independent publishers account for 66.0% of the sample.
+Estimated daily sales across the Journal niche were 2,334 units. Within the sample, 3.4% of books sold 100 or more units per month, while 2,547 sold fewer than 30 monthly units.
 
-### What is the average price and page count of Amazon Journal books?
+### How competitive is the Amazon Journal niche?
 
-The median price is $10.99, with a P25 of $8.99 and a P75 of $14.99. The median page count is 123 pages. The most frequently recorded trim size is 5.98x9.02, appearing in 611 books.
+The overall median review count was 22, and 1,672 books had fewer than 10 reviews. Among sampled books, 75.4% had fewer than 50 reviews. Independently published books accounted for 66.0%.
 
-### Which Journal sub-niches have the best KDP opportunities?
+### What is the best price for a journal on Amazon KDP?
 
-Journal, adults scores 69, with 2,119 books and a median of 21 reviews. Christmas journal scores 68, with 79 books and 11 median reviews, while New Year journal scores 67, with 36 books and 11 median reviews. Journal for seniors scores 64, with 52 books and 12 median reviews. These smaller segments are worth examining for publishers considering a more focused Journal title.
+The median Journal price was $10.99, with the middle half of books priced between $8.99 and $14.99. The median page count was 123. The most common trim size was 5.98x9.02, used by 611 books.
 
 ## Method and limits
 
@@ -173,6 +167,7 @@ Definitions used in this report: [Niche](../../methodology.md#niche), [Niche sco
 
 ## Version history
 
+- v2 · 2026-11-17 · Text revised
 - v1 · 2026-11-17 · First published
 
 ## Download the data
@@ -186,7 +181,7 @@ Definitions used in this report: [Niche](../../methodology.md#niche), [Niche sco
 ## Cite this report
 
 ```
-KDPTop Research (2026). Journal on Amazon KDP: Market Size, Competition and Prices (November 2026). Version 1, 2026-11-17. https://kdptop.com/research/niches/journal-kdp/
+KDPTop Research (2026). Journal on Amazon KDP: Market Size, Competition and Prices (November 2026). Version 2, 2026-11-17. https://kdptop.com/research/niches/journal-kdp/
 ```
 
 Text and data are released under CC BY 4.0: quote freely with "Source: KDPTop (kdptop.com)" and a link.
