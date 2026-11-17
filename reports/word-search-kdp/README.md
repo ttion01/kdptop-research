@@ -2,12 +2,12 @@
 
 > Source: KDPTop Research, KDPTop (kdptop.com). Original: https://kdptop.com/research/niches/word-search-kdp/
 
-中文版: [README.zh.md](README.zh.md) · Version 1 (2026-11-17) · [Methodology](../../methodology.md)
+中文版: [README.zh.md](README.zh.md) · Version 2 (2026-11-17) · [Methodology](../../methodology.md)
 
 **Data window**: Oct 27, 2026 to Nov 16, 2026  
 **Sample**: 1,145 books in this niche on Amazon.com lists
 
-Word search books recorded 1,690 estimated daily sales and a niche score of 71 on Amazon. Low review counts across much of the market and strong indie participation make this a viable category for independent publishers.
+Amazon Word Search books have estimated daily sales of 1,690 across 1,145 titles, with a niche score of 71 out of 100.
 
 | Books on the lists | Median reviews | Niche score rank |
 |---|---|---|
@@ -15,17 +15,19 @@ Word search books recorded 1,690 estimated daily sales and a niche score of 71 o
 
 ## Key findings
 
-1. The Word search niche contained 1,145 books across Amazon Best Sellers and New Releases lists as of November 16, 2026. Estimated daily sales reached 1,690, with a niche score of 71, ranking 67 of 1,715 niches.
-2. Amazon search data for October-November 2026 recorded 6,563 searches for "halloween word search" and 6,204 for "christmas word search". The Christmas term generated 211 purchases from 2,374 products.
-3. The Word search niche had a median of 13 reviews as of November 16, 2026. A total of 724 books had fewer than 10 reviews, and 81.1% of books in the sales sample had fewer than 50 reviews.
-4. Independently published books represented 77.4% of the Word search sales sample as of November 16, 2026. Nearly half of the sampled books, 48.5%, were published within the last year.
-5. Christmas word search scored 73 and had a median of 14 reviews across 110 books, giving it the highest score among the listed sub-niches in the October-November 2026 data.
+1. The Amazon.com Word search niche contained 1,145 books across the Best Sellers and New Releases lists as of November 16, 2026. Estimated daily sales were 1,690, and the niche scored 71 out of 100.
+2. Amazon Word search books had a median of 13 reviews. Of the 1,145 sampled books, 724 had fewer than 10 reviews as of November 16, 2026.
+3. Amazon Word search search-term data recorded 6,204 searches for "christmas word search" and 6,563 searches for "halloween word search" during the measured period.
+4. Independently published books made up 77.4% of the sampled Amazon Word search books. A further 48.4% had been published within the last year as of November 16, 2026.
+5. Christmas word search had the highest niche score among the listed Word search sub-niches, scoring 73 across 110 books, with a median of 14 reviews as of November 16, 2026.
 
 ## How big is the niche
 
-The Word search niche contained 1,145 books across Amazon Best Sellers and New Releases lists during the October 18-November 16, 2026 period. This included 897 Best Sellers entries and 343 New Releases entries. Print books accounted for 1,061 titles, while Kindle eBooks accounted for 84. Estimated daily sales across the niche reached 1,690 units.
+The Amazon Word search market contained 1,145 books across the Best Sellers and New Releases lists during the measured period. This included 1,061 print books and 84 Kindle eBooks. The lists accounted for 897 Best Sellers entries and 343 New Releases entries. Estimated daily sales reached 1,690 units, giving the niche a score of 71 out of 100.
 
-![Books on Best Sellers, day by day](https://kdptop.com/research/img/word-search-kdp/20261117140446/history-en.webp)
+Word search ranked 67th among 1,715 niches. The category has an established customer base, but its 1,145-book catalog gives buyers a substantial range of titles to choose from. New publishers will need to compete within an already developed market.
+
+![Books on Best Sellers, day by day](https://kdptop.com/research/img/word-search-kdp/20261117143341/history-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -40,27 +42,24 @@ The Word search niche contained 1,145 books across Amazon Best Sellers and New R
 
 ## Search demand
 
-Amazon search data shows demand across seasonal and audience-specific search terms. "halloween word search" recorded 6,563 searches and 61 purchases. "christmas word search" generated 6,204 searches and 211 purchases. The term "word search for seniors" had 1,885 searches, 13 purchases and 58,844 products. "large print puzzle books" recorded 1,161 searches and 75 purchases. These figures show activity across several market segments. However, the product counts for broad terms such as senior and large-print puzzles point to considerable competition for search visibility.
+Amazon search data recorded 6,563 searches for "halloween word search" and 6,204 for "christmas word search". These terms generated 61 and 211 purchases, respectively. "word search for seniors" recorded 1,885 searches and 13 purchases, while "thanksgiving word search" recorded 1,537 searches and 77 purchases. Seasonal themes and audience-specific products both show measurable demand. However, the search data does not point to one dominant search term for the overall niche.
 
 | Search term | Monthly searches | Monthly purchases | Competing products | Average price |
 |---|---|---|---|---|
 | halloween word search | 6,563 | 61 | 1,030 | $4.99 |
 | christmas word search | 6,204 | 211 | 2,374 | $11.99 |
-| sopicidios | 1,995 | 16 | 26 | - |
 | word search for seniors | 1,885 | 13 | 58,844 | $14.99 |
 | thanksgiving word search | 1,537 | 77 | 10,041 | - |
-| gilmore girls word search | 1,416 | 15 | 124 | - |
-| large print puzzle books | 1,161 | 75 | 20,810 | - |
-| gifts for elderly | 996 | 16 | 37,062 | - |
-| quilters gifts | 480 | 2 | 5,142 | - |
 
 ## Competition and the review barrier
 
-Review counts are relatively low across much of the niche. A total of 724 books had fewer than 10 reviews, 205 had 10-50, 64 had 50-100, 102 had 100-500 and 50 had more than 500. The niche-level median was 13 reviews. Within the sales sample, 81.1% of books had fewer than 50 reviews, while 7.5% sold 100 or more copies per month. Monthly sales were distributed as follows: 964 books below 30 units, 90 at 30-100, 59 at 100-300, 18 at 300-1,000 and 8 above 1,000.
+The sampled books had a median of 3 reviews. The distribution included 724 books with fewer than 10 reviews, 205 with 10-50, 64 with 50-100, 102 with 100-500 and 50 with 500 or more. Overall, 81.1% had fewer than 50 reviews. This suggests that publishers can compete in parts of the category without first building a large review history, although review counts alone do not establish sales potential.
 
-![How many reviews the books have](https://kdptop.com/research/img/word-search-kdp/20261117140446/reviews-en.webp)
+An estimated 7.5% of sampled books sold 100 or more units monthly. The sales distribution included 964 books below 30 monthly units, 90 at 30-100, 59 at 100-300, 18 at 300-1,000 and 8 at 1,000 or more. Independently published books accounted for 77.4% of the sample, and 48.4% had been published within the last year. These figures show continued participation from independent publishers. At the same time, the concentration of books below 30 monthly units indicates that most titles have limited estimated sales.
 
-![Estimated monthly sales per book](https://kdptop.com/research/img/word-search-kdp/20261117140446/units-en.webp)
+![How many reviews the books have](https://kdptop.com/research/img/word-search-kdp/20261117143341/reviews-en.webp)
+
+![Estimated monthly sales per book](https://kdptop.com/research/img/word-search-kdp/20261117143341/units-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -69,13 +68,13 @@ Review counts are relatively low across much of the niche. A total of 724 books 
 | Median est. monthly sales | 6 |
 | Books selling 100+ a month (est.) | 7.5% |
 | Independently published | 77.4% |
-| Published in the last 12 months | 48.5% |
+| Published in the last 12 months | 48.4% |
 
 ## Price, page count and trim size
 
-The median book price was $9.99, with the 25th percentile at $8.00 and the 75th percentile at $12.00. The $8-$10 band was the largest, containing 434 books, followed by the $10-$13 band with 255 books. Median book length was 127 pages. The most common trim size was 8.5x10.98, used by 414 books. The next most common sizes were 5.98x9.02 with 153 books and 7.99x9.13 with 23 books. The figures show that the market is concentrated around a $9.99 price point, with many titles using a relatively substantial print format.
+The median book price was $9.99. The 25th percentile was $8.0, and the 75th percentile was $12.0. Median book length was 127 pages. The most frequently recorded trim sizes were 8.5x10.98, used by 414 books, and 5.98x9.02, used by 153 books. The data also recorded 23 books in the 7.99x9.13 format. Prices were concentrated in the $8-$10 band, which contained 434 books, while 255 books were priced at $10-$13.
 
-![Price distribution](https://kdptop.com/research/img/word-search-kdp/20261117140446/prices-en.webp)
+![Price distribution](https://kdptop.com/research/img/word-search-kdp/20261117143341/prices-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -88,7 +87,7 @@ The median book price was $9.99, with the 25th percentile at $8.00 and the 75th 
 
 ## Best-selling books in the niche
 
-The leading titles use familiar puzzle formats and target specific audiences or themes. Large-print books feature prominently. One example is The Ultimate Book of Large Print Word Search Puzzles: 6,000 Words - 224 Themed Puzzles - Large Print Word Finds for Adults, Seniors, and Teens, with 1,530 estimated monthly units, 76 reviews and 117 pages. Kill Grid Volume 1 | Murder Mystery Word Search: 120 Connected Detective Crime Cases for Adults & Teens | Follow the Clues, Unmask the Killer | Whodunit Word Find Puzzle Book, Gift for Mystery Lovers led the table with 5,100 estimated monthly units, 176 reviews and a $9.99 price. Established titles also perform well. KAPPA Super Saver LARGE PRINT Word Search Puzzle Pack - (Pack of 6) Full Size Books had 9,224 reviews and 2,490 estimated monthly units. The leading books cover large print, children, Bible puzzles and mystery formats. Prices in the top-books table range from $3.99 to $15.99.
+The highest-selling titles in the sample use large puzzle collections, large-print layouts or specific themes. Kill Grid Volume 1 | Murder Mystery Word Search: 120 Connected Detective Crime Cases for Adults & Teens | Follow the Clues, Unmask the Killer | Whodunit Word Find Puzzle Book, Gift for Mystery Lovers led the table with estimated monthly sales of 5,100 at $9.99. It had 176 reviews and 137 pages. KAPPA Super Saver LARGE PRINT Word Search Puzzle Pack - (Pack of 6) Full Size Books recorded estimated monthly sales of 2,490 at $15.99, with 9,224 reviews and 80 pages. The Ultimate Book of Large Print Word Search Puzzles: 6,000 Words - 224 Themed Puzzles - Large Print Word Finds for Adults, Seniors, and Teens recorded estimated monthly sales of 1,530 at $4.99, with 76 reviews and 117 pages. The table also features Bible-themed puzzles and children's activity books. These results show that different formats and target audiences can achieve high estimated sales within the category.
 
 | Title | Author | Store | Price | Reviews | Est. sales/mo | Pages | Published | Indie |
 |---|---|---|---|---|---|---|---|---|
@@ -110,7 +109,7 @@ The leading titles use familiar puzzle formats and target specific audiences or 
 
 ## Sub-niches
 
-Christmas word search ranks first among the listed sub-niches, with a score of 73, 110 books and a median of 14 reviews. Winter word search scores 71 across 53 books, also with a median of 14 reviews. Word search for stress relief scores 69 across 221 books and has a median of 18 reviews. Word search, adults scores 69 across 906 books, with a median of 13 reviews. Word search for seniors scores 67 across 543 books and has a median of 17 reviews. Based on the supplied data, Christmas and Winter offer the best combination of opportunity scores and relatively low review counts.
+Christmas word search led the listed sub-niches with a score of 73 across 110 books, a median of 14 reviews and a median price of $10.24. Winter word search scored 71 across 53 books, also with a median of 14 reviews. Word search for stress relief scored 69 across 221 books and had a median of 18 reviews. Word search, adults also scored 69, with 906 books and a median of 13 reviews. Word search, ages 13-17 had a median of 8 reviews, the lowest among the listed audience-specific opportunities, although its score was 63 across 129 books. Christmas word search and Winter word search offer the strongest combination of listed scores and relatively low median review counts.
 
 | Sub-niche | Books | Median reviews | Median price | Est. daily sales | Score |
 |---|---|---|---|---|---|
@@ -127,7 +126,7 @@ Christmas word search ranks first among the listed sub-niches, with a score of 7
 
 ## Where these books rank
 
-The category data lists Word Search with 119 books and an opportunity score of 31, followed by Word Games with 109 books and a score of 30. A second Word Search entry contains 68 books and has a score of 22, while another Word Games entry contains 55 books and scores 23. Eye Problems has 54 books and a score of 24, and Puzzles has 43 books and a score of 28. Word Search has the highest category opportunity score at 31, followed by Word Games at 30. General puzzle classifications remain relevant, although their supplied opportunity scores are below the overall niche score.
+The listed Amazon categories include Word Search, Word Games, Eye Problems and Puzzles. The first Word Search entry contained 119 books and had an opportunity score of 31. The first Word Games entry contained 109 books and scored 30. Puzzles included 43 books and scored 28, while Eye Problems contained 54 books and scored 24. Additional Word Search and Word Games entries contained 68 and 55 books, with opportunity scores of 22 and 23 respectively. Publishers should assess each category placement on its own figures rather than assume that all Word Search or Word Games placements offer comparable opportunities.
 
 | Category | Store | Niche books | Opportunity score |
 |---|---|---|---|
@@ -140,25 +139,27 @@ The category data lists Word Search with 119 books and an opportunity score of 3
 
 ## Should you publish in this niche?
 
-Word search offers a viable market for independent publishers, with a niche score of 71, estimated daily sales of 1,690 and an indie share of 77.4% in the sales sample. Review counts are low across much of the category, so a new title may be able to compete without hundreds of reviews. The data identifies clear audiences among large-print readers and adults, along with seasonal demand for Christmas and Winter themes. Christmas word search ranks highest among the listed sub-niches, with 110 books and a median of 14 reviews.
+Word search is an established KDP niche with a score of 71 and estimated daily sales of 1,690. Independent publishers account for 77.4% of the sample, and 81.1% of sampled books have fewer than 50 reviews. These figures make the category worth assessing for publishers with a well-defined product and audience. Christmas word search and Winter word search have the highest listed sub-niche scores, while Word search, ages 13-17 has the lowest median review count among the listed audience-specific opportunities.
+
+Sales remain concentrated among a small share of titles. Only 7.5% of sampled books reached 100 estimated monthly units, while 964 books recorded fewer than 30 monthly units. The leading titles include established publishers with thousands of reviews alongside newer indie titles with much smaller review histories. Publishers should focus on a theme, format and audience they can distinguish within the existing catalog. Seasonal search interest also needs to be treated as time-sensitive. The data does not identify a peak month or a recommended publication window for the overall niche, so it cannot support a precise launch date.
 
 ## Common questions
 
-### How many word search books are on Amazon?
+### How competitive is the Amazon KDP word search niche?
 
-The Word search niche contained 1,145 books across Amazon Best Sellers and New Releases lists during the October 18-November 16, 2026 period. This included 1,061 print books and 84 Kindle eBooks.
+The niche contained 1,145 books and scored 71 out of 100. Sampled books had a median of 3 reviews, and 81.1% had fewer than 50 reviews. Most competing titles therefore have relatively small review histories.
 
-### How many word search books sell 100 copies a month on Amazon?
+### How many sales do word search books make on Amazon?
 
-In the sales sample, 7.5% of books sold at least 100 copies per month. The monthly sales distribution included 59 books in the 100-300 band, 18 in the 300-1,000 band and 8 above 1,000.
+The Word search niche recorded estimated daily sales of 1,690 across its lists. In the sample, 7.5% of books had estimated monthly sales of 100 or more, while 964 books fell into the under-30 monthly sales band.
 
-### How many reviews do you need to compete in the word search niche?
+### What is the best word search sub-niche for KDP publishers?
 
-The niche-level median was 13 reviews, and 724 books had fewer than 10 reviews. In the sales sample, 81.1% of books had fewer than 50 reviews. This suggests that relatively low review counts are common across the market.
+Christmas word search had the highest listed score at 73, with 110 books and a median of 14 reviews. Winter word search scored 71 across 53 books and also had a median of 14 reviews. Both are worth considering for publishers assessing seasonal demand.
 
-### What is the best word search sub-niche to publish on Amazon KDP?
+### What price and page count should a KDP word search book have?
 
-Christmas word search had the highest listed sub-niche score at 73, across 110 books, with a median of 14 reviews. Winter word search scored 71 across 53 books and also had a median of 14 reviews. These two sub-niches have the strongest listed combination of opportunity score and relatively low review counts.
+The market median price was $9.99, and the median length was 127 pages. The 25th and 75th percentile prices were $8.0 and $12.0. The most common recorded trim size was 8.5x10.98, appearing in 414 books.
 
 ## Method and limits
 
@@ -172,6 +173,7 @@ Definitions used in this report: [Niche](../../methodology.md#niche), [Niche sco
 
 ## Version history
 
+- v2 · 2026-11-17 · Text revised
 - v1 · 2026-11-17 · First published
 
 ## Download the data
@@ -185,7 +187,7 @@ Definitions used in this report: [Niche](../../methodology.md#niche), [Niche sco
 ## Cite this report
 
 ```
-KDPTop Research (2026). Word search on Amazon KDP: Market Size, Competition and Prices (November 2026). Version 1, 2026-11-17. https://kdptop.com/research/niches/word-search-kdp/
+KDPTop Research (2026). Word search on Amazon KDP: Market Size, Competition and Prices (November 2026). Version 2, 2026-11-17. https://kdptop.com/research/niches/word-search-kdp/
 ```
 
 Text and data are released under CC BY 4.0: quote freely with "Source: KDPTop (kdptop.com)" and a link.
