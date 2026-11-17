@@ -1,0 +1,7 @@
+product_type,books,share_pct,indie_share_pct,median_price,median_reviews
+fiction_novel,4495,99.1,48.6,4.99,988
+ya_novel,32,0.7,21.9,9.21,29986
+comic_graphic,3,0.1,100.0,3.99,4
+poetry,2,0.0,50.0,1.76,586
+nonfiction,1,0.0,0.0,5.95,99
+picture_book,1,0.0,0.0,2.99,1706

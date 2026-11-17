@@ -1,0 +1,15 @@
+direction,node_id,store,category_path,score_start,score_end,change,median_price,median_reviews
+up,214873905011,kindle,Kindle eBooks > Romance > Second Chances,27,39,12,3.99,292
+up,6190465011,kindle,Kindle eBooks > Romance > Romance,23,34,11,5.99,630
+up,120220974011,kindle,Kindle eBooks > Romance > Billionaires & Millionaires,16,26,10,4.99,1837
+up,120220981011,kindle,Kindle eBooks > Romance > Small Town Romance,20,29,9,4.99,1622
+up,17744544011,kindle,Kindle eBooks > Romance > Later in Life,30,39,9,3.1,261
+up,6487837011,kindle,Kindle eBooks > Romance > Multicultural & Interracial,16,25,9,4.99,1648
+up,120220976011,kindle,Kindle eBooks > Romance > Love Triangle,32,40,8,3.99,221
+up,6487836011,kindle,Kindle eBooks > Romance > Military,14,22,8,4.99,2758
+up,96711267011,kindle,Kindle eBooks > Romance > Rockstar Romance,15,23,8,4.99,2212
+up,6487833011,kindle,Kindle eBooks > Romance > Amish & Mennonite,35,42,7,0.99,63
+down,206810017011,kindle,Kindle eBooks > Romance > Indigenous,37,17,-20,4.99,112
+down,206810016011,kindle,Kindle eBooks > Romance > Hispanic & Latino,37,24,-13,3.99,192
+down,10886541011,kindle,Kindle eBooks > Romance > LGBTQ+,33,28,-5,5.16,961
+down,158569011,kindle,Kindle eBooks > Romance > Romantasy,11,10,-1,6.99,40314
