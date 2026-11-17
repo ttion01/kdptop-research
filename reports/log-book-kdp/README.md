@@ -2,12 +2,12 @@
 
 > Source: KDPTop Research, KDPTop (kdptop.com). Original: https://kdptop.com/research/niches/log-book-kdp/
 
-中文版: [README.zh.md](README.zh.md) · Version 1 (2026-11-17) · [Methodology](../../methodology.md)
+中文版: [README.zh.md](README.zh.md) · Version 2 (2026-11-17) · [Methodology](../../methodology.md)
 
 **Data window**: Oct 27, 2026 to Nov 16, 2026  
 **Sample**: 4,161 books in this niche on Amazon.com lists
 
-The Amazon KDP log book niche scores 67 out of 100. It contains 4,161 books, with estimated daily sales of 1,028 units and a median of 9 reviews.
+The Amazon KDP log book niche contains 4,161 books and has estimated daily sales of 1,028 units. Its niche score is 67 out of 100.
 
 | Books on the lists | Median reviews | Niche score rank |
 |---|---|---|
@@ -15,19 +15,19 @@ The Amazon KDP log book niche scores 67 out of 100. It contains 4,161 books, wit
 
 ## Key findings
 
-1. As of November 16, 2026, the Amazon.com Log book niche contained 4,161 books across the Best Sellers and New Releases lists, with estimated daily sales of 1,028 units. Its niche score was 67, placing it 160 out of 1,715 niches.
-2. The median review count for Amazon.com log books was 9 as of November 16, 2026. Of the books in the sample, 2,819 had fewer than 10 reviews, and 86.8% had fewer than 50.
-3. As of November 16, 2026, only 0.5% of Amazon.com log books sold 100 or more copies per month. Independently published books accounted for 93.0% of the sample, and 34.5% of titles had been published within the last year.
-4. Amazon.com log books had a median price of $9.99 and a median length of 110 pages as of November 16, 2026. The most common trim sizes were 8.5x10.98, used by 918 books, and 5.98x9.02, used by 801 books.
-5. Log book for couples scored 61 across 57 books, with a median of 4 reviews. Log book for teachers scored 54 across 90 books, with a median of 3 reviews. Both sub-niches had lower review barriers than the overall niche.
+1. The Amazon.com Log book niche contained 4,161 books across the Best Sellers and New Releases lists from October 27 to November 16, 2026. Estimated daily sales reached 1,028 units.
+2. The Log book niche scored 67 out of 100 and ranked 160 out of 1,715 niches, placing it among the higher-scoring KDP markets tracked.
+3. Amazon.com Log book listings had a median of 9 reviews. A total of 2,819 books had fewer than 10 reviews, and 86.8% had fewer than 50 reviews.
+4. Independently published books made up 93.5% of the Log book niche. A further 34.5% of sampled books had been published within the last year.
+5. Log book for couples scored 61 across 57 books, with a median of 4 reviews. Log book for teachers scored 54 across 90 books, with a median of 3 reviews.
 
 ## How big is the niche
 
-The Amazon.com Log book niche contained 4,161 books across the current Best Sellers and New Releases lists during the October 18 to November 16, 2026 period. The Best Sellers list accounted for 3,707 books and New Releases for 681, with some titles appearing on both lists. Print books made up 4,130 titles, compared with 31 Kindle eBooks. Estimated daily sales across the niche were 1,028 units.
+The Amazon.com Log book niche contained 4,161 books during the October 27 to November 16, 2026 data period. The lists included 3,707 Best Sellers entries and 681 New Releases entries, with some books appearing on both lists. Print books accounted for 4,130 listings, compared with 31 Kindle eBooks. Estimated daily sales across the niche were 1,028 units.
 
-The niche scored 67 out of 100, ranking 160 out of 1,715 niches. Strong estimated demand and a low review barrier support the score, while new-release inflow and breakout performance contribute less. This is a large, established market with competition across a wide range of practical uses.
+The niche scored 67 out of 100 and ranked 160 out of 1,715 tracked niches. Strong estimated demand and a low review barrier support its score, while new-release inflow and breakout performance make smaller contributions. The sample provides a broad view of the market, given the number of listings included.
 
-![Books on Best Sellers, day by day](https://kdptop.com/research/img/log-book-kdp/20261117140442/history-en.webp)
+![Books on Best Sellers, day by day](https://kdptop.com/research/img/log-book-kdp/20261117143336/history-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -42,30 +42,30 @@ The niche scored 67 out of 100, ranking 160 out of 1,715 niches. Strong estimate
 
 ## Search demand
 
-Estimated daily sales were 1,028 units across the books included in the lists, indicating consistent market activity. Amazon search data recorded 63,724 searches for teacher must haves, 27,491 for potty training chart and 12,528 for state quarter collection book. These terms point to demand for specific record-keeping products. However, the data does not identify a main search term for the overall Log book niche, so its broader search volume cannot be measured separately.
+Amazon search data shows demand across several distinct log book applications. The keyword bowling score book recorded 1,321 searches and 122 purchases. Gestational diabetes log book recorded 916 searches and 49 purchases across 222 products. Password book for seniors received 1,209 searches and 8 purchases, while internet password book received 967 searches and 21 purchases. Search activity is spread across specialist uses. The data does not identify a single dominant search term.
 
 | Search term | Monthly searches | Monthly purchases | Competing products | Average price |
 |---|---|---|---|---|
-| teacher must haves | 63,724 | 834 | 28,606 | - |
-| potty training chart | 27,491 | 1,206 | 1,831 | - |
-| customer service phone number | 15,133 | 1,301 | 163 | $7.99 |
-| state quarter collection book | 12,528 | 219 | 312 | - |
-| hunting gifts for men | 12,051 | 224 | 44,796 | - |
-| yatzee | 5,100 | 284 | 1,427 | - |
-| hunting gifts | 4,926 | 74 | 90,665 | - |
-| address books for seniors | 4,808 | 241 | 1,252 | - |
-| 1st birthday book | 3,994 | 136 | 9,862 | - |
-| national park book | 2,277 | 197 | 14,367 | - |
+| bowling score book | 1,321 | 122 | 160 | $8.59 |
+| princess autograph book | 1,265 | 13 | 7,571 | $9.99 |
+| password book for seniors | 1,209 | 8 | 1,308 | $6.99 |
+| coin folders | 1,133 | 13 | 1,632 | - |
+| internet password book | 967 | 21 | 1,527 | $9.31 |
+| gestational diabetes log book | 916 | 49 | 222 | $7.95 |
+| migraine tracker journal | 764 | 3 | 269 | $8.49 |
+| diecast model cars | 570 | 3 | 20,174 | $23.99 |
+| medical history notebook | 140 | 1 | 558 | $14.99 |
+| truck maintenance log book | 140 | 1 | 460 | $9.99 |
 
 ## Competition and the review barrier
 
-The overall median review count was 9, compared with a sample median of 2. The review distribution included 2,819 books with fewer than 10 reviews, 794 with 10-50, 250 with 50-100, 218 with 100-500 and 80 with 500 or more. In total, 86.8% had fewer than 50 reviews. This gives new publishers a relatively low review barrier, although established titles can still hold a substantial advantage.
+Review counts are low across much of the market. The median review count in the niche statistics was 9, and 2,819 sampled books had fewer than 10 reviews. Another 794 had 10-50 reviews, 250 had 50-100, 218 had 100-500 and 80 had 500 or more. The sample had a median of 2 reviews, and 86.8% of books had fewer than 50 reviews. Many listings therefore compete without an extensive review history.
 
-Only 0.5% of books sold 100 or more copies monthly, while 4,016 sold fewer than 30. Independently published books accounted for 93.0% of the sample, and 34.5% of titles had been published within the last year. Independent publishers already make up most of this market. The share of recently published books also shows that new titles continue to enter the niche, although monthly sales of 100 or more copies remain concentrated among a small proportion of books.
+Only 0.5% of sampled books sold 100 or more units monthly, while 4,016 fell into the under-30 monthly sales band. Independently published books accounted for 93.0% of the sample, compared with 93.5% in the niche statistics. Books published within the last year represented 34.5% of the sample. The high indie share indicates that self-publishers make up most of this market. However, the small proportion of books reaching 100 monthly sales shows that low review counts alone do not translate into strong sales.
 
-![How many reviews the books have](https://kdptop.com/research/img/log-book-kdp/20261117140442/reviews-en.webp)
+![How many reviews the books have](https://kdptop.com/research/img/log-book-kdp/20261117143336/reviews-en.webp)
 
-![Estimated monthly sales per book](https://kdptop.com/research/img/log-book-kdp/20261117140442/units-en.webp)
+![Estimated monthly sales per book](https://kdptop.com/research/img/log-book-kdp/20261117143336/units-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -78,9 +78,9 @@ Only 0.5% of books sold 100 or more copies monthly, while 4,016 sold fewer than 
 
 ## Price, page count and trim size
 
-The median price was $9.99. The 25th percentile was $7.99, while the 75th percentile was $9.99. The median book contained 110 pages. The most common trim sizes were 8.5x10.98, represented by 918 books, and 5.98x9.02, represented by 801 books. Another 141 books used 5.98x8.27. Most titles fell into the $8-$10 price band, which contained 1,744 books, followed by the $5-$8 band, with 1,198 books. Publishers should factor printing costs into their pricing decisions, particularly for standard log books.
+The median Amazon price was $9.99. The 25th percentile was $7.99 and the 75th percentile was $9.99. The largest price band was $8-$10, with 1,744 books, followed by $5-$8 with 1,198. The median book contained 110 pages. The most common trim sizes were 8.5x10.98, used by 918 books, and 5.98x9.02, used by 801 books. Another 141 books used the 5.98x8.27 trim. These figures provide a pricing reference of around $9.99 for a print log book with roughly 110 pages.
 
-![Price distribution](https://kdptop.com/research/img/log-book-kdp/20261117140442/prices-en.webp)
+![Price distribution](https://kdptop.com/research/img/log-book-kdp/20261117143336/prices-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -93,7 +93,7 @@ The median price was $9.99. The 25th percentile was $7.99, while the 75th percen
 
 ## Best-selling books in the niche
 
-The leading titles focus on specific, recurring recording tasks. Clever Fox Password Book with Alphabetical Tabs, 4"x5.5" Keeper Brown recorded 840 estimated monthly units at $13.99. Bill Tracker Notebook: Monthly Bill Payment Checklist - 8.5" x 11" 100+ Pages recorded 450 at $9.99. Yahtzee Score Sheets: 720+ Score Games for Scorekeeping, Yahtzee Score Pads, 6 X 9 Large Print Yahtzee Score Book also recorded 450 estimated monthly units at $5.9. Other leading titles cover household bills, national parks, pilot records, accounting and scorekeeping. These books give readers a clear purpose and a repeatable task to record.
+The leading sellers cover practical record keeping, scorekeeping and travel tracking. Clever Fox Password Book with Alphabetical Tabs, 4"x5.5" Keeper Brown was priced at $13.99, with estimated monthly sales of 840 units. Bill Tracker Notebook: Monthly Bill Payment Checklist - 8.5" x 11" 100+ Pages was priced at $9.99 and had estimated monthly sales of 450 units. Yahtzee Score Sheets: 720+ Score Games for Scorekeeping, Yahtzee Score Pads, 6 X 9 Large Print Yahtzee Score Book also recorded estimated monthly sales of 450 units, at $5.9. The other titles in the top ten cover bill tracking, pilot log books, an accounting ledger, national parks tracking and Crowns scorekeeping. Most of the top-ten titles are independently published. Where page counts are available, they range from 66 to 151.
 
 | Title | Author | Store | Price | Reviews | Est. sales/mo | Pages | Published | Indie |
 |---|---|---|---|---|---|---|---|---|
@@ -115,7 +115,7 @@ The leading titles focus on specific, recurring recording tasks. Clever Fox Pass
 
 ## Sub-niches
 
-Log book, adults scored 67 across 3,835 books, with a median of 9 reviews. Log book for couples scored 61 across 57 books and had a median of 4 reviews, making it a smaller segment with a low review barrier. Log book for parents scored 60 across 371 books, with a median of 7 reviews. Log book for teachers scored 54 across 90 books and had a median of 3 reviews, while Log book for nurses scored 56 across 184 books, with a median of 7 reviews. Log book for students scored 54 across 216 books and had a median of 2 reviews. Couples, teachers and students offer identifiable audiences and relatively low review counts, although all three segments scored below the overall niche.
+Log book, adults has the highest listed score at 67, with 3,835 books and a median of 9 reviews. Several smaller markets have lower median review counts. Log book for couples scored 61 across 57 books, with a median of 4 reviews. Log book for teachers scored 54 across 90 books, with a median of 3 reviews. Log book for students also scored 54, covering 216 books with a median of 2 reviews. Log book for parents scored 60 across 371 books, with a median of 7 reviews, while Log book for nurses scored 56 across 184 books, also with a median of 7 reviews. These sub-niches have lower median review counts than the overall market, although their scores differ.
 
 | Sub-niche | Books | Median reviews | Median price | Est. daily sales | Score |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@ Log book, adults scored 67 across 3,835 books, with a median of 9 reviews. Log b
 
 ## Where these books rank
 
-The books appeared across 1,478 categories, indicating that Log book titles compete across multiple browsing destinations. Among the listed categories, Disney World had 50 books and an opportunity score of 28. Nursing Home Care had 58 books and an opportunity score of 26, while Bookkeeping had 67 books and an opportunity score of 24. Autographs, with 74 books, Card Games, with 72, and Bed & Breakfasts, with 70, each had an opportunity score of 23. Disney World and Nursing Home Care recorded the highest opportunity scores among the supplied categories. Publishers should consider these scores alongside how closely each category fits their proposed title.
+Sampled Log book titles appeared across 1,478 categories. The listed category opportunities include Disney World, with 50 books and an opportunity score of 28; Nursing Home Care, with 58 books and a score of 26; and Bookkeeping, with 67 books and a score of 24. Autographs, Card Games and Bed & Breakfasts each have opportunity scores of 23, with 74, 72 and 70 books respectively. Disney World and Nursing Home Care have the highest opportunity scores among the supplied categories. Bookkeeping has a larger number of listed books.
 
 | Category | Store | Niche books | Opportunity score |
 |---|---|---|---|
@@ -145,27 +145,27 @@ The books appeared across 1,478 categories, indicating that Log book titles comp
 
 ## Should you publish in this niche?
 
-The Log book niche offers a reasonable entry point for independent publishers with a clearly defined recording task and target audience. Its score of 67, estimated daily sales of 1,028 units and 93.0% indie share point to an established market where independent publishing is already common. The median review count of 9 also suggests that publishers can compete without matching the review totals of the largest titles. Log book for couples, Log book for teachers and Log book for students provide narrower entry points, with median review counts of 4, 3 and 2 respectively.
+The Log book niche is worth investigating for independent publishers planning practical print books aimed at specific audiences. Its score of 67, estimated daily sales of 1,028 units and 93.5% indie share point to an established market with substantial self-publisher participation. Review counts are relatively low across many listings, so new books can enter categories where competing titles have yet to build large review histories. Log book for couples, Log book for teachers and Log book for students have particularly low median review counts.
 
-Sales concentration is the main constraint. Only 0.5% of books sold 100 or more copies monthly, while 4,016 sold fewer than 30. With 4,161 titles already in the market, a generic log book would face considerable competition. The data supports testing a specific use case rather than assuming that estimated sales across the overall niche will translate into sales for an individual title. The data covers a 21-day period and does not identify a seasonal peak or recommend a launch month for this broad niche.
+The main concern is the difference between overall market activity and the sales individual books achieve. Only 0.5% of sampled books sold 100 or more units monthly, while 4,016 fell into the under-30 monthly sales band. Publishers should evaluate demand for each keyword and use case rather than assume that the niche's estimated sales indicate what a new title can achieve. The data does not identify a seasonal peak month or recommended launch window, so it cannot support a seasonal publishing schedule.
 
 ## Common questions
 
-### How many books are in the Amazon KDP log book niche?
+### How big is the Amazon KDP log book market?
 
-As of November 16, 2026, the Log book niche contained 4,161 books. The lists included 3,707 Best Sellers and 681 New Releases, with some titles appearing on both.
+The Log book niche contained 4,161 books from October 27 to November 16, 2026. This included 3,707 Best Sellers entries and 681 New Releases entries. Estimated daily sales were 1,028 units, and the niche scored 67 out of 100.
 
-### How much do log books sell on Amazon per month?
+### How competitive is the log book niche on Amazon KDP?
 
-Estimated daily sales across the niche were 1,028 units. In the sample, 4,016 books sold fewer than 30 copies monthly, while 0.5% sold 100 or more.
+The niche had a median of 9 reviews, and 2,819 books had fewer than 10 reviews. In the sample, 86.8% of books had fewer than 50 reviews. However, only 0.5% of books sold 100 or more units monthly.
 
-### What is the best price for an Amazon KDP log book?
+### What is the typical price for an Amazon log book?
 
-The median price was $9.99, with a 25th percentile of $7.99 and a 75th percentile of $9.99. The median length was 110 pages. The $8-$10 price band contained 1,744 books.
+The median price was $9.99, with a 25th percentile of $7.99 and a 75th percentile of $9.99. The median page count was 110. The most common trim sizes were 8.5x10.98 and 5.98x9.02.
 
-### Which log book sub-niches have the lowest competition?
+### Which log book sub-niches have the lowest review barriers?
 
-Log book for students had a median of 2 reviews across 216 books and scored 54. Log book for teachers had a median of 3 reviews across 90 books and also scored 54. Log book for couples had a median of 4 reviews across 57 books and scored 61.
+Log book for students had a median of 2 reviews across 216 books and a score of 54. Log book for teachers had a median of 3 reviews across 90 books and a score of 54. Log book for couples had a median of 4 reviews across 57 books and a score of 61.
 
 ## Method and limits
 
@@ -179,6 +179,7 @@ Definitions used in this report: [Niche](../../methodology.md#niche), [Niche sco
 
 ## Version history
 
+- v2 · 2026-11-17 · Text revised
 - v1 · 2026-11-17 · First published
 
 ## Download the data
@@ -192,7 +193,7 @@ Definitions used in this report: [Niche](../../methodology.md#niche), [Niche sco
 ## Cite this report
 
 ```
-KDPTop Research (2026). Log book on Amazon KDP: Market Size, Competition and Prices (November 2026). Version 1, 2026-11-17. https://kdptop.com/research/niches/log-book-kdp/
+KDPTop Research (2026). Log book on Amazon KDP: Market Size, Competition and Prices (November 2026). Version 2, 2026-11-17. https://kdptop.com/research/niches/log-book-kdp/
 ```
 
 Text and data are released under CC BY 4.0: quote freely with "Source: KDPTop (kdptop.com)" and a link.
