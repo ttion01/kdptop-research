@@ -2,12 +2,12 @@
 
 > Source: KDPTop Research, KDPTop (kdptop.com). Original: https://kdptop.com/research/niches/adult-coloring-kdp/
 
-中文版: [README.zh.md](README.zh.md) · Version 1 (2026-11-17) · [Methodology](../../methodology.md)
+中文版: [README.zh.md](README.zh.md) · Version 2 (2026-11-17) · [Methodology](../../methodology.md)
 
 **Data window**: Oct 27, 2026 to Nov 16, 2026  
 **Sample**: 4,988 books in this niche on Amazon.com lists
 
-Adult coloring has a niche score of 74, with 4,988 books, estimated daily sales of 7,561 units and 79.2% indie participation.
+Adult coloring books have a niche score of 74, with 4,988 books listed on Amazon and estimated daily sales of 7,561 units.
 
 | Books on the lists | Median reviews | Niche score rank |
 |---|---|---|
@@ -15,19 +15,17 @@ Adult coloring has a niche score of 74, with 4,988 books, estimated daily sales 
 
 ## Key findings
 
-1. Adult coloring contained 4,988 books across Amazon Best Sellers and New Releases lists from October 18 to November 16, 2026, with estimated daily sales of 7,561 units. The niche scored 74 and ranked 28th among 1,715 niches.
-2. Search demand was highest for adult coloring book for women, which recorded 117,948 searches and 12,998 purchases. coco wyo coloring book followed with 112,642 searches and 15,409 purchases during the measured period.
-3. The review barrier in Adult coloring is relatively low: 2,993 books had fewer than 10 reviews, and 77.4% had fewer than 50. Only 4.5% of sampled books sold 100 or more units per month.
-4. Independent publishers accounted for 81.3% of sampled Adult coloring books, and 54.2% had been published within the last year. The sample median price was $9.99, and the median book length was 96 pages.
-5. Winter adult coloring had the highest score among the listed sub-niches, at 78, with 294 books and a median of 10 reviews. Christmas adult coloring scored 74, with 458 books and a median of 12 reviews.
+1. Adult coloring lists on Amazon.com contained 4,988 books as of November 16, 2026. Estimated daily sales reached 7,561 units, giving the niche a score of 74 and a rank of 28th among 1,715 niches.
+2. The keyword adult coloring book for women recorded 117,948 Amazon searches, compared with 16,088 searches for adult coloring book for men in the supplied search data.
+3. Adult coloring books had a median of 17 reviews. As of November 16, 2026, 2,993 books had fewer than 10 reviews.
+4. Independently published titles made up 79.2% of the Adult coloring niche. The dataset also included 522 breakout books and 702 newcomers.
+5. Winter adult coloring scored 78 across 294 books, with a median of 10 reviews. It had the highest score among the listed sub-niches and a relatively low review barrier.
 
 ## How big is the niche
 
-Amazon's Adult coloring lists contained 4,988 books: 3,616 on Best Sellers and 1,894 on New Releases. Print books accounted for 4,851 listings, compared with 137 Kindle eBooks. Estimated daily sales reached 7,561 units across the niche, showing that buyers are actively purchasing titles across a broad market.
+Adult coloring had 4,988 books across Amazon Best Sellers and New Releases lists from October 18 to November 16, 2026. The dataset recorded 3,616 Best Sellers entries and 1,894 New Releases entries. Estimated daily sales reached 7,561 units, showing consistent activity across the niche.
 
-The niche scored 74 out of 100 and ranked 28th among 1,715 niches. Its demand component scored 1.0, its review barrier scored 0.936 and its indie participation scored 0.792. Strong demand and relatively accessible review conditions support the score, though publishers face competition from thousands of existing titles.
-
-![Books on Best Sellers, day by day](https://kdptop.com/research/img/adult-coloring-kdp/20261117140643/history-en.webp)
+![Books on Best Sellers, day by day](https://kdptop.com/research/img/adult-coloring-kdp/20261117143539/history-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -42,30 +40,28 @@ The niche scored 74 out of 100 and ranked 28th among 1,715 niches. Its demand co
 
 ## Search demand
 
-Amazon search data points to strong interest in adult coloring book for women, which received 117,948 searches and 12,998 purchases, and coco wyo coloring book, which received 112,642 searches and 15,409 purchases. Adult coloring book for men recorded 16,088 searches and 4,009 purchases. halloween adult coloring book generated 11,698 searches and 1,805 purchases. Broad interest in adult coloring sits alongside demand for specific audiences and seasonal themes, giving publishers several distinct keyword directions to consider.
+The keyword adult coloring book for women recorded 117,948 searches and 12,998 purchases. By comparison, adult coloring book for men recorded 16,088 searches and 4,009 purchases. More specialized terms also generated substantial search activity: pharmacology coloring book had 12,390 searches, and halloween adult coloring book had 11,698 searches. Broad audience terms attract the largest search volumes, while focused subjects can reach buyers through more specific queries.
 
 | Search term | Monthly searches | Monthly purchases | Competing products | Average price |
 |---|---|---|---|---|
 | adult coloring book for women | 117,948 | 12,998 | 28,463 | $9.99 |
-| coco wyo coloring book | 112,642 | 15,409 | 664 | $5.99 |
-| pumpkin spice cafe book | 45,147 | 167 | 417 | - |
-| horro | 18,201 | 198 | 271,952 | - |
 | adult coloring book for men | 16,088 | 4,009 | 7,325 | $9.99 |
 | pharmacology coloring book | 12,390 | 67 | 348 | $19.99 |
 | halloween adult coloring book | 11,698 | 1,805 | 9,491 | $9.99 |
-| halloween books for adults | 9,914 | 53 | 25,752 | - |
-| bachelorette gifts | 9,690 | 126 | 40,396 | - |
-| mini coloring book adult | 6,628 | 72 | 2,988 | $5.99 |
+| christmas adult coloring book | 3,146 | 415 | 6,923 | $7.99 |
+| microbiology coloring book | 1,715 | 258 | 1,182 | $13.95 |
+| medical terminology coloring book | 1,553 | 6 | 286 | $17.99 |
+| graffiti coloring book | 1,317 | 215 | 497 | $11.99 |
+| manga coloring book | 1,308 | 113 | 5,329 | - |
+| interior design coloring book | 1,171 | 126 | 1,011 | $9.99 |
 
 ## Competition and the review barrier
 
-Review counts suggest that publishers can enter this niche without first building a large review base. Of the sampled books, 2,993 had fewer than 10 reviews, 867 had 10-50, 286 had 50-100, 483 had 100-500 and 360 had 500 or more. The sample median was 3 reviews, and 77.4% of books had fewer than 50. Sales figures present a tougher picture. An estimated 4,243 books sold under 30 units per month, 493 sold 30-100, 148 sold 100-300, 55 sold 300-1,000 and 21 sold 1,000 or more. Only 4.5% reached 100 or more monthly sales.
+The median review count was 17. Of the books in the dataset, 2,993 had fewer than 10 reviews, 867 had 10-50, 286 had 50-100, 483 had 100-500 and 360 had 500 or more. Overall, 77.4% of books had fewer than 50 reviews. However, only 4.5% of books sold 100 or more units monthly. Estimated monthly sales were distributed as follows: 4,243 books under 30 units, 493 at 30-100, 148 at 100-300, 55 at 300-1,000 and 21 at 1,000 or more.
 
-Independent publishers accounted for 81.3% of the sample, and 54.2% of books had been published within the last year. The indie share in the main statistics was 79.2%. The 96.7% KDP feasibility estimate suggests that most sampled products are suitable for print-on-demand publishing. However, the size of the competing catalog and the low sales of most titles make a distinct concept important.
+![How many reviews the books have](https://kdptop.com/research/img/adult-coloring-kdp/20261117143539/reviews-en.webp)
 
-![How many reviews the books have](https://kdptop.com/research/img/adult-coloring-kdp/20261117140643/reviews-en.webp)
-
-![Estimated monthly sales per book](https://kdptop.com/research/img/adult-coloring-kdp/20261117140643/units-en.webp)
+![Estimated monthly sales per book](https://kdptop.com/research/img/adult-coloring-kdp/20261117143539/units-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -78,9 +74,9 @@ Independent publishers accounted for 81.3% of the sample, and 54.2% of books had
 
 ## Price, page count and trim size
 
-The sample median price was $9.99. The 25th percentile was $9.86, and the 75th percentile was $11.71. The $8-$10 band was the largest, containing 2,395 books, followed by the $10-$13 band with 1,070. Median book length was 96 pages. The most common trim sizes were 8.5x10.98, used by 2,069 books, and 8.5x8.5, used by 981. The catalog therefore centers on a price of about $10, with larger coloring-book formats accounting for most common listings.
+The median price was $9.99, with P25 at $9.86 and P75 at $11.71. The $8-$10 band contained the most books, with 2,395 listings. Median page count was 96. The most common trim sizes were 8.5x10.98, with 2,069 books, and 8.5x8.5, with 981 books. Most of the market sits around the $10 paperback price point, with approximately 96 pages.
 
-![Price distribution](https://kdptop.com/research/img/adult-coloring-kdp/20261117140643/prices-en.webp)
+![Price distribution](https://kdptop.com/research/img/adult-coloring-kdp/20261117143539/prices-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -93,7 +89,7 @@ The sample median price was $9.99. The 25th percentile was $9.86, and the 75th p
 
 ## Best-selling books in the niche
 
-The leading titles pair accessible illustrations with familiar themes and broad audiences. Cozy Corner: Coloring Book for Adults and Kids (Cozy Spaces Coloring) had estimated monthly sales of 9,180 units, with 2,866 reviews, 96 pages and a $5.27 price. Cozy Cuties: Coloring Book for Adults and Kids (Cozy Spaces Coloring) recorded estimated monthly sales of 8,580 units, 5,862 reviews and 96 pages at $6.23. The indie title Cozy Girl Season: Bold and Easy Coloring Book for Adults & Teens, Featuring Fall, Halloween, and Christmas Designs | Simple, Cute Illustrations for Hygge and Relaxation (Cozy Girl Series) recorded estimated monthly sales of 7,560 units, with 776 reviews, 108 pages and a $9.93 price. Cozy settings, seasonal subjects and bold, easy illustrations appear frequently among these leading titles.
+The leading titles pair accessible coloring designs with relaxation themes and cozy imagery. Cozy Corner: Coloring Book for Adults and Kids (Cozy Spaces Coloring) recorded 9,180 estimated monthly units at $5.27 and had 96 pages. Cozy Cuties: Coloring Book for Adults and Kids (Cozy Spaces Coloring) recorded 8,580 estimated monthly units at $6.23, also with 96 pages. Stress Relief: Coloring Book for Adults and Kids, Bold and Easy, Simple and Big Designs for Relaxation Featuring Animals, Landscape, Flowers, Patterns, Cute Things And Many More recorded 3,180 estimated monthly units at $9.99 and had 110 pages. Seasonal concepts also performed well in the table, with Cozy Girl Season recording 7,560 estimated monthly units.
 
 | Title | Author | Store | Price | Reviews | Est. sales/mo | Pages | Published | Indie |
 |---|---|---|---|---|---|---|---|---|
@@ -115,7 +111,7 @@ The leading titles pair accessible illustrations with familiar themes and broad 
 
 ## Sub-niches
 
-Winter adult coloring leads the listed sub-niches with a score of 78, 294 books and a median of 10 reviews. Adult coloring, adults scored 75, with 3,657 books and a median of 16 reviews. Christmas adult coloring scored 74, with 458 books and a median of 12 reviews. Adult coloring for women scored 71, with 776 books and a median of 16 reviews. Adult coloring for students scored 70, with 207 books and a median price of 14.5; its median review count was 34. Among these narrower markets, Winter adult coloring has the highest score and the lowest median review count.
+Winter adult coloring leads the listed sub-niches with a score of 78, 294 books and a median of 10 reviews. Christmas adult coloring scores 74 across 458 books, with a median of 12 reviews. Adult coloring for women scores 71 with 776 books and a median of 16 reviews, while Adult coloring for nurses scores 69 with 131 books and a median of 22 reviews. Winter and Christmas have the strongest combination of scores and relatively low median review counts in this dataset.
 
 | Sub-niche | Books | Median reviews | Median price | Est. daily sales | Score |
 |---|---|---|---|---|---|
@@ -132,7 +128,7 @@ Winter adult coloring leads the listed sub-niches with a score of 78, 294 books 
 
 ## Where these books rank
 
-The sampled books appeared across 1,691 categories. Mandalas & Patterns contained 176 books and had an opportunity score of 22. Fantasy & Science Fiction had 170 books and scored 23. Fashion contained 162 books with a score of 26, while Flowers & Landscapes had 158 books and scored 25. Science & Anatomy contained 156 books and scored 25. Animals also had 156 books, with a score of 26. Fashion and Animals had the highest opportunity scores among the listed categories. All six scores suggest that competition at the category level remains a factor for publishers.
+Mandalas & Patterns has the largest book count among the leading categories, with 176 books and an opportunity score of 22. Fantasy & Science Fiction follows with 170 books and a score of 23, while Fashion has 162 books and a score of 26. Flowers & Landscapes contains 158 books and has a score of 25. Science & Anatomy and Animals each have 156 books, with opportunity scores of 25 and 26 respectively. Fashion and Animals lead on opportunity score, although competition remains a factor across all six categories.
 
 | Category | Store | Niche books | Opportunity score |
 |---|---|---|---|
@@ -145,27 +141,25 @@ The sampled books appeared across 1,691 categories. Mandalas & Patterns containe
 
 ## Should you publish in this niche?
 
-Adult coloring offers a workable market for independent publishers who have a defined concept and realistic sales expectations. The niche score of 74, sample indie share of 81.3% and median review count of 3 indicate that independent titles can compete without matching the review totals of established leaders. Winter adult coloring and Christmas adult coloring provide narrower market options, both with comparatively low median review counts. The leading titles also show that bold, easy illustrations and seasonal or cozy themes can accompany substantial estimated sales.
-
-Sales remain concentrated among a small share of books. Only 4.5% of sampled titles sold 100 or more units per month, while 4,243 sold under 30. Publishers should read the estimated demand as evidence of an active market, not as a forecast that a new title will approach the sales of established leaders. A price near the $9.99 median and formats close to the common 8.5x10.98 and 8.5x8.5 trim sizes are consistent with the existing catalog. The data does not establish a specific seasonal peak, so it cannot support a precise launch-window recommendation.
+Adult coloring is a sizeable KDP market, with a niche score of 74 and a ranking of 28 among 1,715 niches. Independently published books account for 79.2% of the catalog, and the median review count of 17 suggests that many titles still have relatively modest review totals. Estimated daily sales of 7,561 units confirm meaningful demand. However, just 4.5% of books sell 100 or more units monthly, so a relatively small share of the catalog accounts for stronger sales.
 
 ## Common questions
 
-### How many adult coloring books are on Amazon?
+### How many adult coloring books are on Amazon KDP?
 
-The Adult coloring niche contained 4,988 books across Amazon Best Sellers and New Releases lists. The main statistics recorded 3,616 Best Sellers and 1,894 New Releases.
+The Adult coloring niche contained 4,988 books across Amazon Best Sellers and New Releases lists as of November 16, 2026. The dataset recorded 3,616 Best Sellers entries and 1,894 New Releases entries.
 
-### How much do adult coloring books sell on Amazon?
+### How many adult coloring books sell on Amazon each day?
 
-Estimated daily sales across the niche were 7,561 units. In the sampled catalog, 4.5% of books sold 100 or more units per month, while 4,243 books sold under 30.
+Estimated daily sales for the niche were 7,561 units. Within the sample, 4.5% of books sold 100 or more units monthly, while 4,243 books fell into the under-30 monthly sales band.
 
-### What is the best price for an adult coloring book on KDP?
+### What is the best price for an adult coloring book on Amazon KDP?
 
-The sample median price was $9.99, with a 25th percentile of $9.86 and a 75th percentile of $11.71. The median book had 96 pages, and 8.5x10.98 was the most common trim size.
+The median price was $9.99, with P25 at $9.86 and P75 at $11.71. The largest price band was $8-$10, containing 2,395 books. The median page count was 96.
 
-### Which adult coloring sub-niche has the best opportunity on Amazon?
+### Which adult coloring sub-niche has the best KDP opportunity?
 
-Winter adult coloring had the highest listed sub-niche score, at 78, with 294 books and a median of 10 reviews. Christmas adult coloring scored 74, with 458 books and a median of 12 reviews.
+Winter adult coloring had the highest listed score at 78, with 294 books and a median of 10 reviews. Christmas adult coloring scored 74, with 458 books and a median of 12 reviews.
 
 ## Method and limits
 
@@ -179,6 +173,7 @@ Definitions used in this report: [Niche](../../methodology.md#niche), [Niche sco
 
 ## Version history
 
+- v2 · 2026-11-17 · Text revised
 - v1 · 2026-11-17 · First published
 
 ## Download the data
@@ -192,7 +187,7 @@ Definitions used in this report: [Niche](../../methodology.md#niche), [Niche sco
 ## Cite this report
 
 ```
-KDPTop Research (2026). Adult coloring on Amazon KDP: Market Size, Competition and Prices (November 2026). Version 1, 2026-11-17. https://kdptop.com/research/niches/adult-coloring-kdp/
+KDPTop Research (2026). Adult coloring on Amazon KDP: Market Size, Competition and Prices (November 2026). Version 2, 2026-11-17. https://kdptop.com/research/niches/adult-coloring-kdp/
 ```
 
 Text and data are released under CC BY 4.0: quote freely with "Source: KDPTop (kdptop.com)" and a link.
