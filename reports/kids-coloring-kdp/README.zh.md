@@ -2,192 +2,171 @@
 
 > 来源：KDPTop 研究报告，KDPTop（kdptop.com）。原文：https://kdptop.com/research/zh/niches/kids-coloring-kdp/
 
-English: [README.md](README.md) · 版本 2 (2026-11-09) · [方法说明](../../methodology.md)
+English: [README.md](README.md) · 版本 3 (2026-11-17) · [方法说明](../../methodology.md)
 
-**数据区间**: 2026年10月27日 至 2026年11月8日  
-**样本**: 亚马逊美国站榜单上这个细分的 4,203 本书
+**数据区间**: 2026年10月27日 至 2026年11月16日  
+**样本**: 亚马逊美国站榜单上这个细分的 4,572 本书
 
-截至2026年11月8日，亚马逊美国站涂色书细分市场共有4,203本在榜图书，估算日销2,175本，细分评分81分，在1,612个细分市场中排名第1。市场评论门槛较低，独立出版占比较高，新作者仍有进入榜单的空间。
+截至2026年11月16日，亚马逊美国站涂色书细分市场收录4572本在售及新品书，估算日销2466本，细分评分82分，在1715个细分市场中排名第1。报告整理了搜索需求、评论门槛、价格分布和热门子类目数据，为KDP作者选择选题和制定定价提供参考。
 
 | 榜单上的书 | 评论数中位数 | 细分评分排名 |
 |---|---|---|
-| **4,203** | **4** | **1/1612** |
+| **4,572** | **4** | **1/1715** |
 
 ## 核心结论
 
-1. 截至2026年11月8日，亚马逊美国站涂色书细分市场共有4,203本在榜图书，估算日销量为2,175本，细分评分81分，在1,612个细分市场中排名第1。
-2. 截至2026年11月8日，涂色书样本中有3,440本评论少于10条，占样本总量的比例较高；91.1%的图书评论少于50条，样本评论中位数为0。
-3. 截至2026年11月8日，亚马逊涂色书样本中有89.7%属于独立出版，62.8%在过去一年内出版，榜单中持续有独立作者的新书进入。
-4. 亚马逊美国站搜索词 halloween coloring book 在数据期内有92,401次搜索和14,442次购买，是给定搜索词中搜索量最高的涂色书相关词。
-5. 截至2026年11月8日，涂色书样本中月销100本以上的图书占2.1%，主流价格集中在$8–$10，价格中位数为$9.99。
+1. 截至2026年11月16日，亚马逊美国站涂色书细分市场共有4572本榜单书，估算日销量2466本，细分评分82分，在1715个细分市场中排名第1。
+2. 截至2026年11月16日，涂色书样本中位评论数为4条，3796本书的评论数少于10条，91.3%的书评论数不足50条，整体评论门槛较低。
+3. 亚马逊美国站搜索词 halloween coloring book 在数据期内获得92401次搜索和14442次购买，是涂色书相关词中搜索量最高的词。
+4. 截至2026年11月16日，涂色书样本中86.8%为独立出版，72.4%在过去一年出版，但月销100本以上的书仅占1.9%。
+5. 涂色书细分中，6-8岁儿童涂色书评分81分、中位评论数3条；圣诞节涂色书评分80分、中位评论数3条。这两个方向的评论门槛都较低。
 
 ## 市场有多大
 
-亚马逊美国站涂色书细分市场共有4,203本在榜图书，其中畅销榜1,789本、新品榜2,725本，覆盖1,331个类目。纸质书占绝大多数，共有4,159本，Kindle电子书44本。按销售排名估算，日销量为2,175本，细分评分81分，在全部1,612个细分市场中排名第1。
+截至2026年11月16日，亚马逊美国站涂色书细分市场共有4572本榜单书，其中畅销榜1966本、新品榜2946本，覆盖1423个类目。样本统计期为2026年10月27日至11月16日，估算日销量2466本，细分评分82分，在1715个细分市场中排名第1。这个品类的商品供给和销售活动都比较活跃，新书需要面对大量已有商品。
+榜单以纸书为主，共4531本，Kindle电子书41本。估算月销量数据显示，4285本书每月销量少于30本，销量主要集中在少数头部商品。细分市场排名第1，并不意味着普通新书也能轻松获得销量。
 
-市场整体需求规模较大，但销量主要集中在少数头部产品。样本月销量中位数只有5本，月销100本以上的图书占2.1%。这意味着市场总需求不能直接转化为单本书的销售预期，作者需要根据具体产品评估实际销量空间。
-
-![畅销榜上的书（每天）](https://kdptop.com/research/img/kids-coloring-kdp/20261109042615/history-zh.webp)
+![畅销榜上的书（每天）](https://kdptop.com/research/img/kids-coloring-kdp/20261117143550/history-zh.webp)
 
 | 指标 | 数值 |
 |---|---|
-| 榜单上的书 | 4,203 |
-| 其中在畅销榜 | 1,789 |
-| 其中在新品榜 | 2,725 |
-| 上榜类目数 | 1,331 |
-| 畅销榜上的书估算日销合计 | 2,175 |
-| 近 180 天出版且上畅销榜 | 319 |
-| 细分评分（0-100） | 81 |
-| 评分排名 | 1 / 1612 |
+| 榜单上的书 | 4,572 |
+| 其中在畅销榜 | 1,966 |
+| 其中在新品榜 | 2,946 |
+| 上榜类目数 | 1,423 |
+| 畅销榜上的书估算日销合计 | 2,466 |
+| 近 180 天出版且上畅销榜 | 391 |
+| 细分评分（0-100） | 82 |
+| 评分排名 | 1 / 1715 |
 
 ## 搜索需求
 
-亚马逊搜索词数据显示，halloween coloring book 有92,401次搜索和14,442次购买；christmas coloring book 有24,240次搜索和2,628次购买；harry potter coloring book 有15,244次搜索和1,785次购买。bible coloring book 有7,898次搜索和971次购买，coloring for toddlers 1-3 有5,463次搜索和95次购买。
-
-从搜索数据看，节日主题、授权主题和年龄细分都有明确需求。不过，搜索量高并不意味着独立作者容易进入相应市场。尤其是授权主题，需要提前考虑版权和授权限制。
+亚马逊搜索词数据显示，halloween coloring book 获得92401次搜索、14442次购买，平均价格$9.99；christmas coloring book 获得24240次搜索、2628次购买，平均价格$7.19。其他相关词包括 bible kids（3963次搜索）、coloring book for girls（2396次）、thanksgiving coloring book（2294次）、winter coloring book（1950次）、coloring book for men（1751次）和 coloring book for boys（1736次）。节日主题有明确的搜索需求，其中万圣节和圣诞节的关键词表现较突出。不过，搜索需求与产品数量之间存在差异。例如，coloring book for girls 有2396次搜索，对应91654个产品，作者需要考虑如何在现有商品中形成区分。
 
 | 搜索词 | 月搜索量 | 月购买量 | 搜索结果数 | 平均价格 |
 |---|---|---|---|---|
 | halloween coloring book | 92,401 | 14,442 | 13,911 | $9.99 |
 | christmas coloring book | 24,240 | 2,628 | 12,522 | $7.19 |
-| harry potter coloring book | 15,244 | 1,785 | 346 | - |
-| coloring books bulk | 11,400 | 362 | 16,052 | - |
-| bible coloring book | 7,898 | 971 | 9,931 | $6.97 |
-| soccer gifts for boys | 6,781 | 160 | 24,532 | - |
-| a be | 6,128 | 914 | 31,097 | - |
-| toddler gift | 5,933 | 154 | 197,009 | - |
-| coloring for toddlers 1-3 | 5,463 | 95 | 5,587 | - |
-| taylor swift coloring book | 4,277 | 626 | 203 | - |
+| bible kids | 3,963 | 296 | 29,307 | - |
+| coloring book for girls | 2,396 | 356 | 91,654 | $6.99 |
+| thanksgiving coloring book | 2,294 | 291 | 54,015 | $9.99 |
+| winter coloring book | 1,950 | 181 | 3,483 | $9.99 |
+| coloring book for men | 1,751 | 425 | 8,738 | - |
+| coloring book for boys | 1,736 | 475 | 70,471 | $5.99 |
+| wedding coloring book | 1,453 | 5 | 694 | - |
+| coloring book for women | 1,251 | 184 | 30,368 | - |
 
 ## 竞争和评论门槛
 
-涂色书样本评论数中位数为0。其中，评论少于10条的图书有3,440本，10–50条有360本，50–100条有111本，100–500条有149本，500条及以上有113本。评论少于50条的图书占91.1%，说明当前榜单中大量产品的评论积累仍然有限。
+样本共4572本书，中位评论数为0条；细分榜单统计的中位评论数为4条。评论数分布为：3796本少于10条，378本有10-50条，117本有50-100条，157本有100-500条，124本达到500条及以上。91.3%的样本评论数不足50条，低评论商品占据主流。
+月销100本以上的书占1.9%，其中62本月销100-300本、19本月销300-1000本、7本月销1000本及以上。样本独立出版占比89.4%，细分统计为86.8%；过去一年出版的新书占72.4%。KDP可行书籍占比96.5%，说明大部分产品形式适合独立出版。不过，新书数量较多，低销量商品占多数，作者需要重点考虑选题差异和商品转化能力。
 
-从销量分布看，样本中月销100本以上的图书占2.1%，其中月销100–300本的有58本，300–1,000本的有20本，1,000本及以上的有8本。
+![评论数分布](https://kdptop.com/research/img/kids-coloring-kdp/20261117143550/reviews-zh.webp)
 
-样本独立出版占比为89.7%，过去一年内出版的图书占62.8%。细分统计中的独立出版占比为82.1%，两项数据分别采用样本和细分统计口径，不能直接混用。KDP可行图书占95.9%，说明样本中的大多数产品类型都可以通过KDP制作。与此同时，低评论产品和新书数量较多，意味着同类产品之间仍存在持续竞争。
-
-![评论数分布](https://kdptop.com/research/img/kids-coloring-kdp/20261109042615/reviews-zh.webp)
-
-![估算月销量分布](https://kdptop.com/research/img/kids-coloring-kdp/20261109042615/units-zh.webp)
+![估算月销量分布](https://kdptop.com/research/img/kids-coloring-kdp/20261117143550/units-zh.webp)
 
 | 指标 | 数值 |
 |---|---|
 | 评论数中位数 | 0 |
-| 少于 50 条评论的书 | 91.1% |
+| 少于 50 条评论的书 | 91.3% |
 | 估算月销中位数 | 5 |
-| 估算月销 100 本以上的书 | 2.1% |
-| 独立出版占比 | 89.7% |
-| 近 12 个月出版的书 | 62.8% |
+| 估算月销 100 本以上的书 | 1.9% |
+| 独立出版占比 | 89.4% |
+| 近 12 个月出版的书 | 72.4% |
 
 ## 定价、页数和开本
 
-涂色书价格中位数为$9.99，P25为$8.99，P75为$9.99。价格在$8–$10之间的图书有2,293本，$5–$8有783本，$10–$13有723本，$20及以上只有22本。
+涂色书价格中位数为$9.99，P25为$8.99，P75为$9.99。价格主要集中在$8-$10区间，共2503本；$5-$8区间有820本，$10-$13区间有817本，低于$5的有105本，$13-$20的有276本，$20及以上有27本。样本页数中位数为76页。常见开本是8.5x10.98，共2082本，其次是8.5x8.5，共418本，7.99x10.0有46本。$9.99与市场价格中位数一致。若定价高于这一水平，需要有相应的页数或内容支撑。
 
-页数中位数为80页。常见开本是8.5x10.98，共1,230本，其次是8.5x8.5，共256本。现有价格分布可以作为定价参考，$9.99接近市场中位数。实际定价还需要结合页数和印刷成本核算。
-
-![价格分布](https://kdptop.com/research/img/kids-coloring-kdp/20261109042615/prices-zh.webp)
+![价格分布](https://kdptop.com/research/img/kids-coloring-kdp/20261117143550/prices-zh.webp)
 
 | 指标 | 数值 |
 |---|---|
 | 价格中位数 | $9.99 |
 | 价格区间（P25-P75） | $8.99-$9.99 |
-| 页数中位数 | 80 |
-| 常见开本 1 | 8.5x10.98 in (1,230) |
-| 常见开本 2 | 8.5x8.5 in (256) |
-| 常见开本 3 | 5.98x9.02 in (24) |
+| 页数中位数 | 76 |
+| 常见开本 1 | 8.5x10.98 in (2,082) |
+| 常见开本 2 | 8.5x8.5 in (418) |
+| 常见开本 3 | 7.99x10.0 in (46) |
 
 ## 卖得最好的书
 
-头部10本书中，My First BIG Toddler Coloring Book with 128 Perforated Pages of Fun Coloring Scenes Including Animals, Unicorns, Dinosaurs, Mermaids, Castles, Trucks, and More! (Start Little Learn Big Series) 估算月销5,610本，售价$5.99，128页，评论1,837条；Big Book of Colouring: Animals: For Children Ages 4+ (Big Books of Colouring (Ages 4+)) 估算月销2,610本，售价$7.99，127页，评论2,072条。
-
-头部书的页数包括32、40、64、107、110、127、128和576页，售价从$4.33到$22.48，评论数从121到7,963。10本头部书中，9本标记为非独立出版，1本为独立出版。
-
-头部产品覆盖幼儿、动物、节日和授权主题。现有数据能反映这些产品的销售表现，但不足以判断某种画风或内容形式在整个市场中都具有优势。
+头部10本书中，面向幼儿和儿童的产品占据明显位置。My First BIG Toddler Coloring Book with 128 Perforated Pages of Fun Coloring Scenes Including Animals, Unicorns, Dinosaurs, Mermaids, Castles, Trucks, and More! (Start Little Learn Big Series) 月销6690本、128页、1854条评论；Big Book of Colouring: Animals: For Children Ages 4+ (Big Books of Colouring (Ages 4+)) 月销2970本、127页、2095条评论。节日产品 Cozy Countdown: An Advent Coloring Book Bundle 有576页、150条评论、月销2760本，定价$29.99。授权主题也进入了头部榜单，包括 KPop Demon Hunters 40-Page Official Coloring Book | Action-Packed Coloring Book by Bendon，月销1590本，以及 Bluey: Big Backyard: A Coloring Book，拥有7974条评论。头部商品页数从32页到576页不等，价格从$4.33到$29.99不等。儿童主题、节日合集和授权内容都有商品进入高销量区间。
 
 | 书名 | 作者 | 店铺 | 价格 | 评论 | 估算月销 | 页数 | 出版 | 独立出版 |
 |---|---|---|---|---|---|---|---|---|
-| [My First BIG Toddler Coloring Book with 128 Perforated Pages of Fun Coloring Scenes Includ](https://www.amazon.com/dp/1646384377) | Start Little Learn Big | 纸书 | $5.99 | 1,837 | 5,610 | 128 | 2022-07 |  |
-| [Big Book of Colouring: Animals: For Children Ages 4+ (Big Books of Colouring (Ages 4+))](https://www.amazon.com/dp/191545428X) | FairyWren Publishing | 纸书 | $7.99 | 2,072 | 2,610 | 127 | 2024-03 |  |
-| [Cozy Countdown: An Advent Coloring Book Bundle](https://www.amazon.com/dp/B0GZ2ZPDBQ) | Coco Wyo | 纸书 | $22.48 | 121 | 2,340 | 576 | 2026-09 |  |
-| [Bluey: Hooray, It's Halloween!: A Coloring Book](https://www.amazon.com/dp/0593752554) | Penguin Young Readers Licenses | 纸书 | $4.78 | 459 | 1,710 | 32 | 2024-08 |  |
-| [Bluey: Big Backyard: A Coloring Book](https://www.amazon.com/dp/0593224582) | Penguin Young Readers Licenses | 纸书 | $4.33 | 7,963 | 1,470 | 64 | 2021-02 |  |
-| [KPop Demon Hunters 40-Page Official Coloring Book \| Action-Packed Coloring Book by Bendon](https://www.amazon.com/dp/1690294108) | Bendon | 纸书 | $5.99 | 833 | 1,380 | 40 | 2025-11 |  |
-| [Toddler's Head Start Educational Coloring Book Ages 1-3: Over 100 Pages \| Learn Colors, Wo](https://www.amazon.com/dp/B0DCZN17W9) | Color Fluff | 纸书 | $9.99 | 699 | 1,140 | 110 | 2024-09 | 是 |
-| [Disney Mystery Coloring: Princesses: A Color by Number Book](https://www.amazon.com/dp/B0FJ1PLH6C) | Disney | 纸书 | $17.58 | 413 | 1,050 | 128 | 2026-02 |  |
-| [Big Book of Colouring for Girls: Children Ages 4+ (Big Books of Colouring (Ages 4+))](https://www.amazon.com/dp/1915454255) | FairyWren Publishing | 纸书 | $6.99 | 1,587 | 720 | 110 | 2023-10 |  |
-| [Big Book of Colouring for Boys: For Children Ages 4+ (Big Books of Colouring (Ages 4+))](https://www.amazon.com/dp/1915454271) | FairyWren Publishing | 纸书 | $5.99 | 1,119 | 690 | 107 | 2024-02 |  |
-| [Official KPop Demon Hunters Glitter and Color Book - 16 Page Coloring Book, Fan Activity f](https://www.amazon.com/dp/1690296429) | Bendon | 纸书 | $5.99 | 54 | 660 | 32 | 2026-07 |  |
-| [Truck Coloring Book: Kids Coloring Book with Monster Trucks, Fire Trucks, Dump Trucks, Gar](https://www.amazon.com/dp/1947243128) | Dylanna Press | 纸书 | $6.95 | 2,304 | 660 | 74 | 2017-06 |  |
-| [My Favorite Bible Verses Coloring for Girls, Ages 8-12](https://www.amazon.com/dp/0638002281) | Christian Art Publishers | 纸书 | $7.48 | 253 | 630 | 104 | 2024-09 |  |
-| [Dot Markers Activity Book Fun Creative Coloring: Toddler Craft Fill the Dots, Cut Pages. F](https://www.amazon.com/dp/B0BRDJRDLW) | Coloring Book Kim | 纸书 | $7.99 | 1,509 | 600 | 102 | 2022-12 | 是 |
-| [Dot Markers Activity Book: Letters, Numbers and Shapes Art Coloring for Toddlers Ages 1-3 ](https://www.amazon.com/dp/B0DLBQ5DMP) | BJB Publishing | 纸书 | $6.99 | 629 | 570 | 108 | 2024-10 | 是 |
+| [My First BIG Toddler Coloring Book with 128 Perforated Pages of Fun Coloring Scenes Includ](https://www.amazon.com/dp/1646384377) | Start Little Learn Big | 纸书 | $5.99 | 1,854 | 6,690 | 128 | 2022-07 |  |
+| [Big Book of Colouring: Animals: For Children Ages 4+ (Big Books of Colouring (Ages 4+))](https://www.amazon.com/dp/191545428X) | FairyWren Publishing | 纸书 | $7.99 | 2,095 | 2,970 | 127 | 2024-03 |  |
+| [Cozy Countdown: An Advent Coloring Book Bundle](https://www.amazon.com/dp/B0GZ2ZPDBQ) | Coco Wyo | 纸书 | $29.99 | 150 | 2,760 | 576 | 2026-09 |  |
+| [KPop Demon Hunters 40-Page Official Coloring Book \| Action-Packed Coloring Book by Bendon](https://www.amazon.com/dp/1690294108) | Bendon | 纸书 | $5.99 | 852 | 1,590 | 40 | 2025-11 |  |
+| [Bluey: Big Backyard: A Coloring Book](https://www.amazon.com/dp/0593224582) | Penguin Young Readers Licenses | 纸书 | $4.33 | 7,974 | 1,560 | 64 | 2021-02 |  |
+| [Toddler's Head Start Educational Coloring Book Ages 1-3: Over 100 Pages \| Learn Colors, Wo](https://www.amazon.com/dp/B0DCZN17W9) | Color Fluff | 纸书 | $9.99 | 705 | 1,260 | 110 | 2024-09 | 是 |
+| [Disney Mystery Coloring: Princesses: A Color by Number Book](https://www.amazon.com/dp/B0FJ1PLH6C) | Disney | 纸书 | $17.58 | 447 | 1,140 | 128 | 2026-02 |  |
+| [Big Book of Colouring for Boys: For Children Ages 4+ (Big Books of Colouring (Ages 4+))](https://www.amazon.com/dp/1915454271) | FairyWren Publishing | 纸书 | $5.99 | 1,131 | 930 | 107 | 2024-02 |  |
+| [Official KPop Demon Hunters Glitter and Color Book - 16 Page Coloring Book, Fan Activity f](https://www.amazon.com/dp/1690296429) | Bendon | 纸书 | $5.13 | 63 | 810 | 32 | 2026-07 |  |
+| [Big Book of Colouring for Girls: Children Ages 4+ (Big Books of Colouring (Ages 4+))](https://www.amazon.com/dp/1915454255) | FairyWren Publishing | 纸书 | $6.99 | 1,592 | 780 | 110 | 2023-10 |  |
+| [My Favorite Bible Verses Coloring for Girls, Ages 8-12](https://www.amazon.com/dp/0638002281) | Christian Art Publishers | 纸书 | $7.48 | 258 | 750 | 104 | 2024-09 |  |
+| [Truck Coloring Book: Kids Coloring Book with Monster Trucks, Fire Trucks, Dump Trucks, Gar](https://www.amazon.com/dp/1947243128) | Dylanna Press | 纸书 | $6.95 | 2,306 | 750 | 74 | 2017-06 |  |
+| [Dot Markers Activity Book Fun Creative Coloring: Toddler Craft Fill the Dots, Cut Pages. F](https://www.amazon.com/dp/B0BRDJRDLW) | Coloring Book Kim | 纸书 | $7.99 | 1,513 | 660 | 102 | 2022-12 | 是 |
+| [Big Book of Colouring for Boys: Children Ages 4+ (Big Books of Colouring (Ages 4+))](https://www.amazon.com/dp/B0CKGWY588) | FairyWren Publishing | 纸书 | $6.99 | 1,063 | 630 | 107 | 2023-10 |  |
+| [Dot Markers Activity Book: Letters, Numbers and Shapes Art Coloring for Toddlers Ages 1-3 ](https://www.amazon.com/dp/B0DLBQ5DMP) | BJB Publishing | 纸书 | $7.82 | 646 | 570 | 108 | 2024-10 | 是 |
 
 ## 可以细分的方向
 
-涂色书（6–8 岁）评分80分，共1,956本，评论中位数3；涂色书（3–5 岁 学前）评分78分，共1,174本，评论中位数4。圣诞节涂色书评分77分，共257本，评论中位数4；涂色书（基督徒）评分77分，共302本，评论中位数3。冬季涂色书评分73分，共113本，评论中位数3。
-
-这些方向的评分均达到73分以上，评论中位数为3–4条。其中，6–8岁方向的图书数量最多，基督徒方向的评论中位数较低。万圣节涂色书评分70分，共91本，评论中位数7；感恩节涂色书评分69分，共66本，评论中位数4。
+评分较高的细分方向包括涂色书（6-8 岁）和涂色书（3-5 岁 学前），评分均为81分，分别有2102本和1197本书，中位评论数分别为3条和4条。圣诞节涂色书有333本，评分80分，中位评论数3条；涂色书（基督徒）有351本，评分78分，中位评论数3条；冬季涂色书有162本，评分77分，中位评论数4条。这些方向的评分较高，评论门槛也较低。涂色书（9-12 岁）评分71分、中位评论数7条，涂色书（女孩）评分70分、中位评论数9条，竞争门槛相对更高。6-8岁和学前儿童市场的样本量较大，现有商品也更多；圣诞节和冬季主题的样本较少，选题时还需要考虑季节性。
 
 | 细分 | 榜单上的书 | 评论中位数 | 价格中位数 | 估算日销 | 评分 |
 |---|---|---|---|---|---|
-| 涂色书（6-8 岁） | 1,956 | 3 | $9.99 | 619 | 80 |
-| 涂色书（3-5 岁 学前） | 1,174 | 4 | $9.99 | 448 | 78 |
-| 圣诞节涂色书 | 257 | 4 | $9.99 | 219 | 77 |
-| 涂色书（基督徒） | 302 | 3 | $9.99 | 110 | 77 |
-| 冬季涂色书 | 113 | 3 | $9.99 | 20 | 73 |
-| 万圣节涂色书 | 91 | 7 | $9.99 | 21 | 70 |
-| 感恩节涂色书 | 66 | 4 | $9.99 | 36 | 69 |
-| 涂色书（女孩） | 506 | 10 | $9.99 | 371 | 69 |
-| 涂色书（9-12 岁） | 582 | 7 | $9.99 | 558 | 69 |
-| 涂色书（0-2 岁 婴幼儿） | 150 | 27 | $9.99 | 477 | 69 |
+| 涂色书（6-8 岁） | 2,102 | 3 | $9.99 | 723 | 81 |
+| 涂色书（3-5 岁 学前） | 1,197 | 4 | $9.99 | 508 | 81 |
+| 圣诞节涂色书 | 333 | 3 | $9.99 | 327 | 80 |
+| 涂色书（基督徒） | 351 | 3 | $9.99 | 131 | 78 |
+| 冬季涂色书 | 162 | 4 | $9.99 | 50 | 77 |
+| 涂色书（9-12 岁） | 683 | 7 | $9.99 | 633 | 71 |
+| 涂色书（女孩） | 555 | 9 | $9.99 | 354 | 70 |
+| 感恩节涂色书 | 68 | 4 | $9.99 | 36 | 70 |
+| 涂色书（男孩） | 434 | 7 | $9.99 | 280 | 69 |
+| 涂色书（0-2 岁 婴幼儿） | 152 | 28 | $9.99 | 502 | 69 |
 
 ## 这些书在哪些类目上榜
 
-榜单类目中，油画有107本，机会分30；工程车有85本，机会分34；公交车有56本，机会分23。另外有84本、71本和46本的类目记录没有提供名称，对应机会分分别为21、27和21。
-
-在已命名类目中，工程车机会分最高，油画次之。目前展示的只是部分类目记录，无法据此判断全部1,331个类目的竞争情况。出版人也需要区分未提供名称的记录，不能将其直接视为某个具体市场方向。
+榜单类目中，油画有101本书，机会分31分；工程车有81本，机会分26分；公交车有56本，机会分22分；摩托车有51本，机会分25分。另外两个未提供类目名称的条目分别有74本、机会分21分，以及67本、机会分28分。油画的机会分最高，其次是工程车和摩托车。涂色书榜单覆盖了多个具体主题，商品数量与机会分之间并非简单对应。由于部分类目名称为空，目前无法判断这两个方向适合哪些具体选题。
 
 | 类目 | 店铺 | 细分里的书 | 机会分 |
 |---|---|---|---|
-| [油画](https://kdptop.com/zh/kdp/categories/painting-2879/) | 纸书 | 107 | 30 |
-| [工程车](https://kdptop.com/zh/kdp/categories/construction-vehicles-7009088011/) | 纸书 | 85 | 34 |
-| [Coloring Books](https://kdptop.com/zh/kdp/categories/coloring-books-3374/) | 纸书 | 84 | 21 |
-| [Cartooning](https://kdptop.com/zh/kdp/categories/cartooning-2873/) | 纸书 | 71 | 27 |
-| [公交车](https://kdptop.com/zh/kdp/categories/buses-7009089011/) | 纸书 | 56 | 23 |
-| [Colors](https://kdptop.com/zh/kdp/categories/colors-2758/) | 纸书 | 46 | 21 |
+| [油画](https://kdptop.com/zh/kdp/categories/painting-2879/) | 纸书 | 101 | 31 |
+| [工程车](https://kdptop.com/zh/kdp/categories/construction-vehicles-7009088011/) | 纸书 | 81 | 26 |
+| [Coloring Books](https://kdptop.com/zh/kdp/categories/coloring-books-3374/) | 纸书 | 74 | 21 |
+| [Cartooning](https://kdptop.com/zh/kdp/categories/cartooning-2873/) | 纸书 | 67 | 28 |
+| [公交车](https://kdptop.com/zh/kdp/categories/buses-7009089011/) | 纸书 | 56 | 22 |
+| [摩托车](https://kdptop.com/zh/kdp/categories/motorcycles-3297/) | 纸书 | 51 | 25 |
 
 ## 值不值得做
 
-涂色书细分市场评分81分，在1,612个细分市场中排名第1，估算日销量2,175本。样本中独立出版占比达到89.7%，过去一年内出版的图书占62.8%。样本评论数中位数为0，评论少于50条的图书占91.1%，说明新作者仍有机会进入榜单。
-
-从细分方向看，6–8岁、3–5岁学前、基督徒和圣诞节涂色书值得优先研究。这些方向的评分为77–80分，评论中位数为3–4条，当前评论积累相对有限。
-
-这个市场适合能够持续制作原创内页、明确目标年龄或主题，并愿意测试多个具体方向的独立出版人。不过，销量预期需要结合实际分布判断。样本月销量中位数只有5本，月销100本以上的图书占2.1%。头部榜单中有大量非独立出版产品和授权主题，My First BIG Toddler Coloring Book 等头部产品的销量不能直接作为普通KDP新书的销售预期。
-
-定价方面可以参考$9.99，但需要先核算页数和印刷成本。节日主题还涉及上架时间的安排。目前数据没有提供旺季月份和建议上架窗口，因此无法据此确定具体出版日期。
+涂色书细分市场规模较大，KDP适配度高，整体评论门槛较低。细分评分82分，在1715个细分市场中排名第1，独立出版占比86.8%，KDP可行书籍占比96.5%。对于能够持续制作原创内页，并明确目标年龄和主题定位的独立出版作者，这个品类有一定的进入价值。6-8岁和学前儿童方向评分均为81分，评论中位数只有3-4条；圣诞节涂色书评分80分，中位评论数为3条，也有较低的评论门槛。
+主要风险在于商品供给量大，销量集中在少数商品。4572本样本中，91.3%的书评论不足50条，但月销100本以上的书仅占1.9%。头部畅销书中有多本非独立出版商品，也包含知名品牌授权内容，独立作者不具备完全相同的竞争条件。节日主题需要提前规划上架时间，但当前数据没有提供旺季月份和推荐上架窗口，因此无法据此确定具体月份。这个品类更适合有明确细分定位、原创设计能力和持续测试能力的出版人。对于只制作通用主题、主要依靠低价竞争的项目，需要谨慎评估。
 
 ## 常见问题
 
-### 亚马逊涂色书市场有多大？
+### 亚马逊美国站涂色书市场有多大？
 
-截至2026年11月8日，亚马逊美国站涂色书细分市场共有4,203本在榜图书，估算日销量2,175本，细分评分81分，在1,612个细分市场中排名第1。
+截至2026年11月16日，榜单共有4572本涂色书，其中畅销榜1966本、新品榜2946本。估算日销量为2466本，在1715个细分市场中排名第1，评分82分。
 
-### KDP涂色书需要多少评论才能进入竞争？
+### 涂色书在亚马逊上有哪些搜索量较高的关键词？
 
-涂色书样本评论数中位数为0，少于10条评论的图书有3,440本，评论少于50条的图书占91.1%。6–8岁涂色书的评论中位数为3条，基督徒涂色书也是3条。
+数据期内，halloween coloring book 有92401次搜索和14442次购买，christmas coloring book 有24240次搜索和2628次购买。bible kids 有3963次搜索，coloring book for girls 有2396次搜索。
 
-### 亚马逊涂色书卖多少钱比较常见？
+### KDP独立作者进入涂色书市场需要多少评论？
 
-涂色书价格中位数为$9.99，P25为$8.99，P75为$9.99。$8–$10价格区间有2,293本图书，页数中位数为80页，常见开本为8.5x10.98。
+截至2026年11月16日，涂色书榜单中位评论数为4条，3796本书少于10条评论，91.3%的样本评论数不足50条。低评论商品占多数，但月销100本以上的书仅占1.9%。评论门槛较低，并不代表新书容易获得销量。
 
-### 哪些涂色书细分方向值得KDP作者研究？
+### KDP涂色书应该定价多少，优先考虑哪些细分方向？
 
-涂色书（6–8 岁）评分80分、评论中位数3条；涂色书（3–5 岁 学前）评分78分、评论中位数4条；涂色书（基督徒）和圣诞节涂色书均为77分，评论中位数分别为3条和4条。这些方向在当前数据中的评分较高，评论积累相对较少。
+涂色书价格中位数为$9.99，P25为$8.99，P75为$9.99，页数中位数为76页。6-8岁儿童涂色书和学前涂色书评分均为81分，中位评论数分别为3条和4条；圣诞节涂色书评分80分，中位评论数3条。
 
 ## 方法与局限
 
-细分里的书是 2026-11-08 前 3 天出现在亚马逊美国站畅销榜或新品榜上、且 AI 分类落在这个细分的书，共 4,203 本。评论、销量和价格分布用其中 KDPTop 有详细数据的 4,173 本计算；销量是根据销售排名估算的。
+细分里的书是 2026-11-16 前 3 天出现在亚马逊美国站畅销榜或新品榜上、且 AI 分类落在这个细分的书，共 4,572 本。评论、销量和价格分布用其中 KDPTop 有详细数据的 4,572 本计算；销量是根据销售排名估算的。
 
 榜单数据来自 KDPTop 每天对亚马逊美国站全部图书和 Kindle 类目畅销榜、新品榜的抓取；书籍信息来自榜单卡片、书籍页面和 Keepa；搜索量来自第三方关键词工具，是估算值。成人内容类目不在统计里。
 
@@ -197,6 +176,7 @@ English: [README.md](README.md) · 版本 2 (2026-11-09) · [方法说明](../..
 
 ## 版本记录
 
+- v3 · 2026-11-17 · 数据更新到 2026-11-16
 - v2 · 2026-11-09 · 数据更新到 2026-11-08
 - v1 · 2026-11-09 · 首次发布
 
@@ -211,7 +191,7 @@ English: [README.md](README.md) · 版本 2 (2026-11-09) · [方法说明](../..
 ## 引用本报告
 
 ```
-KDPTop Research (2026). 涂色书 KDP 细分市场报告：规模、竞争和定价（2026 年 11 月）. 版本 2, 2026-11-09. https://kdptop.com/research/zh/niches/kids-coloring-kdp/
+KDPTop Research (2026). 涂色书 KDP 细分市场报告：规模、竞争和定价（2026 年 11 月）. 版本 3, 2026-11-17. https://kdptop.com/research/zh/niches/kids-coloring-kdp/
 ```
 
 正文和数据以 CC BY 4.0 许可发布，引用请注明「来源：KDPTop（kdptop.com）」并附链接。
