@@ -2,12 +2,12 @@
 
 > Source: KDPTop Research, KDPTop (kdptop.com). Original: https://kdptop.com/research/niches/workbook-kdp/
 
-中文版: [README.zh.md](README.zh.md) · Version 1 (2026-11-17) · [Methodology](../../methodology.md)
+中文版: [README.zh.md](README.zh.md) · Version 2 (2026-11-17) · [Methodology](../../methodology.md)
 
 **Data window**: Oct 27, 2026 to Nov 16, 2026  
 **Sample**: 7,085 books in this niche on Amazon.com lists
 
-Amazon’s Workbook niche has 7,085 listed books and estimated daily sales of 5,506. It scored 71, with measurable opportunities in focused sub-niches.
+The Amazon KDP Workbook niche contains 7,085 books, with estimated daily sales of 5,506 units and a niche score of 71 out of 100.
 
 | Books on the lists | Median reviews | Niche score rank |
 |---|---|---|
@@ -15,19 +15,19 @@ Amazon’s Workbook niche has 7,085 listed books and estimated daily sales of 5,
 
 ## Key findings
 
-1. As of November 16, 2026, the Amazon.com Workbook niche had 7,085 books across the Best Sellers and New Releases lists, with estimated daily sales of 5,506. It scored 71 and ranked 69 of 1,715 niches.
-2. Kindergarten workbooks generated the highest Amazon search demand among Workbook-related terms, with 79,793 searches and 19,573 purchases. The term 4th grade math workbooks recorded 28,018 searches and 8,842 purchases.
-3. The Amazon.com Workbook niche had a median of 44 reviews, while 64.6% of sampled books had fewer than 50 reviews as of November 16, 2026. An estimated 4.3% sold at least 100 copies per month.
-4. Independently published books accounted for 56.5% of the Workbook niche, and 42.3% of sampled books had been published in the last year. The New Releases lists contained 762 newcomers.
-5. Workbook for homeschoolers scored 72 and had a median of 41 reviews. Workbook, ages 13-17 scored 71 with a median of 23 reviews. Workbook, ages 3-5 had a score of 65 and a median of 22 reviews.
+1. As of November 16, 2026, the Amazon KDP Workbook niche included 7,085 books across the Best Sellers and New Releases lists, with estimated daily sales of 5,506 units.
+2. Amazon search data recorded 79,793 searches for kindergarten workbooks and 28,018 searches for 4th grade math workbooks during the measured period.
+3. The sampled Workbook books had a median of 13 reviews, and 64.6% had fewer than 50 reviews. This points to a relatively accessible review barrier across much of the catalog.
+4. Only 4.3% of sampled Workbook books sold 100 or more copies monthly. Independently published titles accounted for 56.1% of the sample, and 42.2% were published in the last year.
+5. Workbook for homeschoolers scored 72 with 41 median reviews, while Workbook, ages 13-17 scored 71 with 23 median reviews. Both segments merit further examination as narrower markets.
 
 ## How big is the niche
 
-The Workbook niche contained 7,085 books across Amazon Best Sellers and New Releases lists during the October 18 to November 16, 2026 reporting period. Best Sellers accounted for 5,639 books, while New Releases accounted for 1,995. The sampled books generated estimated daily sales of 5,506 units. The store breakdown included 5,404 print books and 1,681 Kindle eBooks.
+The Workbook niche contains 7,085 books across Amazon Best Sellers and New Releases lists. This includes 5,404 print books and 1,681 Kindle eBooks. Estimated daily sales total 5,506 units, showing established purchasing activity across educational and practical workbook formats.
 
-The niche scored 71 out of 100 and ranked 69 of 1,715 niches. Its demand component scored 1.0, the review barrier scored 0.85 and the price component scored 0.533. This score places Workbook among the higher-scoring niches in the dataset. However, the number of competing titles makes it difficult for a broadly positioned book to gain visibility.
+The niche scores 71 out of 100 and ranks 69 of 1,715 niches. Its 99.3% KDP feasibility rate indicates that almost all books in the sample are compatible with KDP production. The size of the catalog still creates considerable competition for new titles.
 
-![Books on Best Sellers, day by day](https://kdptop.com/research/img/workbook-kdp/20261117140437/history-en.webp)
+![Books on Best Sellers, day by day](https://kdptop.com/research/img/workbook-kdp/20261117143113/history-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -42,7 +42,7 @@ The niche scored 71 out of 100 and ranked 69 of 1,715 niches. Its demand compone
 
 ## Search demand
 
-Educational workbooks account for substantial Amazon search demand, with kindergarten workbooks recording 79,793 monthly searches and 19,573 purchases. Speech therapy materials followed with 29,986 searches and 1,784 purchases. The term 4th grade math workbooks recorded 28,018 searches and 8,842 purchases, while 5th grade math workbooks generated 24,261 searches and 5,306 purchases. The figures show that searches tied to specific grade levels and educational purposes are useful indicators of demand. The dataset does not identify a single main search term for the overall Workbook niche.
+Educational workbooks account for substantial Amazon search activity. The keyword kindergarten workbooks recorded 79,793 searches and 19,573 purchases. The keyword 1st grade workbooks recorded 29,931 searches and 7,037 purchases, while 4th grade math workbooks generated 28,018 searches and 8,842 purchases. These figures show established demand for grade-specific educational materials, particularly kindergarten and mathematics workbooks.
 
 | Search term | Monthly searches | Monthly purchases | Competing products | Average price |
 |---|---|---|---|---|
@@ -54,18 +54,18 @@ Educational workbooks account for substantial Amazon search demand, with kinderg
 | 2nd grade workbook | 20,493 | 2,104 | 4,210 | - |
 | 3rd grade workbooks | 19,521 | 6,342 | 3,736 | $9.37 |
 | 6th grade math workbook | 18,799 | 4,476 | 1,626 | $9.86 |
-| 4th grade workbook | 17,309 | 1,405 | 4,617 | - |
 | 5th grade workbooks | 13,792 | 3,356 | 4,128 | $11.30 |
+| medical terminology book | 12,653 | 1,816 | 21,550 | $17.99 |
 
 ## Competition and the review barrier
 
-The niche had a median of 44 reviews, compared with a sampled-book median of 13. The review distribution included 3,371 books with fewer than 10 reviews, 1,207 with 10-50, 578 with 50-100, 1,097 with 100-500 and 832 with 500 or more. In total, 64.6% of sampled books had fewer than 50 reviews, so many competing titles have relatively limited review histories. Sales figures present a more difficult picture: only 4.3% of sampled books sold 100 or more copies per month, and median monthly sales were 7 units.
+The sampled books have a median of 13 reviews. Of these, 3,371 books have fewer than 10 reviews, 1,207 have 10-50 reviews, 578 have 50-100 reviews, 1,097 have 100-500 reviews and 832 have 500 or more reviews. In total, 64.6% have fewer than 50 reviews, so much of the catalog has a relatively low review barrier. Established titles, however, can hold a considerable advantage through accumulated reviews.
 
-Independently published books accounted for 56.1% of the sample, compared with 56.5% in the overall niche statistics. Books published in the last year represented 42.3% of the sample, and the New Releases lists contained 762 newcomers. These figures show an active independent publishing market. However, the small proportion of books reaching 100 monthly sales indicates that gaining visibility and maintaining sales remain challenges.
+Only 4.3% of sampled books sell 100 or more copies monthly. The monthly sales distribution includes 232 books in the 100-300 band, 58 in the 300-1,000 band and 15 in the 1,000+ band. Independently published books make up 56.1% of the sample, and 42.2% were published in the last year. Independent publishers have an established presence, and new titles continue to enter the market. Relatively few books, however, reach the higher monthly sales bands.
 
-![How many reviews the books have](https://kdptop.com/research/img/workbook-kdp/20261117140437/reviews-en.webp)
+![How many reviews the books have](https://kdptop.com/research/img/workbook-kdp/20261117143113/reviews-en.webp)
 
-![Estimated monthly sales per book](https://kdptop.com/research/img/workbook-kdp/20261117140437/units-en.webp)
+![Estimated monthly sales per book](https://kdptop.com/research/img/workbook-kdp/20261117143113/units-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -74,13 +74,13 @@ Independently published books accounted for 56.1% of the sample, compared with 5
 | Median est. monthly sales | 7 |
 | Books selling 100+ a month (est.) | 4.3% |
 | Independently published | 56.1% |
-| Published in the last 12 months | 42.3% |
+| Published in the last 12 months | 42.2% |
 
 ## Price, page count and trim size
 
-Workbook books had a median price of $12.99. The 25th percentile was $9.30, and the 75th percentile was $16.99. Median book length was 128 pages. The most common recorded trim size was 8.5x10.98, used by 2,215 books, followed by 5.98x9.02 with 266 books and 7.99x10.0 with 193 books. The $13-$20 price band was the largest recorded category, containing 2,084 books. These figures offer useful benchmarks for pricing and physical specifications. The right price for an individual workbook will depend on its content and intended audience.
+The median Workbook price is $12.99. The 25th percentile is $9.3, and the 75th percentile is $16.99. The median book has 128 pages. The most common listed trim size is 8.5x10.98, used by 2,215 books. The next most common sizes are 5.98x9.02, with 266 books, and 7.99x10.0, with 193 books. The $13-$20 price band contains 2,084 books, making it an established range alongside the $8-$10 and $10-$13 bands.
 
-![Price distribution](https://kdptop.com/research/img/workbook-kdp/20261117140437/prices-en.webp)
+![Price distribution](https://kdptop.com/research/img/workbook-kdp/20261117143113/prices-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -93,7 +93,7 @@ Workbook books had a median price of $12.99. The 25th percentile was $9.30, and 
 
 ## Best-selling books in the niche
 
-The highest-selling Workbook titles in the sample target specific educational skills, grade levels or learning outcomes. The IXL Ultimate 3rd Grade Math Workbook recorded 2,400 estimated monthly units at $9.37, with 224 pages and 3,534 reviews. Teach Your Child to Read in 100 Easy Lessons recorded 2,130 estimated monthly units at $14.75, with 420 pages and 17,402 reviews. The 200 Must Know Sight Words Activity Workbook recorded 1,650 estimated monthly units at $9.81, with 112 pages and 16,081 reviews. Grade-specific mathematics, early reading and repeatable practice exercises are common features among the leading titles. Most of the top ten books were not independently published, although the 200 Must Know Sight Words Activity Workbook was an indie title.
+The leading books focus on structured educational practice, with mathematics, reading, preschool learning and specific skill development appearing frequently. IXL Ultimate 3rd Grade Math Workbook records 2,400 estimated monthly units at $9.37, with 224 pages and 3,534 reviews. Teach Your Child to Read in 100 Easy Lessons: Revised and Updated Second Edition records 2,130 estimated monthly units at $14.75, with 420 pages and 17,402 reviews. The 200 Must Know Sight Words Activity Workbook is the only independently published title among the top four. It records 1,650 estimated monthly units at $9.81, with 112 pages and 16,081 reviews. These leading examples pair a specific learning objective with a substantial amount of practice content.
 
 | Title | Author | Store | Price | Reviews | Est. sales/mo | Pages | Published | Indie |
 |---|---|---|---|---|---|---|---|---|
@@ -115,7 +115,7 @@ The highest-selling Workbook titles in the sample target specific educational sk
 
 ## Sub-niches
 
-Workbook for homeschoolers had the highest score among the listed sub-niches at 72, with 2,719 books and a median of 41 reviews. Workbook, ages 13-17 scored 71, with 1,190 books and a median of 23 reviews. Workbook, ages 3-5 scored 65, with 679 books and a median of 22 reviews. Workbook for kids with special needs scored 68, with 512 books and a median of 30 reviews. Workbook for seniors had the lowest listed median review count at 13, with 84 books and a score of 66. Publishers looking for a relatively low review barrier alongside a competitive score may find ages 13-17 and homeschoolers worth examining. Both compare favorably with the broader adult and teacher segments on these measures.
+Workbook for homeschoolers has the highest sub-niche score at 72, with 2,719 books and 41 median reviews. Workbook for students scores 71, with 3,810 books and 36 median reviews. Workbook, ages 13-17 also scores 71, with 1,190 books and 23 median reviews. Among these higher-scoring options, the teenage segment has the lowest median review count, which may make it a more accessible entry point. Workbook for kids with special needs scores 68, with 512 books and 30 median reviews. This is another narrower segment with a relatively low review barrier.
 
 | Sub-niche | Books | Median reviews | Median price | Est. daily sales | Score |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@ Workbook for homeschoolers had the highest score among the listed sub-niches at 
 
 ## Where these books rank
 
-The listed Workbook category placements are concentrated in mathematics. Arithmetic appeared with 137 books and an opportunity score of 22, while another Arithmetic placement had 119 books and a score of 27. Fractions had 127 books and a score of 23. Algebra appeared with 126 books and a score of 27, and another Algebra placement had 115 books and a score of 29. Mathematics had 116 books and a score of 23. Opportunity scores were relatively low across these placements. Publishers should assess competition and ranking potential within each category rather than assume that a broad mathematics category will provide an easy route to visibility.
+The listed category opportunities are concentrated in mathematics. Arithmetic appears in one entry with 137 books and an opportunity score of 22, and another with 119 books and a score of 27. Fractions has 127 books and a score of 23, while Mathematics has 116 books and a score of 23. Algebra appears in two entries: one with 126 books and a score of 27, and another with 115 books and a score of 29. The measured opportunity scores remain limited across these established mathematics categories. The Algebra entry with a score of 29 has the highest opportunity score in the supplied category data.
 
 | Category | Store | Niche books | Opportunity score |
 |---|---|---|---|
@@ -145,27 +145,27 @@ The listed Workbook category placements are concentrated in mathematics. Arithme
 
 ## Should you publish in this niche?
 
-Workbook is a viable market for independent publishers targeting a clearly defined educational audience and subject. The niche scored 71, generated estimated daily sales of 5,506 and had an indie share of 56.5%. These figures indicate an established market with substantial independent publishing activity. Workbook for homeschoolers was the highest-scoring listed sub-niche at 72, while Workbook, ages 13-17 combined a score of 71 with a median of 23 reviews. Both offer more specific positioning than the general Workbook market.
+Workbook is a substantial KDP market, scoring 71 with estimated daily sales of 5,506 units. It is a reasonable market for publishers who can focus on a defined educational subject, grade level or audience. Homeschoolers, students and teenagers offer identifiable audiences for targeted practice materials. Independently published books account for 56.1% of the sample, confirming that independent publishers already hold a significant share of the catalog.
 
-The main concern is the gap between overall demand and the sales performance of individual books. Although 64.6% of sampled books had fewer than 50 reviews, only 4.3% sold 100 or more copies monthly. Leading titles also have established sales and substantial review histories, particularly in grade-level mathematics and early literacy. Publishers should factor this competition into their sales expectations for new titles. The data supports a more focused approach, with a defined learning outcome and a specific audience, over a general workbook without a clear point of distinction. The dataset does not identify a seasonal peak or preferred publishing month, so it provides no basis for a seasonal launch recommendation.
+Sales are concentrated among a relatively small group of titles. Only 4.3% of sampled books sell 100 or more copies monthly, and leading books have accumulated thousands of reviews. Publishers entering the niche should approach broad workbook concepts cautiously and assess narrower subjects with lower median review counts. The search figures confirm demand for educational workbooks, but the supplied data does not establish a seasonal publishing window or identify a single main search term.
 
 ## Common questions
 
-### How competitive is the Amazon KDP workbook niche?
+### How many workbook books are on Amazon KDP?
 
-As of November 16, 2026, the Workbook niche contained 7,085 books and had a niche score of 71. The sampled books had a median of 13 reviews, and 64.6% had fewer than 50 reviews. Sales were more limited: only 4.3% sold at least 100 copies per month. A low review count therefore does not necessarily translate into strong sales.
+As of November 16, 2026, the Workbook niche contains 7,085 books across Amazon Best Sellers and New Releases lists. The sample includes 5,404 print books and 1,681 Kindle eBooks.
 
-### How many workbook searches are there on Amazon?
+### How much can a workbook sell on Amazon KDP?
 
-The keyword kindergarten workbooks recorded 79,793 searches and 19,573 purchases. The term 4th grade math workbooks recorded 28,018 searches and 8,842 purchases, while 5th grade math workbooks recorded 24,261 searches and 5,306 purchases. Search demand varies considerably across educational subjects and grade levels.
+Estimated niche-wide daily sales are 5,506 units. Within the sampled catalog, 4.3% of books sell 100 or more copies monthly, and 15 books fall into the 1,000+ monthly sales band.
 
-### What is the best price for an Amazon KDP workbook?
+### How much should I charge for an Amazon KDP workbook?
 
-The Workbook niche had a median price of $12.99, with a 25th-percentile price of $9.30 and a 75th-percentile price of $16.99. The median book contained 128 pages, and the largest price band was $13-$20, with 2,084 books. These figures are market benchmarks, not a guarantee of the optimal price for an individual title.
+The median Workbook price is $12.99, with a 25th percentile of $9.3 and a 75th percentile of $16.99. The median book has 128 pages, and 8.5x10.98 is the most common listed trim size.
 
-### Which workbook sub-niches have the best opportunities for independent publishers?
+### Which workbook sub-niches have the best KDP opportunities?
 
-Workbook for homeschoolers scored 72 with a median of 41 reviews, while Workbook, ages 13-17 scored 71 with a median of 23 reviews. Workbook, ages 3-5 scored 65 with a median of 22 reviews, and Workbook for kids with special needs scored 68 with a median of 30 reviews. Among the listed segments, Workbook, ages 13-17 combines a competitive niche score with a relatively low review barrier.
+Workbook for homeschoolers scores 72 with 41 median reviews. Workbook, ages 13-17 scores 71 with 23 median reviews, and Workbook for students scores 71 with 36 median reviews.
 
 ## Method and limits
 
@@ -179,6 +179,7 @@ Definitions used in this report: [Niche](../../methodology.md#niche), [Niche sco
 
 ## Version history
 
+- v2 · 2026-11-17 · Text revised
 - v1 · 2026-11-17 · First published
 
 ## Download the data
@@ -192,7 +193,7 @@ Definitions used in this report: [Niche](../../methodology.md#niche), [Niche sco
 ## Cite this report
 
 ```
-KDPTop Research (2026). Workbook on Amazon KDP: Market Size, Competition and Prices (November 2026). Version 1, 2026-11-17. https://kdptop.com/research/niches/workbook-kdp/
+KDPTop Research (2026). Workbook on Amazon KDP: Market Size, Competition and Prices (November 2026). Version 2, 2026-11-17. https://kdptop.com/research/niches/workbook-kdp/
 ```
 
 Text and data are released under CC BY 4.0: quote freely with "Source: KDPTop (kdptop.com)" and a link.
