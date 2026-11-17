@@ -2,12 +2,12 @@
 
 > Source: KDPTop Research, KDPTop (kdptop.com). Original: https://kdptop.com/research/niches/notebook-kdp/
 
-中文版: [README.zh.md](README.zh.md) · Version 1 (2026-11-17) · [Methodology](../../methodology.md)
+中文版: [README.zh.md](README.zh.md) · Version 2 (2026-11-17) · [Methodology](../../methodology.md)
 
 **Data window**: Oct 27, 2026 to Nov 16, 2026  
 **Sample**: 2,288 books in this niche on Amazon.com lists
 
-Amazon's Notebook niche has 2,288 listed books and estimated daily sales of 572. Review counts, pricing and sub-niche scores provide a basis for assessing publishing opportunities.
+The Amazon KDP Notebook niche contains 2,288 books and has estimated daily sales of 572. The median review count is 6, and the opportunity score is 58.
 
 | Books on the lists | Median reviews | Niche score rank |
 |---|---|---|
@@ -15,19 +15,19 @@ Amazon's Notebook niche has 2,288 listed books and estimated daily sales of 572.
 
 ## Key findings
 
-1. The Amazon KDP Notebook niche contained 2,288 books across the Best Sellers and New Releases lists as of November 16, 2026, with estimated daily sales of 572 units.
-2. The Notebook niche scored 58 out of 100 and ranked 643 of 1,715 niches as of November 16, 2026, putting it in the middle of the opportunity rankings.
-3. Amazon's Notebook listings had a median of 6 reviews, and 88.7% of sampled books had fewer than 50 reviews. This points to a relatively low review barrier for new publishers.
-4. Independently published books accounted for 89.4% of the Notebook niche as of November 16, 2026. In addition, 17.9% of sampled books had been published within the last year.
-5. Amazon search demand for sketch pads for drawing reached 40,488 searches. Quad ruled composition notebook recorded 5,179 searches and 2,580 competing products in the search data.
+1. As of November 16, 2026, the Amazon.com Notebook niche contained 2,288 books across the Best Sellers and New Releases lists. Estimated daily sales were 572 units, and the opportunity score was 58.
+2. Amazon search demand varies by notebook format. Sketch pads for drawing recorded 40,488 searches, compared with 5,179 searches for quad ruled composition notebook.
+3. The Notebook niche had a median of 6 reviews, and 1,707 books had fewer than 10 reviews as of November 16, 2026. Many competing titles therefore have relatively modest review counts.
+4. Independently published books made up 89.4% of the Notebook niche. An estimated 0.9% of sampled books sold 100 or more copies per month.
+5. Notebook prices had a median of $7.99. The median book contained 110 pages, and 8.5x10.98 was the most common listed trim size, appearing on 409 books.
 
 ## How big is the niche
 
-The Notebook niche contained 2,288 books across Amazon Best Sellers and New Releases lists during the October 18 to November 16, 2026 reporting period. This included 2,130 Best Sellers entries and 188 New Releases entries. Estimated daily sales across the niche reached 572 units. The sample contained 2,274 print books and 14 Kindle eBooks.
+The Notebook niche contained 2,288 books on Amazon Best Sellers and New Releases lists during the October 18 to November 16, 2026 period. This included 2,130 Best Sellers entries and 188 New Releases entries. Print books accounted for nearly the entire catalog, with 2,274 print titles and 14 Kindle eBooks. Estimated daily sales across the niche were 572 units.
 
-The niche scored 58 out of 100 and ranked 643 of 1,715 niches. Its demand component was 0.836, and its review-barrier component was 0.977. The figures point to an established market with meaningful estimated sales and relatively accessible review competition.
+The niche scored 58 out of 100 and ranked 643 out of 1,715 niches. This puts Notebook in the middle of the tracked market. Demand and review-barrier scores were stronger, while new-release inflow and breakout scores were lower.
 
-![Books on Best Sellers, day by day](https://kdptop.com/research/img/notebook-kdp/20261117140231/history-en.webp)
+![Books on Best Sellers, day by day](https://kdptop.com/research/img/notebook-kdp/20261117143146/history-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -42,30 +42,27 @@ The niche scored 58 out of 100 and ranked 643 of 1,715 niches. Its demand compon
 
 ## Search demand
 
-Amazon search data shows strong interest in several notebook-related terms, with search volumes varying by intended use. Sketch pads for drawing recorded 40,488 searches and 5,114 purchases. Sketch books for drawing recorded 4,584 searches and 833 purchases. Quad ruled composition notebook generated 5,179 searches against 2,580 products, giving it a more focused competitive profile than broad gift searches such as best friend gifts, which recorded 41,305 searches and 196,413 products. The available data does not provide a single aggregate search-volume figure for the Notebook niche.
+Amazon search volumes indicate demand across several specific notebook formats. Sketch pads for drawing led with 40,488 searches and 5,114 purchases. Quad ruled composition notebook followed with 5,179 searches and 399 purchases. Storyboard notebook recorded 2,067 searches, while anime sketchbook had 1,276 searches and 216 purchases. These results favor products built around a defined use case. Search volume, however, does not establish the likely sales of an individual KDP title.
 
 | Search term | Monthly searches | Monthly purchases | Competing products | Average price |
 |---|---|---|---|---|
-| best friend gifts | 41,305 | 838 | 196,413 | - |
 | sketch pads for drawing | 40,488 | 5,114 | 7,585 | $9.99 |
-| nursing student essentials | 18,876 | 181 | 6,155 | - |
-| gifts for moms | 10,934 | 376 | 208,671 | - |
-| guy gifts | 8,169 | 375 | 61,800 | - |
-| cute journals for women | 5,189 | 85 | 16,050 | - |
 | quad ruled composition notebook | 5,179 | 399 | 2,580 | $4.92 |
-| grief gifts | 4,793 | 557 | 15,654 | - |
-| sketch books for drawing | 4,584 | 833 | 33,677 | $9.99 |
-| 5x7 spiral notebook | 3,538 | 181 | 4,280 | - |
+| storyboard notebook | 2,067 | 181 | 299 | - |
+| organic chemistry stencil | 1,515 | 47 | 127 | $15.99 |
+| blank music sheet notebook | 1,311 | 67 | 2,396 | $8.99 |
+| anime sketchbook | 1,276 | 216 | 967 | - |
+| needlepoint patterns | 853 | 5 | 7,044 | $9.99 |
 
 ## Competition and the review barrier
 
-Review counts suggest that new publishers can enter this market without competing exclusively against heavily reviewed titles. Of the sampled books, 1,707 had fewer than 10 reviews, 322 had 10-50 reviews, 100 had 50-100 reviews, 98 had 100-500 reviews and 61 had more than 500 reviews. Overall, 88.7% of sampled books had fewer than 50 reviews. The niche median was 6 reviews, compared with a sample median of 1 review.
+The niche statistics showed a median review count of 6, while the sampled books had a median of 1 review. The review distribution included 1,707 books with fewer than 10 reviews, 322 with 10-50, 100 with 50-100, 98 with 100-500 and 61 with 500 or more. Overall, 88.7% of sampled books had fewer than 50 reviews, so most listings had relatively short review histories.
 
-Only 0.9% of sampled books were estimated to sell 100 or more copies per month. The monthly sales distribution included 2,205 books below 30 units, 61 between 30 and 100, 17 between 100 and 300, and 4 between 300 and 1,000. Independently published books represented 89.4% of the niche, while 88.9% of the sample was classified as indie. Books published within the last year accounted for 17.9% of the sample. These figures show that low review counts are common, but high monthly sales remain uncommon. Most existing titles have modest estimated sales.
+Only 0.9% of sampled books sold an estimated 100 or more copies per month. The indie share was 89.4% in the niche statistics and 88.9% in the sample. Books published in the last year accounted for 17.9% of the sample. These figures indicate that independent publishers can enter the market, although the small proportion of titles reaching 100 monthly sales suggests that most listings generate limited sales.
 
-![How many reviews the books have](https://kdptop.com/research/img/notebook-kdp/20261117140231/reviews-en.webp)
+![How many reviews the books have](https://kdptop.com/research/img/notebook-kdp/20261117143146/reviews-en.webp)
 
-![Estimated monthly sales per book](https://kdptop.com/research/img/notebook-kdp/20261117140231/units-en.webp)
+![Estimated monthly sales per book](https://kdptop.com/research/img/notebook-kdp/20261117143146/units-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -78,9 +75,9 @@ Only 0.9% of sampled books were estimated to sell 100 or more copies per month. 
 
 ## Price, page count and trim size
 
-The median Notebook price was $7.99. The 25th percentile was $6.99, and the 75th percentile was $9.99. Most sampled books fell in the $5 to $8 price band, which contained 1,239 titles. Another 514 were priced between $8 and $10. The median page count was 110. Common trim sizes included 8.5x10.98 with 409 books, 5.98x9.02 with 261 books and 7.52x9.25 with 135 books. The pricing and format data show a market concentrated around affordable print notebooks with moderate page counts.
+The median Notebook price was $7.99. The 25th percentile was $6.99, and the 75th percentile was $9.99. The largest price band was $5-$8, with 1,239 books, followed by $8-$10 with 514. The median page count was 110. The most common trim size was 8.5x10.98, used by 409 books, followed by 5.98x9.02 with 261 and 7.52x9.25 with 135. Most listings therefore use a conventional notebook format priced near the median, while specialized formats may support different price points.
 
-![Price distribution](https://kdptop.com/research/img/notebook-kdp/20261117140231/prices-en.webp)
+![Price distribution](https://kdptop.com/research/img/notebook-kdp/20261117143146/prices-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -93,9 +90,7 @@ The median Notebook price was $7.99. The 25th percentile was $6.99, and the 75th
 
 ## Best-selling books in the niche
 
-The leading books address specific writing and creative needs, including music manuscript paper, handwriting practice, comic creation, color swatching and gift-oriented journals. Manuscript Paper - Hal Leonard Standard Wirebound | 96-Page Music Writing Notebook with 12 Staves per Page | Spiral-Bound Staff Paper for Composers, Students, and Teachers | Includes Notation Guide recorded 780 estimated monthly units at $6.51 with 10,008 reviews. Handwriting Practice Paper: 120 Pages, Blank Dotted lined Paper For Students Learning to Write Letters recorded 510 estimated monthly units with 1,559 reviews. Blank Comic Book For Kids : Create Your Own Comics With This Comic Book Journal Notebook: Over 100 Pages Large Big 8.5" x 11" Cartoon / Comic Book With Lots of Templates recorded 420 estimated monthly units with 8,820 reviews.
-
-The list also includes newer titles with fewer reviews. Notebook With Rules 100 Pages to Write Down Names: Black Notebook for Writing, Sketching, Journaling and Creative Ideas recorded 300 estimated monthly units and had 61 reviews. The leading titles show how clearly defined uses and functional formats can compete in this market.
+The highest-selling titles focus on a specific writing or creative activity and use familiar formats. Manuscript Paper - Hal Leonard Standard Wirebound | 96-Page Music Writing Notebook with 12 Staves per Page | Spiral-Bound Staff Paper for Composers, Students, and Teachers | Includes Notation Guide led the group with 780 estimated monthly units at $6.51 and 10,008 reviews. Handwriting Practice Paper: 120 Pages, Blank Dotted lined Paper For Students Learning to Write Letters recorded 510 estimated monthly units at $6.97. Blank Comic Book For Kids : Create Your Own Comics With This Comic Book Journal Notebook: Over 100 Pages Large Big 8.5" x 11" Cartoon / Comic Book With Lots of Templates recorded 420 at $7.99. Other leading titles cover music, color swatching, religious journaling and humorous gift notebooks. The sales data shows that practical formats with a clearly stated purpose can attract buyers across different audiences and price points.
 
 | Title | Author | Store | Price | Reviews | Est. sales/mo | Pages | Published | Indie |
 |---|---|---|---|---|---|---|---|---|
@@ -117,9 +112,7 @@ The list also includes newer titles with fewer reviews. Notebook With Rules 100 
 
 ## Sub-niches
 
-Notebook, adults has the highest listed sub-niche score at 57, with 1,861 books and a median of 6 reviews. Notebook for students scores 54 across 978 books, with a median of 5 reviews. These are the highest-scoring broader segments, although both already have substantial catalogues.
-
-Smaller segments have lower review counts. Notebook for seniors has 27 books, a median of 4 reviews and a score of 48. Notebook for women has 134 books, a median of 4 reviews and a score of 45. Notebook Christian scores 53 with 45 books and a median of 10 reviews. Notebook for kids with special needs has 21 books, a median of 6 reviews and a score of 49. These narrower audiences offer relatively low review barriers, although their scores remain below those of the broader adult and student segments.
+Notebook, adults had the highest sub-niche score at 57, with 1,861 books and a median of 6 reviews. Notebook for students scored 54 across 978 books, with a median of 5 reviews. Notebook Christian scored 53 with 45 books and a median of 10 reviews. Notebook for kids with special needs scored 49 with 21 books and a median of 6 reviews, while Notebook for seniors scored 48 with 27 books and a median of 4 reviews. Notebook for women also had a median of 4 reviews, with a score of 45. Notebook, adults and Notebook for students have the highest scores among these segments, with relatively low median review counts. The smaller audience-specific segments have fewer competing titles.
 
 | Sub-niche | Books | Median reviews | Median price | Est. daily sales | Score |
 |---|---|---|---|---|---|
@@ -136,7 +129,7 @@ Smaller segments have lower review counts. Notebook for seniors has 27 books, a 
 
 ## Where these books rank
 
-Notebook listings span a wide range of Amazon categories, with 1,103 categories represented in the niche data. Blank Sheet Music has 91 books and an opportunity score of 31, the highest among the reported categories. Composition has 42 books and scores 28, while Composition & Creative Writing has 46 books and scores 25. Graph Theory also scores 25 across 35 books. Reactions has 36 books and scores 22, while Flowers has 36 books and scores 21. Blank Sheet Music combines the highest reported category opportunity score with a clearly defined product format. It is worth examining alongside the leading music notebook titles.
+Blank Sheet Music had the highest opportunity score in the category table, at 31, across 91 books. Composition scored 28 across 42 books, while Composition & Creative Writing scored 25 across 46 books. Graph Theory also scored 25, with 35 books. Reactions had 36 books and an opportunity score of 22, while Flowers had 36 books and scored 21. Blank Sheet Music leads the listed categories, with Composition and Graph Theory also recording relatively high scores.
 
 | Category | Store | Niche books | Opportunity score |
 |---|---|---|---|
@@ -149,27 +142,27 @@ Notebook listings span a wide range of Amazon categories, with 1,103 categories 
 
 ## Should you publish in this niche?
 
-Notebook offers a viable market for independent publishers with a defined audience or use case. Its score of 58, estimated daily sales of 572 and indie share of 89.4% point to an established market with substantial independent-publisher participation. Notebook, adults and Notebook for students are the strongest broad sub-niches by score. Notebook for seniors and Notebook for women have lower median review counts and smaller catalogues. Publishers considering formats such as music manuscript paper, handwriting practice or specialized drawing notebooks can use existing top-selling titles as market examples.
+Notebook is a viable KDP market for publishers targeting a defined format or audience, although competition is substantial. Its score of 58, estimated daily sales of 572 and 89.4% indie share point to an established market with considerable independent-publisher participation. The median review count of 6 and the 1,707 books with fewer than 10 reviews suggest that publishers can enter without an established review base. Notebook, adults and Notebook for students have the highest scores among the broad sub-niches, while Blank Sheet Music leads the listed categories with an opportunity score of 31.
 
-Sales concentration is the main concern. Although 88.7% of sampled books have fewer than 50 reviews, only 0.9% are estimated to sell 100 or more copies monthly. A low review barrier does not necessarily translate into meaningful sales. The $7.99 median price and 110-page median leave limited room for expensive standard notebooks. The leading books also show how established titles can build substantial review advantages over time. Before committing to a broad generic notebook concept, publishers should assess search-term competition and the specific category they intend to target. The data does not identify a seasonal peak or recommended publishing window for this niche.
+Sales remain the main concern. Only 0.9% of sampled books sold an estimated 100 or more copies per month, and 2,205 books sold fewer than 30 monthly units. Publishers should not assume that high search volume will translate into comparable sales. The leading titles show demand for specific uses, including music notation, handwriting practice and comic creation, but the available data does not show that a new title can achieve similar results. A focused product concept and realistic sales expectations are better supported by these figures than a generic notebook launch.
 
 ## Common questions
 
-### How competitive is the Amazon KDP Notebook niche?
+### How many notebook books are competing on Amazon KDP?
 
-The Notebook niche contained 2,288 books and scored 58 out of 100, ranking 643 of 1,715 niches. Its median review count was 6, and 88.7% of sampled books had fewer than 50 reviews. However, only 0.9% of sampled books were estimated to sell 100 or more copies per month.
+As of November 16, 2026, the Notebook niche contained 2,288 books, including 2,130 Best Sellers entries and 188 New Releases entries. Most were print books, with 2,274 print books and 14 Kindle eBooks.
 
-### How much do notebooks sell for on Amazon KDP?
+### How much do notebook books sell on Amazon?
 
-The median Notebook price was $7.99, with the 25th percentile at $6.99 and the 75th percentile at $9.99. The median page count was 110. The largest price band was $5-$8, containing 1,239 books.
+Estimated daily sales across the niche were 572 units. In the sample, 2,205 books sold fewer than 30 copies per month, while 0.9% sold an estimated 100 or more monthly units.
 
-### Which Notebook sub-niches have the best publishing opportunities?
+### How many reviews do notebook books need to compete?
 
-Notebook, adults scored 57 with 1,861 books and a median of 6 reviews. Notebook for students scored 54 with 978 books and a median of 5 reviews. Smaller segments include Notebook for seniors, which scored 48 with 27 books and a median of 4 reviews, and Notebook for kids with special needs, which scored 49 with 21 books and a median of 6 reviews.
+The niche median was 6 reviews, compared with a median of 1 review among sampled books. A total of 1,707 sampled books had fewer than 10 reviews, and 88.7% had fewer than 50.
 
-### Which notebook keywords have the highest Amazon search volume?
+### What is the best price for a KDP notebook?
 
-Best friend gifts recorded 41,305 searches, while sketch pads for drawing recorded 40,488 searches and 5,114 purchases. Quad ruled composition notebook recorded 5,179 searches against 2,580 products, making it a more focused search opportunity. Sketch books for drawing recorded 4,584 searches and 833 purchases.
+The median Amazon price was $7.99, with the 25th percentile at $6.99 and the 75th percentile at $9.99. The median book had 110 pages, and 8.5x10.98 was the most common trim size, appearing on 409 books.
 
 ## Method and limits
 
@@ -183,6 +176,7 @@ Definitions used in this report: [Niche](../../methodology.md#niche), [Niche sco
 
 ## Version history
 
+- v2 · 2026-11-17 · Text revised
 - v1 · 2026-11-17 · First published
 
 ## Download the data
@@ -196,7 +190,7 @@ Definitions used in this report: [Niche](../../methodology.md#niche), [Niche sco
 ## Cite this report
 
 ```
-KDPTop Research (2026). Notebook on Amazon KDP: Market Size, Competition and Prices (November 2026). Version 1, 2026-11-17. https://kdptop.com/research/niches/notebook-kdp/
+KDPTop Research (2026). Notebook on Amazon KDP: Market Size, Competition and Prices (November 2026). Version 2, 2026-11-17. https://kdptop.com/research/niches/notebook-kdp/
 ```
 
 Text and data are released under CC BY 4.0: quote freely with "Source: KDPTop (kdptop.com)" and a link.
