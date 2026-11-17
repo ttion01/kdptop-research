@@ -1,0 +1,11 @@
+product_type,holiday,audience,age_band,books,on_best_sellers,median_reviews,median_price,est_daily_sales,score
+word_search,christmas,,,110,57,14,10.24,175,73
+word_search,winter,,,53,25,14,9.99,111,71
+word_search,,stress_relief,,221,154,18,10.99,243,69
+word_search,,,adult,906,718,13,9.99,1225,69
+word_search,,seniors,,543,439,17,9.99,861,67
+word_search,,,13-17,129,114,8,9.99,345,63
+word_search,,,6-8,51,31,20,9.99,64,59
+word_search,,,9-12,48,27,12,9.99,33,58
+word_search,,women,,53,45,18,9.99,123,58
+word_search,,men,,35,31,13,8.99,87,57

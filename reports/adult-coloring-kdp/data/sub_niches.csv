@@ -1,0 +1,11 @@
+product_type,holiday,audience,age_band,books,on_best_sellers,median_reviews,median_price,est_daily_sales,score
+coloring_adult,winter,,,294,168,10,9.99,258,78
+coloring_adult,,,adult,3657,2573,16,9.99,6008,75
+coloring_adult,,stress_relief,,3651,2668,17,9.99,4840,74
+coloring_adult,christmas,,,458,246,12,9.99,1355,74
+coloring_adult,,,13-17,1185,937,19,9.99,1435,72
+coloring_adult,,women,,776,550,16,9.99,460,71
+coloring_adult,,students,,207,162,34,14.5,147,70
+coloring_adult,,nurses,,131,89,22,12.99,62,69
+coloring_adult,,seniors,,320,246,20,9.99,568,69
+coloring_adult,halloween,,,243,161,20,9.99,293,64

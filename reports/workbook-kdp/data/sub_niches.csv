@@ -1,0 +1,11 @@
+product_type,holiday,audience,age_band,books,on_best_sellers,median_reviews,median_price,est_daily_sales,score
+workbook,,homeschool,,2719,2094,41,12.99,2171,72
+workbook,,students,,3810,3114,36,12.99,2141,71
+workbook,,,13-17,1190,1013,23,14.66,503,71
+workbook,,,9-12,1728,1307,50,12.99,1385,69
+workbook,,,adult,2082,1807,52,13.99,1202,68
+workbook,,teachers,,2288,1819,49,12.99,1894,68
+workbook,,special_needs,,512,420,30,14.02,301,68
+workbook,,seniors,,84,62,13,12.99,29,66
+workbook,,parents,,805,609,43,11.99,650,66
+workbook,,,3-5,679,470,22,9.99,743,65

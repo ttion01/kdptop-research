@@ -1,0 +1,11 @@
+product_type,holiday,audience,age_band,books,on_best_sellers,median_reviews,median_price,est_daily_sales,score
+logbook,,,adult,3835,3425,9,9.99,959,67
+logbook,,seniors,,360,314,18,9.99,159,61
+logbook,,couples,,57,45,4,11.99,9,61
+logbook,,parents,,371,311,7,9.99,73,60
+logbook,,,6-8,109,97,8,9.99,25,57
+logbook,wedding,,,46,39,10,11.99,9,56
+logbook,,nurses,,184,166,7,9.99,40,56
+logbook,,teachers,,90,81,3,8.99,21,54
+logbook,,girls,,84,74,7,9.99,20,54
+logbook,,students,,216,188,2,9.99,26,54

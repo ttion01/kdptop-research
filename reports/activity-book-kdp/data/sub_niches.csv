@@ -1,0 +1,11 @@
+product_type,holiday,audience,age_band,books,on_best_sellers,median_reviews,median_price,est_daily_sales,score
+activity_mixed,christmas,,,379,169,14,11.99,265,74
+activity_mixed,,,adult,648,499,19,11.93,532,72
+activity_mixed,,,6-8,1142,575,15,9.99,631,71
+activity_mixed,,,9-12,875,606,21,11.99,766,70
+activity_mixed,winter,,,84,24,6,9.99,22,70
+activity_mixed,,,3-5,338,149,11,9.99,133,68
+activity_mixed,,women,,92,65,20,11.99,71,68
+activity_mixed,,stress_relief,,187,138,18,9.99,186,67
+activity_mixed,,christians,,166,81,13,10.99,80,67
+activity_mixed,,parents,,297,181,22,10.97,82,66
