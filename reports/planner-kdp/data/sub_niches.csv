@@ -1,0 +1,11 @@
+product_type,holiday,audience,age_band,books,on_best_sellers,median_reviews,median_price,est_daily_sales,score
+planner,,parents,,134,101,17,11.99,49,66
+planner,,seniors,,97,79,18,9.99,38,64
+planner,,special_needs,,30,21,23,12.99,24,63
+planner,,,13-17,31,21,7,12.99,10,62
+planner,,,adult,1102,893,8,10.99,400,62
+planner,,nurses,,37,25,2,14.99,4,61
+planner,,students,,126,95,7,11.88,41,61
+planner,christmas,,,31,21,3,9.99,6,59
+planner,back_to_school,,,77,60,15,10.99,34,57
+planner,,couples,,87,76,25,13.94,19,56

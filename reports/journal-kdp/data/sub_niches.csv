@@ -1,0 +1,11 @@
+product_type,holiday,audience,age_band,books,on_best_sellers,median_reviews,median_price,est_daily_sales,score
+journal,,,adult,2119,1671,21,10.99,1703,69
+journal,christmas,,,79,42,11,12.0,43,68
+journal,new_year,,,36,19,11,14.99,8,67
+journal,,seniors,,52,27,12,11.99,14,64
+journal,,moms,,166,122,49,11.99,314,63
+journal,,parents,,234,159,27,11.95,188,63
+journal,,grandparents,,139,85,25,12.99,161,63
+journal,,,6-8,203,139,16,10.95,152,61
+journal,,christians,,252,190,31,11.0,187,61
+journal,,,13-17,257,214,26,10.99,149,60
