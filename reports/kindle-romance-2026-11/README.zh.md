@@ -2,49 +2,49 @@
 
 > 来源：KDPTop 研究报告，KDPTop（kdptop.com）。原文：https://kdptop.com/research/zh/topics/kindle-romance-2026-11/
 
-English: [README.md](README.md) · 版本 1 (2026-11-17) · [方法说明](../../methodology.md)
+English: [README.md](README.md) · 版本 2 (2026-11-17) · [方法说明](../../methodology.md)
 
 **数据区间**: 2026年10月27日 至 2026年11月16日  
 **样本**: 亚马逊美国站畅销榜上的 4,534 本书
 
-2026 年 10 月 27 日至 11 月 16 日，亚马逊美国站 Kindle 言情小说畅销榜收录 4534 本去重图书，独立出版占比接近半数。报告追踪 70 个电子书类目，分析机会分变化、产品类型、新书突围表现和搜索需求趋势。
+2026 年 10 月 27 日至 11 月 16 日，亚马逊美国站 Kindle 言情小说畅销榜收录 4,534 本书，独立出版占比为 48.4%。报告追踪类目机会分、突围新书、产品类型和搜索需求变化，为作者评估细分市场竞争情况和选题提供数据参考。
 
 | 畅销榜上的书（去重） | 突围新书 | 突围书中独立出版占比 |
 |---|---|---|
-| **4,534** | **576** | **67.4%** |
+| **4,534** | **578** | **67.5%** |
 
 ## 核心结论
 
-1. 2026 年 10 月 27 日至 11 月 16 日，亚马逊美国站言情小说畅销榜共收录 4534 本去重图书，其中 Kindle 电子书 3096 本、纸书 1438 本。Kindle 电子书独立出版占比为 47.9%，纸书为 49.7%。
-2. 截至 2026 年 11 月 16 日，Kindle 言情小说市场中，破镜重圆类目的机会分上升最明显，从 27 升至 39，中位数评论数为 292。原住民类目降幅最大，从 37 降至 17，中位数评论数为 112。
-3. 2026 年 10 月 27 日至 11 月 16 日，Kindle 言情小说畅销榜共有小说 4495 本，占产品类型的 99.1%，独立出版占比为 48.6%。其他产品类型的数量均未超过 32 本。
-4. 2026 年 10 月 27 日至 11 月 16 日，亚马逊美国站言情小说共有 576 本突围新书，其中独立出版 388 本，占 67.4%。新书进入畅销榜的中位时间为 2 天，入榜时的中位评论数为 43.5。
-5. 2026 年 9 月，亚马逊言情小说搜索词 fall romance books 的搜索量达到 22070 次，增长 70%；romance fantasy books 达到 1101 次，增长 686%。historical romance 搜索量为 9080 次，下降 22%。
+1. 2026 年 10 月 27 日至 11 月 16 日，亚马逊美国站 Kindle 言情小说畅销榜共有 4,534 本去重图书，独立出版占比为 48.4%，新书占比为 42.0%。独立出版作品接近榜单总量的一半，在这一市场中占有稳定份额。
+2. 截至 2026 年 11 月 16 日，Kindle 言情小说机会分涨幅最大的类目是破镜重圆，从 27 分升至 39 分；言情从 23 分升至 34 分，霸道总裁 / 富豪从 16 分升至 26 分。
+3. 2026 年 10 月 27 日至 11 月 16 日，Kindle 言情小说榜单共有 4,495 本小说，占 99.1%，其中独立出版占比为 48.6%。青少年小说有 32 本，中位评论数达到 29,986。不同产品类型的评论积累门槛差异较大。
+4. 2026 年 10 月 27 日至 11 月 16 日，Kindle 言情小说共有 578 本突围新书，其中 390 本为独立出版，占 67.5%。进入畅销榜所需时间的中位数为 2 天，突围时评论数中位数为 42。
+5. 2026 年 9 月，Amazon 言情相关搜索中，fall romance books 搜索量达到 22,070 次，增长 70%；romance fantasy books 达到 1,101 次，增长 686%；werewolf romance books 搜索量为 2,027 次，下降 26%。
 
 ## 市场总览
 
-2026 年 10 月 27 日至 11 月 16 日，亚马逊美国站言情小说畅销榜共收录 4534 本去重图书，其中 Kindle 电子书 3096 本，纸书 1438 本。Kindle 电子书独立出版占比为 47.9%，新书占比为 42.0%，70 个类目的机会分中位数为 24。纸书独立出版占比为 49.7%。两个渠道的价格中位数均为 4.99 美元，Kindle 电子书评论数中位数为 888，纸书为 1329。
+2026 年 10 月 27 日至 11 月 16 日，Kindle 言情小说畅销榜共收录 4,534 本去重图书，覆盖 70 个类目。独立出版占比为 48.4%，榜单图书价格中位数为 4.99 美元，评论数中位数为 1,003，新书占比为 42.0%，机会分中位数为 24。独立出版与传统出版作品在榜单中都有较强竞争力，整体评论积累门槛仍然较高。
 
-Kindle 电子书新书占比达到 42.0%，但机会分中位数只有 24。这说明榜单持续有新书进入，同时整体竞争仍然较强。出版人选择渠道时，需要结合具体类目的机会分和评论门槛判断。独立出版占比接近一半，并不能说明新书进入畅销榜的难度较低。
+本期共有 578 本突围新书，其中独立出版占 67.5%。这些新书突围时的评论数中位数为 42，说明部分作品在评论积累较少的情况下也能进入畅销榜。整体榜单评论中位数反映成熟作品的竞争状况，突围新书评论中位数则反映新品进入榜单时的情况。作者评估新书选题时，可以重点参考具体类目的机会分和新书表现。
 
-| 指标 | 纸书 | Kindle 电子书 |
-|---|---|---|
-| 畅销榜上的书（去重） | 1,438 | 3,096 |
-| 独立出版占比 | 49.7% | 47.9% |
-| 价格中位数 | $4.99 | $4.99 |
-| 评论数中位数 | 1,329 | 888 |
-| 有足够样本的类目 | - | 70 |
-| Top 100 里新书占比（类目中位数） | - | 42.0% |
-| 机会分中位数 | - | 24 |
-| 突围新书 | 163 | 413 |
+| 指标 | Kindle 电子书 |
+|---|---|
+| 畅销榜上的书（去重） | 4,534 |
+| 独立出版占比 | 48.4% |
+| 价格中位数 | $4.99 |
+| 评论数中位数 | 1,003 |
+| 有足够样本的类目 | 70 |
+| Top 100 里新书占比（类目中位数） | 42.0% |
+| 机会分中位数 | 24 |
+| 突围新书 | 578 |
 
 ## 机会分变化最大的类目
 
-Kindle 电子书中，破镜重圆的机会分从 27 升至 39，中位数评论数为 292，中位数价格为 3.99 美元，是本期机会分上升幅度最大的类目。言情从 23 升至 34，中位数评论数为 630，价格中位数为 5.99 美元。熟龄爱情从 30 升至 39，中位数评论数为 261，价格中位数为 3.1 美元。这几个类目的评论门槛相对较低，作者可以结合具体题材和竞争书目继续评估入场空间。
+破镜重圆的机会分涨幅最大，从 27 分升至 39 分，中位价格为 3.99 美元，中位评论数为 292。熟龄爱情从 30 分升至 39 分，中位评论数为 261；三角恋从 32 分升至 40 分，中位评论数为 221。这几个类目的评论门槛低于整体市场中位数，作者可以结合题材定位和现有作品的竞争情况，进一步评估进入机会。
 
-原住民的机会分降幅最大，从 37 降至 17；西语裔与拉丁裔从 37 降至 24。浪漫奇幻的机会分为 10，中位数评论数达到 40314，价格中位数为 6.99 美元。该类目的评论门槛明显偏高，即使搜索热度上升，也不代表畅销榜竞争有所减弱。机会分反映 KDP 新书的进入空间，不能直接用来衡量读者需求或销量排名。
+言情的机会分从 23 分升至 34 分，霸道总裁 / 富豪从 16 分升至 26 分，小镇言情从 20 分升至 29 分。部分类目的机会分则有所下降：原住民从 37 分降至 17 分，西语裔与拉丁裔从 37 分降至 24 分，LGBTQ+ 从 33 分降至 28 分。浪漫奇幻机会分为 10，中位评论数达到 40,314，评论竞争门槛较高。机会分反映 KDPTop 对类目竞争条件的综合评估，不能直接用来判断销量变化。
 
-![机会分上升最多的类目](https://kdptop.com/research/img/kindle-romance-2026-11/20261117143923/movers-zh.webp)
+![机会分上升最多的类目](https://kdptop.com/research/img/kindle-romance-2026-11/20261117144624/movers-zh.webp)
 
 ### 上升
 
@@ -72,11 +72,11 @@ Kindle 电子书中，破镜重圆的机会分从 27 升至 39，中位数评论
 
 ## 产品类型
 
-Kindle 言情小说畅销榜主要由小说构成，共 4495 本，占比 99.1%，独立出版占比为 48.6%，价格中位数为 4.99 美元，评论数中位数为 988。青少年小说有 32 本，独立出版占比为 21.9%，价格中位数为 9.21 美元，评论数中位数为 29986。这一小类榜单的评论积累门槛较高。
+小说是 Kindle 言情市场的主要产品类型，共有 4,495 本，占 99.1%。其中独立出版占比为 48.6%，价格中位数为 4.99 美元，评论数中位数为 988。本期 578 本突围新书全部属于小说，新品竞争也集中在这一类型。计划出版言情小说的作者，可以将小说类目的数据作为主要参考。
 
-漫画/图像小说只有 3 本，独立出版占比为 100.0%，评论数中位数为 4；诗歌有 2 本，非虚构和绘本各有 1 本。后三类样本数量太少，无法据此判断市场竞争水平或独立出版的普遍机会。对以 Kindle 言情小说为目标的作者来说，现有榜单数据主要反映小说市场，其他产品类型的样本不足以与小说直接比较。
+青少年小说有 32 本，独立出版占比为 21.9%，价格中位数为 9.21 美元，评论数中位数达到 29,986。漫画/图像小说只有 3 本，独立出版占比为 100%，评论数中位数为 4；诗歌有 2 本，非虚构和绘本各有 1 本。后三类的样本量较小，现有数据不足以判断其稳定的出版机会。青少年小说的评论数中位数则明显较高，进入这一类目的竞争需要积累更多评论。
 
-![畅销榜上的书按产品类型](https://kdptop.com/research/img/kindle-romance-2026-11/20261117143923/types-zh.webp)
+![畅销榜上的书按产品类型](https://kdptop.com/research/img/kindle-romance-2026-11/20261117144624/types-zh.webp)
 
 | 产品类型 | 畅销榜书数 | 占比 | 独立出版占比 | 价格中位数 | 评论中位数 |
 |---|---|---|---|---|---|
@@ -89,43 +89,43 @@ Kindle 言情小说畅销榜主要由小说构成，共 4495 本，占比 99.1%�
 
 ## 突围新书
 
-2026 年 10 月 27 日至 11 月 16 日，共有 576 本突围新书首次进入亚马逊言情小说畅销榜，其中独立出版 388 本，占 67.4%。这些新书进入榜单的中位时间为 2 天，入榜时的中位评论数为 43.5。576 本突围新书全部属于小说，本期新书入榜活动集中在这一产品类型。
+本期 578 本突围新书中，390 本为独立出版。突围评论数中位数为 42，进入畅销榜所需时间中位数为 2 天。部分新书在出版当日就进入榜单。The Keeper (Gods of the Game Book 3) 的作者为 Ana  Huang，归属霸道总裁 / 富豪，价格 5.99 美元，评论数 3,675，最佳排名为 1。A World of our Own (Between Worlds Book 4) 由 Kate Alexandra 创作，归属摇滚明星言情，价格 6.49 美元，评论数 260，最佳排名同样为 1。
 
-独立出版作品中，Ambar Cordova 的 Until We Break 进入西语裔与拉丁裔类目，价格为 4.99 美元，评论数为 66；L. Steele 的 The Frosty Fiancé: A Christmas Father's Best Friend Romance (The Hamiltons : A Fake Marriage Billionaire Romance series Book 2) 进入假戏真做类目，价格为 5.99 美元，评论数为 275；Fiona Baker 的 Dreaming of Christmas (Fir Tree Grove Holidays Book 5) 进入清水言情类目，价格为 4.99 美元，评论数为 396。这些作品分别进入不同的言情细分类目，说明独立出版作品在多个细分市场都有入榜案例。单本作品的表现仍不足以代表整个类目的普遍情况。
+突围作品涉及多个细分题材。CLAIM: A small-town, single dad, age-gap, football romance. (The New Bradfords) 进入小镇言情榜单，用时 1 天，评论数为 886。Midnight Mooring (Scottish Isles Series Book 4) 也在 1 天内进入榜单，评论数为 931。圣诞题材作品也出现在本期突围名单中，包括 Dreaming of Christmas (Fir Tree Grove Holidays Book 5) 和 To Bless a Baron at Christmas: A Dollar Princess Novella (Dollar Princess Series)。从这些案例可以看到，突围作品既包括系列续作，也包括有明确季节属性的题材。单本作品的排名和表现仍不足以代表整个细分市场。
 
 | 书名 | 作者 | 冲榜类目 | 最高名次 | 价格 | 评论 | 出版到上榜（天） | 独立出版 |
 |---|---|---|---|---|---|---|---|
+| [The Keeper (Gods of the Game Book 3)](https://www.amazon.com/dp/B0FVL41GY2) | Ana  Huang | 霸道总裁 / 富豪 | #1 | $5.99 | 3,675 | 0 | 是 |
 | [The Apparent Trap](https://www.amazon.com/dp/B0GPR93MFW) | Ali Rosen | 假戏真做 | #1 | $3.61 | 2,330 | 0 |  |
-| [A Court of Splintered Harmony: The Valkyrie Cycle, Movement I (A Court of Thorns and Roses](https://www.amazon.com/dp/B0GR711WBV) | Sarah J. Maas | 言情 | #1 | $15.68 | 45,968 | 0 |  |
 | [The Love Operation: A Novel](https://www.amazon.com/dp/B0GTMVGFR2) | Melissa R. Collings | 医疗 | #1 | $5.99 | 1,835 | 0 |  |
 | [In Love and Betrayal (The All in Billionaires Book 2)](https://www.amazon.com/dp/B0GTMWKTVX) | Elle Nicoll | 医疗 | #1 | $1.99 | 733 | 0 |  |
-| [Until We Break](https://www.amazon.com/dp/B0GX2Y67BY) | Ambar Cordova | 西语裔与拉丁裔 | #1 | $4.99 | 66 | 0 | 是 |
-| [The Frosty Fiancé: A Christmas Father's Best Friend Romance (The Hamiltons : A Fake Marria](https://www.amazon.com/dp/B0GX31LSYR) | L. Steele | 假戏真做 | #1 | $5.99 | 275 | 0 | 是 |
 | [A World of our Own (Between Worlds Book 4)](https://www.amazon.com/dp/B0GYPZNG96) | Kate Alexandra | 摇滚明星言情 | #1 | $6.49 | 260 | 0 | 是 |
+| [To Bless a Baron at Christmas: A Dollar Princess Novella (Dollar Princess Series)](https://www.amazon.com/dp/B0H46V3CY4) | Gabrielle Meyer | Gilded Age | #1 | $3.99 | 140 | 0 | 是 |
+| [The Duke Who Forgot Christmas (Christmas Dukes Book 3)](https://www.amazon.com/dp/B0H85G9SY5) | Scarlett Scott | 摄政时期 | #1 | $3.99 | 245 | 0 |  |
 | [Dreaming of Christmas (Fir Tree Grove Holidays Book 5)](https://www.amazon.com/dp/B0HD26P13Z) | Fiona Baker | 清水言情 | #1 | $4.99 | 396 | 0 | 是 |
-| [The Terms of the Bequest: A Pride and Prejudice Variation (Obstinate, Headstrong Girl Seri](https://www.amazon.com/dp/B0HDD9GFR1) | Julie Cooper | 改编作品 | #1 | $4.95 | 435 | 0 |  |
-| [Dark Explorer: The Deep (The Children Of The Gods Paranormal Romance Book 113)](https://www.amazon.com/dp/B0HL6XZWRV) | I. T. Lucas | 科幻 | #1 | $4.99 | 703 | 0 |  |
-| [Knotty Or Nice (MVP: Most Valuable Pack Book 6)](https://www.amazon.com/dp/B0FC28HC75) | Ari Wright | 多元关系 | #1 | $3.99 | 1,047 | 1 |  |
+| [The Terms of the Bequest: A Pride and Prejudice Variation (Obstinate, Headstrong Girl Seri](https://www.amazon.com/dp/B0HDD9GFR1) | Julie Cooper | 摄政时期 | #1 | $4.95 | 435 | 0 |  |
 | [CLAIM: A small-town, single dad, age-gap, football romance. (The New Bradfords)](https://www.amazon.com/dp/B0FXYG9CDV) | Tia Louise | 小镇言情 | #1 | $4.99 | 886 | 1 |  |
 | [Midnight Mooring (Scottish Isles Series Book 4)](https://www.amazon.com/dp/B0FY8YW1JB) | Samantha  Young | 小镇言情 | #1 | $5.99 | 931 | 1 | 是 |
-| [Firestorm: Silver Ridge Ranch Book 4](https://www.amazon.com/dp/B0GHHCX27H) | Tilly H. Colson | 消防员 | #1 | $4.99 | 230 | 1 |  |
-| [Hard No: A Small Town Romance (Marswood Harbor Book 3)](https://www.amazon.com/dp/B0H2TY7FKX) | Lilian Monroe | 小镇言情 | #1 | $3.99 | 655 | 1 |  |
-| [The Secrets of Clarence Manor (Aston University Book 1)](https://www.amazon.com/dp/B0HBXTF2YN) | Devney Perry | 霸道总裁 / 富豪 | #1 | $5.99 | 809 | 1 | 是 |
+| [The Best of Luck (The Huntresses Book 4)](https://www.amazon.com/dp/B0H6YD86H5) | Sarah M. Eden | 摄政时期 | #1 | $5.99 | 135 | 1 |  |
 | [Cold November Rake](https://www.amazon.com/dp/B0HFCLP1MV) | Sadie Bosque | Highlanders | #1 | $4.99 | 195 | 1 | 是 |
 | [Warriors Surprise (The Protectors Series)](https://www.amazon.com/dp/B0HPLXG29P) | Teresa Gabelman | Witches & Wizards | #1 | $2.99 | 361 | 1 | 是 |
 | [The Christmas She Gave Away](https://www.amazon.com/dp/B0HPNV7PWW) | Hannah Schrock | 阿米什与门诺派 | #1 | $0.99 | 46 | 1 | 是 |
 | [That Misadventuring Marquess (The Spectacular Swinsons Book 2)](https://www.amazon.com/dp/B0HPWV574D) | Kate Archer | Tudor | #1 | $5.99 | 113 | 1 | 是 |
+| [My Cowboy Husband Neglected Me, Abandoned Our Baby for Another Woman’s: A 5-Book Collectio](https://www.amazon.com/dp/B0HPYJBF9F) | Lira Rain | 三角恋 | #1 | $5.99 | 142 | 1 | 是 |
 | [My Cowboy Husband Neglected Me, Left Me and Our Baby in the Blizzard for Another Woman’s: ](https://www.amazon.com/dp/B0HQRG4P9D) | Ella Amafa | 三角恋 | #1 | $5.99 | 128 | 1 | 是 |
-| [Claimed by the Possessive Laird: A Steamy Scottish Historical Romance (War Brides by Royal](https://www.amazon.com/dp/B0HRPDPC77) | Ava McArthur | Highlanders | #1 | $0.99 | - | 1 | 是 |
+| [Claimed by the Possessive Laird: A Steamy Scottish Historical Romance (War Brides by Royal](https://www.amazon.com/dp/B0HRPDPC77) | Ava McArthur | 苏格兰 | #1 | $0.99 | - | 1 | 是 |
 | [My Cowboy Husband Neglected Me, Ignored Our Baby for Another Woman’s: A 6-Book Collection ](https://www.amazon.com/dp/B0HPHX6JQB) | Liv Zora | 三角恋 | #1 | $4.99 | 171 | 2 | 是 |
 | [Captive of the Reckless Highlander: A Scottish Historical Time Travel Romance Novel (Capti](https://www.amazon.com/dp/B0HPRDKVWJ) | Beatrice McLintock | 苏格兰 | #1 | $0.99 | 24 | 2 | 是 |
-| [My Cowboy Husband Neglected Me, Gave Up on Our Baby for Another Woman’s: A 5-Book Collecti](https://www.amazon.com/dp/B0HQ8CPW1C) | Fara Riva | 三角恋 | #1 | $5.99 | 99 | 2 | 是 |
+| [My Cowboy Husband Neglected Me, Gave Up on Our Baby for Another Woman’s: A 5-Book Collecti](https://www.amazon.com/dp/B0HQ8CPW1C) | Fara Riva | 熟龄爱情 | #1 | $5.99 | 99 | 2 | 是 |
+| [Taking Her In: First Time with a Transgender Woman (First Time with a Transgender Woman Ro](https://www.amazon.com/dp/B0HQNJ4L9P) | Jane Futa | Transgender Romance | #1 | $3.99 | 3 | 2 | 是 |
+| [My Cowboy Husband Neglected Me, Ignored Our Sick Baby for Another Woman’s: A 4-Book Collec](https://www.amazon.com/dp/B0HR37156J) | Lira Rain | 熟龄爱情 | #1 | $5.99 | 69 | 2 | 是 |
+| [Unbound (The Bradshaw Brothers Book 5)](https://www.amazon.com/dp/B0G1KWQ3Z2) | Janice Whiteaker | 西部与边疆 | #2 | $5.99 | 726 | 0 | 是 |
 
 ## 搜索需求变化
 
-2026 年 9 月，fall romance books 搜索量为 22070 次，增长 70%；christmas romance books 为 3570 次，增长 68%，与本期突围新书中出现的圣诞题材作品相呼应。romance fantasy books 搜索量为 1101 次，增长 686%；black romance novels by black authors 为 1329 次，增长 93%；gothic romance books 为 1401 次，增长 74%。从搜索变化看，季节性言情、奇幻言情和黑人作者言情的关注度均有所上升。
+2026 年 9 月，Amazon 言情相关搜索词的表现出现明显分化。fall romance books 搜索量为 22,070 次，增长 70%；christmas romance books 为 3,570 次，增长 68%；romance fantasy books 为 1,101 次，增长 686%；black romance novels by black authors 为 1,329 次，增长 93%。gothic romance books 搜索量为 1,401 次，增长 74%；sports romance books 为 2,734 次，增长 25%。
 
-搜索量下降的词包括 werewolf romance books，搜索量为 2027 次，下降 26%；contemporary romance books 为 2405 次，下降 25%；romantic comedy book 为 2440 次，下降 25%；historical romance 为 9080 次，下降 22%。这些数据反映的是 2026 年 9 月的搜索需求变化，畅销榜观察期则为 10 月 27 日至 11 月 16 日，两者时间范围不同。作者可以将搜索热度用于选题参考，但不能直接据此判断新书销量或畅销榜表现。
+部分成熟题材的搜索量有所下降。werewolf romance books 搜索量为 2,027 次，下降 26%；contemporary romance books 为 2,405 次，下降 25%；romantic comedy book 为 2,440 次，下降 25%；historical romance 为 9,080 次，下降 22%。从搜索数据看，季节性言情、哥特言情和浪漫奇幻获得了更多关注，部分成熟题材则出现回落。选择关键词时，需要同时看搜索量和增长速度。romance fantasy books 的增长率达到 686%，但当前搜索量仍为 1,101 次，实际需求规模与增长速度需要分开评估。
 
 ### 增长最快
 
@@ -171,6 +171,7 @@ _亚马逊搜索数据，月份：2026-09。_
 
 ## 版本记录
 
+- v2 · 2026-11-17 · 文字修订
 - v1 · 2026-11-17 · 首次发布
 
 ## 数据下载
@@ -184,7 +185,7 @@ _亚马逊搜索数据，月份：2026-09。_
 ## 引用本报告
 
 ```
-KDPTop Research (2026). Kindle 言情小说市场报告：2026 年 10 月 27 日至 11 月 16 日. 版本 1, 2026-11-17. https://kdptop.com/research/zh/topics/kindle-romance-2026-11/
+KDPTop Research (2026). Kindle 言情小说市场报告：2026 年 10 月 27 日至 11 月 16 日. 版本 2, 2026-11-17. https://kdptop.com/research/zh/topics/kindle-romance-2026-11/
 ```
 
 正文和数据以 CC BY 4.0 许可发布，引用请注明「来源：KDPTop（kdptop.com）」并附链接。

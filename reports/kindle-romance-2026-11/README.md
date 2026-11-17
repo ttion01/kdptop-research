@@ -2,47 +2,49 @@
 
 > Source: KDPTop Research, KDPTop (kdptop.com). Original: https://kdptop.com/research/topics/kindle-romance-2026-11/
 
-中文版: [README.zh.md](README.zh.md) · Version 1 (2026-11-17) · [Methodology](../../methodology.md)
+中文版: [README.zh.md](README.zh.md) · Version 2 (2026-11-17) · [Methodology](../../methodology.md)
 
 **Data window**: Oct 27, 2026 to Nov 16, 2026  
 **Sample**: 4,534 books on Amazon.com Best Sellers lists
 
-Amazon Kindle Romance tracked 3,096 Best Sellers books from October 27 to November 16, 2026. Independently published books made up 67.4% of breakout titles.
+Kindle Romance recorded 4,534 unique Best Sellers in October-November 2026 across 70 categories. Independently published titles accounted for 48.4% of the market, and 578 books reached breakout status.
 
 | Unique books on Best Sellers lists | Breakout books | Indie share of breakouts |
 |---|---|---|
-| **4,534** | **576** | **67.4%** |
+| **4,534** | **578** | **67.5%** |
 
 ## Key findings
 
-1. Amazon Kindle Romance recorded 3,096 unique Best Sellers books across 70 categories from October 27 to November 16, 2026. Independently published books accounted for 47.9% of the titles.
-2. Amazon Kindle Romance recorded 413 breakout books from October 27 to November 16, 2026. Independently published titles made up 67.4% of all 576 breakouts across print and Kindle.
-3. Second Chances had the largest increase in opportunity score among Kindle Romance categories from October 27 to November 16, 2026, rising from 27 to 39. The category had a median price of $3.99 and 292 median reviews.
-4. Fiction accounted for 4,495 books, representing 99.1% of Amazon Romance product-type listings during the period ending November 16, 2026. Its indie share was 48.6%, and its median price was $4.99.
-5. Amazon search demand for fall romance books reached 22,070 searches in September 2026, up 70%. Christmas romance books recorded 3,570 searches, with growth of 68%.
+1. Amazon.com Kindle Romance Best Sellers included 4,534 unique books across 70 categories from October 27 to November 16, 2026. Independently published titles accounted for 48.4% of the total, and the median price was $4.99.
+2. Second Chances had the largest increase in Kindle Romance category opportunity score, rising from 27 to 39 between October 27 and November 16, 2026. Romance followed, climbing from 23 to 34. Indigenous recorded the largest decline among tracked categories, falling from 37 to 17.
+3. Fiction accounted for 4,495 books, or 99.1% of Kindle Romance Best Sellers from October 27 to November 16, 2026. Independently published titles made up 48.6% of the segment. The median price was $4.99, and median reviews stood at 988.
+4. Kindle Romance recorded 578 breakout books from October 27 to November 16, 2026, including 390 independently published titles. Indie books represented 67.5% of breakouts, and the median time to reach a Best Sellers list was 2.0 days.
+5. Amazon Kindle Romance search demand in September 2026 grew fastest for romance fantasy books, which recorded 1,101 searches and 686% growth. Fall romance books generated 22,070 searches, while christmas romance books reached 3,570 searches with 68% growth.
 
 ## Market overview
 
-Amazon Kindle Romance recorded 3,096 unique Best Sellers books during the 21-day period, compared with 1,438 print books. The Kindle catalog spanned 70 categories, and independently published titles accounted for 47.9% of the total. The median price was $4.99, median reviews were 888, and 42.0% of Kindle titles were new releases. The median opportunity score was 24, pointing to a generally high review barrier across the category.
+Kindle Romance recorded 4,534 unique Best Sellers books during the 21-day period. Independently published titles accounted for 48.4% of the market. The median book price was $4.99, and the median review count was 1,003. New releases made up 42.0% of the market, while the median opportunity score was 24. Indie publishers have a substantial presence, although the review median shows that established titles still account for much of the category's visibility. Publishers entering this market should consider the review history and existing audience of competing bestsellers.
 
-| Metric | Print books | Kindle eBooks |
-|---|---|---|
-| Books on Best Sellers lists (unique) | 1,438 | 3,096 |
-| Independently published share | 49.7% | 47.9% |
-| Median price | $4.99 | $4.99 |
-| Median reviews | 1,329 | 888 |
-| Categories with enough data | - | 70 |
-| New releases in a Top 100 (category median) | - | 42.0% |
-| Median opportunity score | - | 24 |
-| Breakout books | 163 | 413 |
+The market covered 70 categories and produced 578 breakout books during the period. New releases represented 42.0% of the market, and independently published titles accounted for 48.4%. Both groups maintained a visible presence across the category. The median opportunity score of 24 points to a relatively high competitive barrier for new indie books, despite the number of new releases reaching the market.
+
+| Metric | Kindle eBooks |
+|---|---|
+| Books on Best Sellers lists (unique) | 4,534 |
+| Independently published share | 48.4% |
+| Median price | $4.99 |
+| Median reviews | 1,003 |
+| Categories with enough data | 70 |
+| New releases in a Top 100 (category median) | 42.0% |
+| Median opportunity score | 24 |
+| Breakout books | 578 |
 
 ## Categories whose opportunity score moved most
 
-Second Chances had the largest increase in opportunity score, rising from 27 to 39. Its median price was $3.99, with 292 median reviews. Romance also improved, moving from 23 to 34, while Later in Life rose from 30 to 39 with only 261 median reviews. The combination of improving scores and relatively low review counts makes these categories worth examining for publishers planning new releases.
+Second Chances recorded the largest opportunity score increase, climbing from 27 to 39. Romance followed, rising from 23 to 34. Later in Life and Multicultural & Interracial each gained 9 points, reaching 39 and 25 respectively. Second Chances had a median price of $3.99 and 292 median reviews. Later in Life recorded a $3.1 median price and 261 median reviews. The review counts suggest that publishers may face lower review barriers in these categories, although the pricing leaves less room than in higher-priced niches.
 
-Indigenous had the steepest decline, falling from 37 to 17. Hispanic & Latino followed, dropping from 37 to 24. Romantasy remained difficult, with an opportunity score of 10, down from 11, alongside 40,314 median reviews and a $6.99 median price. Conditions vary considerably across Romance subcategories, so publishers should evaluate them individually rather than rely on the parent category score.
+Indigenous recorded the largest decline, dropping from 37 to 17. Hispanic & Latino also fell, moving from 37 to 24. Romantasy remained difficult for new entrants: its score slipped from 11 to 10, while median reviews reached 40,314. Billionaires & Millionaires improved from 16 to 26, but its median review count of 1,837 points to an established competitive base. Publishers should assess opportunity score changes alongside the review counts that indicate how difficult it may be to compete for visibility.
 
-![Categories whose opportunity score rose most](https://kdptop.com/research/img/kindle-romance-2026-11/20261117143923/movers-en.webp)
+![Categories whose opportunity score rose most](https://kdptop.com/research/img/kindle-romance-2026-11/20261117144624/movers-en.webp)
 
 ### Rising
 
@@ -70,11 +72,11 @@ Indigenous had the steepest decline, falling from 37 to 17. Hispanic & Latino fo
 
 ## Product types
 
-Fiction accounted for 4,495 books and 99.1% of product-type listings. Its 48.6% indie share, $4.99 median price and 988 median reviews offer the clearest view of the competition facing independent Romance publishers. Given this concentration, Fiction is the main product type to examine when assessing the category's overall market structure.
+Fiction accounted for 4,495 books, or 99.1% of the Kindle Romance product-type distribution. Independently published titles made up 48.6% of the segment. The median price was $4.99, and median reviews were 988. With Fiction representing nearly the entire market, its figures provide the clearest picture of publishing conditions across Kindle Romance.
 
-Young adult accounted for 32 books, with a 21.9% indie share, a $9.21 median price and 29,986 median reviews. Comics & graphic novels had 3 books and a 100.0% indie share, although the sample is too small to support broad conclusions. Poetry, Nonfiction and Picture book each had only 2 or fewer books, leaving them as marginal parts of the observed Romance listings.
+Young adult accounted for 32 books, with a 21.9% indie share, a $9.21 median price, and 29,986 median reviews. Comics & graphic novels included 3 books and had a 100.0% indie share, a $3.99 median price, and 4 median reviews. Poetry, Nonfiction, and Picture book each represented 2 books or fewer. These sample sizes are too small to support reliable conclusions about product-type opportunities beyond the dominant Fiction segment.
 
-![Best Sellers books by product type](https://kdptop.com/research/img/kindle-romance-2026-11/20261117143923/types-en.webp)
+![Best Sellers books by product type](https://kdptop.com/research/img/kindle-romance-2026-11/20261117144624/types-en.webp)
 
 | Product type | Books | Share | Indie share | Median price | Median reviews |
 |---|---|---|---|---|---|
@@ -87,41 +89,41 @@ Young adult accounted for 32 books, with a 21.9% indie share, a $9.21 median pri
 
 ## Breakout books
 
-The market recorded 576 breakout books during the period, including 388 independently published titles. Indie books accounted for 67.4% of breakouts, reaching a Best Sellers list in a median of 2.0 days and with 43.5 median reviews at breakout. All 576 breakouts were classified as Fiction. The relatively low median review count suggests that new titles can reach Best Sellers lists before accumulating the review totals common among established listings.
+Of the 578 breakout books, 390 were independently published, accounting for 67.5% of the total. The median time to reach a Best Sellers list was 2.0 days, and the median review count at breakout was 42.0. All 578 breakouts were Fiction titles. The difference between the 42.0 median reviews at breakout and the broader market's 1,003 median reviews suggests that new releases can reach Best Sellers lists well before they build the review histories common among established titles.
 
-Several leading examples came from independent publishers. Until We Break by Ambar Cordova reached rank 1 in Hispanic & Latino with 66 reviews. The Frosty Fiancé by L. Steele reached rank 1 in Fake Dating with 275 reviews, while A World of our Own by Kate Alexandra reached rank 1 in Rockstar Romance with 260 reviews. Dreaming of Christmas by Fiona Baker also reached rank 1 in Clean & Wholesome with 396 reviews. These examples demonstrate independent breakouts across several Romance subcategories. The leading breakout list also includes established traditionally published authors.
+The Keeper (Gods of the Game Book 3) by Ana  Huang reached rank 1 in Billionaires & Millionaires and was independently published. A World of our Own (Between Worlds Book 4) by Kate Alexandra reached rank 1 in Rockstar Romance. CLAIM: A small-town, single dad, age-gap, football romance. (The New Bradfords) by Tia Louise and Midnight Mooring (Scottish Isles Series Book 4) by Samantha  Young both reached rank 1 in Small Town Romance. These titles illustrate breakout activity across several romance subcategories. Both indie and traditionally published books appeared among the leading titles.
 
 | Title | Author | Category | Best rank | Price | Reviews | Days to chart | Indie |
 |---|---|---|---|---|---|---|---|
+| [The Keeper (Gods of the Game Book 3)](https://www.amazon.com/dp/B0FVL41GY2) | Ana  Huang | Billionaires & Millionaires | #1 | $5.99 | 3,675 | 0 | Yes |
 | [The Apparent Trap](https://www.amazon.com/dp/B0GPR93MFW) | Ali Rosen | Fake Dating | #1 | $3.61 | 2,330 | 0 |  |
-| [A Court of Splintered Harmony: The Valkyrie Cycle, Movement I (A Court of Thorns and Roses](https://www.amazon.com/dp/B0GR711WBV) | Sarah J. Maas | Romance | #1 | $15.68 | 45,968 | 0 |  |
 | [The Love Operation: A Novel](https://www.amazon.com/dp/B0GTMVGFR2) | Melissa R. Collings | Medical | #1 | $5.99 | 1,835 | 0 |  |
 | [In Love and Betrayal (The All in Billionaires Book 2)](https://www.amazon.com/dp/B0GTMWKTVX) | Elle Nicoll | Medical | #1 | $1.99 | 733 | 0 |  |
-| [Until We Break](https://www.amazon.com/dp/B0GX2Y67BY) | Ambar Cordova | Hispanic & Latino | #1 | $4.99 | 66 | 0 | Yes |
-| [The Frosty Fiancé: A Christmas Father's Best Friend Romance (The Hamiltons : A Fake Marria](https://www.amazon.com/dp/B0GX31LSYR) | L. Steele | Fake Dating | #1 | $5.99 | 275 | 0 | Yes |
 | [A World of our Own (Between Worlds Book 4)](https://www.amazon.com/dp/B0GYPZNG96) | Kate Alexandra | Rockstar Romance | #1 | $6.49 | 260 | 0 | Yes |
+| [To Bless a Baron at Christmas: A Dollar Princess Novella (Dollar Princess Series)](https://www.amazon.com/dp/B0H46V3CY4) | Gabrielle Meyer | Gilded Age | #1 | $3.99 | 140 | 0 | Yes |
+| [The Duke Who Forgot Christmas (Christmas Dukes Book 3)](https://www.amazon.com/dp/B0H85G9SY5) | Scarlett Scott | Regency | #1 | $3.99 | 245 | 0 |  |
 | [Dreaming of Christmas (Fir Tree Grove Holidays Book 5)](https://www.amazon.com/dp/B0HD26P13Z) | Fiona Baker | Clean & Wholesome | #1 | $4.99 | 396 | 0 | Yes |
-| [The Terms of the Bequest: A Pride and Prejudice Variation (Obstinate, Headstrong Girl Seri](https://www.amazon.com/dp/B0HDD9GFR1) | Julie Cooper | Adaptations | #1 | $4.95 | 435 | 0 |  |
-| [Dark Explorer: The Deep (The Children Of The Gods Paranormal Romance Book 113)](https://www.amazon.com/dp/B0HL6XZWRV) | I. T. Lucas | Science Fiction | #1 | $4.99 | 703 | 0 |  |
-| [Knotty Or Nice (MVP: Most Valuable Pack Book 6)](https://www.amazon.com/dp/B0FC28HC75) | Ari Wright | Polyamory | #1 | $3.99 | 1,047 | 1 |  |
+| [The Terms of the Bequest: A Pride and Prejudice Variation (Obstinate, Headstrong Girl Seri](https://www.amazon.com/dp/B0HDD9GFR1) | Julie Cooper | Regency | #1 | $4.95 | 435 | 0 |  |
 | [CLAIM: A small-town, single dad, age-gap, football romance. (The New Bradfords)](https://www.amazon.com/dp/B0FXYG9CDV) | Tia Louise | Small Town Romance | #1 | $4.99 | 886 | 1 |  |
 | [Midnight Mooring (Scottish Isles Series Book 4)](https://www.amazon.com/dp/B0FY8YW1JB) | Samantha  Young | Small Town Romance | #1 | $5.99 | 931 | 1 | Yes |
-| [Firestorm: Silver Ridge Ranch Book 4](https://www.amazon.com/dp/B0GHHCX27H) | Tilly H. Colson | Firefighters | #1 | $4.99 | 230 | 1 |  |
-| [Hard No: A Small Town Romance (Marswood Harbor Book 3)](https://www.amazon.com/dp/B0H2TY7FKX) | Lilian Monroe | Small Town Romance | #1 | $3.99 | 655 | 1 |  |
-| [The Secrets of Clarence Manor (Aston University Book 1)](https://www.amazon.com/dp/B0HBXTF2YN) | Devney Perry | Billionaires & Millionaires | #1 | $5.99 | 809 | 1 | Yes |
+| [The Best of Luck (The Huntresses Book 4)](https://www.amazon.com/dp/B0H6YD86H5) | Sarah M. Eden | Regency | #1 | $5.99 | 135 | 1 |  |
 | [Cold November Rake](https://www.amazon.com/dp/B0HFCLP1MV) | Sadie Bosque | Highlanders | #1 | $4.99 | 195 | 1 | Yes |
 | [Warriors Surprise (The Protectors Series)](https://www.amazon.com/dp/B0HPLXG29P) | Teresa Gabelman | Witches & Wizards | #1 | $2.99 | 361 | 1 | Yes |
 | [The Christmas She Gave Away](https://www.amazon.com/dp/B0HPNV7PWW) | Hannah Schrock | Amish & Mennonite | #1 | $0.99 | 46 | 1 | Yes |
 | [That Misadventuring Marquess (The Spectacular Swinsons Book 2)](https://www.amazon.com/dp/B0HPWV574D) | Kate Archer | Tudor | #1 | $5.99 | 113 | 1 | Yes |
+| [My Cowboy Husband Neglected Me, Abandoned Our Baby for Another Woman’s: A 5-Book Collectio](https://www.amazon.com/dp/B0HPYJBF9F) | Lira Rain | Love Triangle | #1 | $5.99 | 142 | 1 | Yes |
 | [My Cowboy Husband Neglected Me, Left Me and Our Baby in the Blizzard for Another Woman’s: ](https://www.amazon.com/dp/B0HQRG4P9D) | Ella Amafa | Love Triangle | #1 | $5.99 | 128 | 1 | Yes |
-| [Claimed by the Possessive Laird: A Steamy Scottish Historical Romance (War Brides by Royal](https://www.amazon.com/dp/B0HRPDPC77) | Ava McArthur | Highlanders | #1 | $0.99 | - | 1 | Yes |
+| [Claimed by the Possessive Laird: A Steamy Scottish Historical Romance (War Brides by Royal](https://www.amazon.com/dp/B0HRPDPC77) | Ava McArthur | Scottish | #1 | $0.99 | - | 1 | Yes |
 | [My Cowboy Husband Neglected Me, Ignored Our Baby for Another Woman’s: A 6-Book Collection ](https://www.amazon.com/dp/B0HPHX6JQB) | Liv Zora | Love Triangle | #1 | $4.99 | 171 | 2 | Yes |
 | [Captive of the Reckless Highlander: A Scottish Historical Time Travel Romance Novel (Capti](https://www.amazon.com/dp/B0HPRDKVWJ) | Beatrice McLintock | Scottish | #1 | $0.99 | 24 | 2 | Yes |
-| [My Cowboy Husband Neglected Me, Gave Up on Our Baby for Another Woman’s: A 5-Book Collecti](https://www.amazon.com/dp/B0HQ8CPW1C) | Fara Riva | Love Triangle | #1 | $5.99 | 99 | 2 | Yes |
+| [My Cowboy Husband Neglected Me, Gave Up on Our Baby for Another Woman’s: A 5-Book Collecti](https://www.amazon.com/dp/B0HQ8CPW1C) | Fara Riva | Later in Life | #1 | $5.99 | 99 | 2 | Yes |
+| [Taking Her In: First Time with a Transgender Woman (First Time with a Transgender Woman Ro](https://www.amazon.com/dp/B0HQNJ4L9P) | Jane Futa | Transgender Romance | #1 | $3.99 | 3 | 2 | Yes |
+| [My Cowboy Husband Neglected Me, Ignored Our Sick Baby for Another Woman’s: A 4-Book Collec](https://www.amazon.com/dp/B0HR37156J) | Lira Rain | Later in Life | #1 | $5.99 | 69 | 2 | Yes |
+| [Unbound (The Bradshaw Brothers Book 5)](https://www.amazon.com/dp/B0G1KWQ3Z2) | Janice Whiteaker | Western & Frontier | #2 | $5.99 | 726 | 0 | Yes |
 
 ## Search demand
 
-September 2026 search demand was strongest for seasonal Romance queries. Fall romance books led with 22,070 searches and 70% growth, followed by christmas romance books with 3,570 searches and 68% growth. More targeted queries also gained ground: romance fantasy books rose 686% to 1,101 searches, while black romance novels by black authors increased 93% to 1,329 searches. Gothic romance books recorded 1,401 searches and 74% growth, while sports romance books reached 2,734 searches with 25% growth. Several other terms declined. Werewolf romance books fell 26%, contemporary romance books dropped 25%, and romantic comedy book declined 25%. Publishers can use these shifts to identify search themes gaining attention, but search volume should be treated as a demand signal rather than proof of book sales.
+September 2026 search demand was strongest for seasonal and fantasy-related romance terms. romance fantasy books grew 686% to 1,101 searches. fall romance books increased 70% to 22,070 searches, while christmas romance books rose 68% to 3,570 searches. black romance novels by black authors recorded 1,329 searches and 93% growth. gothic romance books reached 1,401 searches, up 74%. Several other terms lost search volume: werewolf romance books fell 26% to 2,027 searches, contemporary romance books declined 25% to 2,405 searches, and historical romance dropped 22% to 9,080 searches. Publishers should use these figures as indicators of search demand rather than direct measures of book sales. Seasonal terms, in particular, may reflect short-term buying interest.
 
 ### Growing fastest
 
@@ -167,6 +169,7 @@ Definitions used in this report: [Unique Best Sellers books](../../methodology.m
 
 ## Version history
 
+- v2 · 2026-11-17 · Text revised
 - v1 · 2026-11-17 · First published
 
 ## Download the data
@@ -180,7 +183,7 @@ Definitions used in this report: [Unique Best Sellers books](../../methodology.m
 ## Cite this report
 
 ```
-KDPTop Research (2026). Kindle Romance on Amazon: Market Report, Oct 27 to Nov 16, 2026. Version 1, 2026-11-17. https://kdptop.com/research/topics/kindle-romance-2026-11/
+KDPTop Research (2026). Kindle Romance on Amazon: Market Report, Oct 27 to Nov 16, 2026. Version 2, 2026-11-17. https://kdptop.com/research/topics/kindle-romance-2026-11/
 ```
 
 Text and data are released under CC BY 4.0: quote freely with "Source: KDPTop (kdptop.com)" and a link.
