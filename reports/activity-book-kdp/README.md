@@ -2,12 +2,12 @@
 
 > Source: KDPTop Research, KDPTop (kdptop.com). Original: https://kdptop.com/research/niches/activity-book-kdp/
 
-中文版: [README.zh.md](README.zh.md) · Version 1 (2026-11-17) · [Methodology](../../methodology.md)
+中文版: [README.zh.md](README.zh.md) · Version 2 (2026-11-17) · [Methodology](../../methodology.md)
 
 **Data window**: Oct 27, 2026 to Nov 16, 2026  
 **Sample**: 3,183 books in this niche on Amazon.com lists
 
-Amazon KDP activity books score 76 out of 100, with 3,183 books tracked, estimated daily sales of 2,185 units and a rank of 17 among 1,715 niches.
+The Amazon KDP Activity book niche contains 3,183 books, with estimated daily sales of 2,185 units and a niche score of 76, ranking 17th among 1,715 niches.
 
 | Books on the lists | Median reviews | Niche score rank |
 |---|---|---|
@@ -15,17 +15,17 @@ Amazon KDP activity books score 76 out of 100, with 3,183 books tracked, estimat
 
 ## Key findings
 
-1. The Amazon KDP Activity book niche scored 76 out of 100 as of November 16, 2026, placing it 17th among 1,715 niches. The tracked market includes 3,183 books across the Best Sellers and New Releases lists.
-2. Amazon.com activity books generated estimated daily sales of 2,185 units as of November 16, 2026. The median review count is 18, and 66.7% of books are independently published.
-3. Review barriers are relatively low in the Amazon KDP Activity book market. A total of 78.9% of sampled books have fewer than 50 reviews, and 60.4% were published within the last year as of November 16, 2026.
-4. Just 3.1% of sampled Amazon activity books sell 100 or more copies monthly. The top-selling title, Cat's Cradle (Klutz Activity Kit) 9.44" Length x 0.5" Width x 5.75" Height, has estimated monthly sales of 2,610 units.
-5. Christmas activity book scored 74 with 379 books and a median of 14 reviews. Winter activity book scored 70 with 84 books and a median of 6 reviews. Both provide more focused entry points within the broader activity book market.
+1. The Amazon KDP Activity book niche scored 76 out of 100 from October 18 to November 16, 2026, placing 17th among 1,715 niches.
+2. Amazon Best Sellers and New Releases lists contained 3,183 Activity book titles, with estimated daily sales of 2,185 units over the data period.
+3. The Activity book market had a median of 18 reviews. A total of 78.9% of sampled books had fewer than 50 reviews, while 3.1% sold 100 or more copies monthly.
+4. Independently published books made up 66.7% of the Activity book niche, and 60.4% of sampled books were published within the last year.
+5. Christmas activity book scored 74 across 379 books, with a median of 14 reviews. Winter activity book scored 70 across 84 books, with a median of 6 reviews.
 
 ## How big is the niche
 
-The Activity book niche contains 3,183 books across Amazon Best Sellers and New Releases lists. This includes 1,970 Best Sellers entries and 1,546 New Releases entries. The sample consists of 2,837 print books and 346 Kindle eBooks. Estimated daily sales reach 2,185 units, showing consistent commercial activity across the niche.
+Amazon Best Sellers and New Releases lists contained 3,183 Activity book titles from October 18 to November 16, 2026. The dataset included 1,970 Best Sellers entries and 1,546 New Releases entries, with estimated daily sales of 2,185 units across the niche. Print books accounted for 2,837 titles, compared with 346 Kindle eBooks. The niche scored 76 out of 100 and ranked 17th among 1,715 niches. The catalog is already substantial, and the score places Activity book among the stronger markets in the dataset.
 
-![Books on Best Sellers, day by day](https://kdptop.com/research/img/activity-book-kdp/20261117140642/history-en.webp)
+![Books on Best Sellers, day by day](https://kdptop.com/research/img/activity-book-kdp/20261117143338/history-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -40,28 +40,24 @@ The Activity book niche contains 3,183 books across Amazon Best Sellers and New 
 
 ## Search demand
 
-The main_search_term field does not contain a specific keyword for Activity book, so the available data cannot establish a single search-volume figure for the overall market. Related terms provide some indication of customer interest. "halloween activity book" records 9,721 searches and 33 purchases, while "advent calendar for toddlers" records 8,460 searches and 495 purchases. These figures point to adjacent search opportunities but do not measure demand for the activity book category as a whole.
+Search activity varies considerably across Activity book themes. halloween activity book generated 9,721 searches and 33 purchases, while surgery recovery activity book recorded 1,766 searches and 19 purchases. christmas activity book received 669 searches and 43 purchases, and easy crafts for kids recorded 613 searches and 55 purchases. Search volume does not establish sales potential on its own. The differences in purchase counts suggest that specific audience needs may offer better opportunities than broad keyword demand.
 
 | Search term | Monthly searches | Monthly purchases | Competing products | Average price |
 |---|---|---|---|---|
-| 40th birthday gifts men | 25,515 | 1,191 | 7,233 | - |
-| get well gifts | 11,446 | 222 | 131,852 | - |
 | halloween activity book | 9,721 | 33 | 10,414 | $5.60 |
-| pumpkin stencil | 9,112 | 28 | 2,131 | - |
-| advent calendar for toddlers | 8,460 | 495 | 913 | - |
-| anime advent calendar | 7,963 | 428 | 1,098 | - |
-| girls advent calendar | 6,714 | 592 | 3,136 | - |
-| gifts for tween girls | 6,365 | 631 | 10,577 | - |
-| kpop advent calendar | 4,459 | 41 | 985 | - |
-| advent calendar girls | 4,305 | 566 | 3,074 | - |
+| surgery recovery activity book | 1,766 | 19 | 625 | $14.99 |
+| christmas activity book | 669 | 43 | 30,312 | $5.99 |
+| easy crafts for kids | 613 | 55 | 125,706 | $6.64 |
+| baseball activity book | 497 | 5 | 1,076 | $11.46 |
+| activity book for seniors | 140 | 1 | 17,171 | - |
 
 ## Competition and the review barrier
 
-The niche statistics report a median review count of 18, compared with 3 in the sampled book-level data. The review distribution includes 1,928 books with fewer than 10 reviews, 582 with 10-50, 181 with 50-100, 330 with 100-500 and 162 with 500 or more. Overall, 78.9% of sampled books have fewer than 50 reviews, indicating that many competing listings have relatively short review histories. Sales are more concentrated: only 3.1% of sampled books sell 100 or more copies monthly, while 2,790 sell fewer than 30.
+The niche statistics show a median review count of 18, compared with a median of 3 reviews in the sampled book set. The review distribution included 1,928 books with fewer than 10 reviews, 582 with 10-50, 181 with 50-100, 330 with 100-500 and 162 with 500 or more. In the sample, 78.9% of books had fewer than 50 reviews, leaving a sizable segment with relatively limited review histories. Monthly sales present a tougher test: only 3.1% of sampled books sold 100 or more copies. A low review count therefore does not necessarily indicate strong sales potential.
 
-![How many reviews the books have](https://kdptop.com/research/img/activity-book-kdp/20261117140642/reviews-en.webp)
+![How many reviews the books have](https://kdptop.com/research/img/activity-book-kdp/20261117143338/reviews-en.webp)
 
-![Estimated monthly sales per book](https://kdptop.com/research/img/activity-book-kdp/20261117140642/units-en.webp)
+![Estimated monthly sales per book](https://kdptop.com/research/img/activity-book-kdp/20261117143338/units-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -74,9 +70,9 @@ The niche statistics report a median review count of 18, compared with 3 in the 
 
 ## Price, page count and trim size
 
-The median price is $10.90 in the niche statistics and $10.95 in the sampled data. The two largest price bands are $8-$10, with 1,003 books, and $10-$13, with 803 books. The median page count is 100. The most common trim size is 8.5x10.98, represented by 1,288 books, followed by 5.98x9.02 with 237 and 7.99x10.0 with 84. Most competing publishers appear to price their books between $8-$13 and use conventional activity-book formats.
+The niche median price was $10.9, with a P25 of $9.99 and a P75 of $13.9. The sampled books had a median price of $10.95. The largest price band was $8-$10, containing 1,003 books. The median page count was 100. The most common trim sizes were 8.5x10.98 with 1,288 books, 5.98x9.02 with 237 books and 7.99x10.0 with 84 books. Pricing and format data point to a market centered on standard paperback activity-book prices, with larger trim sizes accounting for much of the catalog.
 
-![Price distribution](https://kdptop.com/research/img/activity-book-kdp/20261117140642/prices-en.webp)
+![Price distribution](https://kdptop.com/research/img/activity-book-kdp/20261117143338/prices-en.webp)
 
 | Metric | Value |
 |---|---|
@@ -89,7 +85,7 @@ The median price is $10.90 in the niche statistics and $10.95 in the sampled dat
 
 ## Best-selling books in the niche
 
-The leading titles cover puzzles, educational activities, creative projects and reusable formats. Ultimate Puzzle Challenge!: 125+ Brain Games for Kids, Mazes, Brain Teasers, Word Searches, Crossword Puzzles, Sudoku, Logic Puzzles and More, Kids Activity Book (Highlights Jumbo Books & Pads) has 256 pages, 6,218 reviews and estimated monthly sales of 1,740 units. The Ultimate Fun Adult Activity Book: Logic Puzzles, Sudoku, Mazes, Word Searches, Crosswords, Acrostics, Coloring, and More! (White Elephant Gifts; Stocking Stuffer for Adults) has 192 pages, 525 reviews and estimated monthly sales of 1,650 units. Cat's Cradle (Klutz Activity Kit) 9.44" Length x 0.5" Width x 5.75" Height leads the table with estimated monthly sales of 2,610 units and 8,585 reviews. None of the 10 listed top books is independently published, indicating that established non-indie titles account for the leading sales examples.
+The leading titles use familiar activity-book formats and offer substantial content or established concepts. Ultimate Puzzle Challenge!: 125+ Brain Games for Kids, Mazes, Brain Teasers, Word Searches, Crossword Puzzles, Sudoku, Logic Puzzles and More, Kids Activity Book (Highlights Jumbo Books & Pads) had 256 pages, 6,218 reviews and estimated monthly sales of 1,740 units. The Ultimate Fun Adult Activity Book: Logic Puzzles, Sudoku, Mazes, Word Searches, Crosswords, Acrostics, Coloring, and More! (White Elephant Gifts; Stocking Stuffer for Adults) had 192 pages, 525 reviews and estimated monthly sales of 1,650 units. Brain Games - 3-In-1 Puzzle Book: Word Search, Crosswords & Sudoku | 256 Pages, Spiral Bound | Large Variety Activity Book for Adults, Seniors, Teens had 256 pages and estimated monthly sales of 1,620 units. None of the top 10 listed books was marked as independently published, indicating that established publishers currently hold a strong position among the leading titles.
 
 | Title | Author | Store | Price | Reviews | Est. sales/mo | Pages | Published | Indie |
 |---|---|---|---|---|---|---|---|---|
@@ -111,7 +107,7 @@ The leading titles cover puzzles, educational activities, creative projects and 
 
 ## Sub-niches
 
-Christmas activity book has the highest listed sub-niche score at 74, with 379 books, a median of 14 reviews and a median price of $11.99. Winter activity book has a particularly low review barrier, with a score of 70, 84 books and a median of 6 reviews. Activity book Christian scores 67 with 166 books and a median of 13 reviews. Activity book, ages 3-5 scores 68 with 338 books and a median of 11 reviews. These narrower categories have relatively strong scores and modest median review counts. They are worth assessing individually before committing to the broader category.
+Christmas activity book scored 74 across 379 books, with a median of 14 reviews and a median price of $11.99. Activity book, adults scored 72 across 648 books, with a median of 19 reviews. Activity book, ages 6-8 scored 71 across 1,142 books, with a median of 15 reviews. Winter activity book has the lowest median review count among the leading opportunities, scoring 70 across 84 books with a median of 6 reviews and a median price of $9.99. Activity book, ages 3-5 also has a relatively low median of 11 reviews, scoring 68 across 338 books. Winter activity book and Christmas activity book have competitive scores and relatively low review counts. Their smaller or seasonal audiences make timing an important consideration.
 
 | Sub-niche | Books | Median reviews | Median price | Est. daily sales | Score |
 |---|---|---|---|---|---|
@@ -128,7 +124,7 @@ Christmas activity book has the highest listed sub-niche score at 74, with 379 b
 
 ## Where these books rank
 
-The listed categories have opportunity scores ranging from 12 to 31. Travel ranks first with a score of 31 across 62 books. Mazes scores 27 across 112 books, Dot to Dot scores 27 across 67 books and Word Games scores 27 across 49 books. Puzzles has a score of 25 across 59 books, while Games scores 12 across 38 books. Travel has the highest listed opportunity score. Mazes and Dot to Dot have larger existing book counts with comparable scores.
+The listed Activity book titles appeared across 1,732 categories. Travel contained 62 books and had an opportunity score of 31, the highest among the supplied category results. Mazes had 112 books and scored 27, Dot to Dot had 67 books and scored 27, and Word Games had 49 books and scored 27. Puzzles contained 59 books and scored 25, while Games contained 38 books and scored 12. Travel leads on opportunity score, while Mazes and Dot to Dot have higher scores alongside larger category samples.
 
 | Category | Store | Niche books | Opportunity score |
 |---|---|---|---|
@@ -141,25 +137,25 @@ The listed categories have opportunity scores ranging from 12 to 31. Travel rank
 
 ## Should you publish in this niche?
 
-Activity book is a strong-scoring KDP niche, with a score of 76 and a rank of 17 among 1,715 niches. Estimated daily sales of 2,185 units and an indie share of 66.7% point to an established market with substantial independent-publisher participation. The median review count of 18, together with the finding that 78.9% of sampled books have fewer than 50 reviews, suggests that publishers can find competitors with relatively accessible review histories. Christmas activity book, Winter activity book and Activity book, ages 3-5 are worth considering as narrower alternatives, given their scores and modest median review counts.
+Activity book is a sizable KDP market, with a niche score of 76 and a ranking of 17th among 1,715 niches. Independently published books account for 66.7% of the niche, and many listed titles have fewer than 50 reviews. These figures suggest that independent publishers can compete in parts of the market without matching the review counts of established leaders. Christmas activity book, Winter activity book and Activity book, ages 3-5 have relatively low review barriers among the higher-scoring sub-niches. Travel leads the supplied category results with an opportunity score of 31.
 
 ## Common questions
 
-### Is the activity book niche profitable on Amazon KDP?
+### How many Activity books are on Amazon KDP?
 
-The Activity book niche has estimated daily sales of 2,185 units and scores 76 out of 100, placing it 17th among 1,715 niches. Sales are concentrated among a relatively small group of listings, however: only 3.1% of sampled books sell 100 or more copies monthly.
+Amazon Best Sellers and New Releases lists contained 3,183 Activity book titles from October 18 to November 16, 2026. The dataset included 2,837 print books and 346 Kindle eBooks.
 
-### How many reviews do you need to compete in the activity book niche?
+### How much do Activity books sell on Amazon?
 
-The niche median is 18 reviews, while 78.9% of sampled books have fewer than 50 reviews. Of these, 1,928 books have fewer than 10 reviews, showing that publishers can find competing listings with limited review histories.
+Estimated daily sales across the niche were 2,185 units. Among the sampled books, 3.1% sold 100 or more copies monthly, and the median monthly sales figure was 6 units.
 
-### What is the best price for an Amazon KDP activity book?
+### How many reviews do Activity books need to compete?
 
-The median price is $10.90 in the niche statistics and $10.95 in the sampled data. The largest price band is $8-$10, with 1,003 books, followed by $10-$13, with 803 books.
+Sampled Activity book titles had a median of 3 reviews, and 78.9% had fewer than 50 reviews. The niche-level median was 18 reviews, showing that many listed titles have relatively small review counts.
 
-### What are the best activity book sub-niches for KDP publishers?
+### What are the best Activity book sub-niches for independent publishers?
 
-Christmas activity book leads the listed sub-niches with a score of 74, 379 books and a median of 14 reviews. Winter activity book scores 70 with 84 books and a median of 6 reviews. Activity book, ages 3-5 scores 68 with 338 books and a median of 11 reviews.
+Christmas activity book scored 74 across 379 books, with a median of 14 reviews. Winter activity book scored 70 across 84 books, with a median of 6 reviews. Activity book, ages 3-5 scored 68 across 338 books, with a median of 11 reviews.
 
 ## Method and limits
 
@@ -173,6 +169,7 @@ Definitions used in this report: [Niche](../../methodology.md#niche), [Niche sco
 
 ## Version history
 
+- v2 · 2026-11-17 · Text revised
 - v1 · 2026-11-17 · First published
 
 ## Download the data
@@ -186,7 +183,7 @@ Definitions used in this report: [Niche](../../methodology.md#niche), [Niche sco
 ## Cite this report
 
 ```
-KDPTop Research (2026). Activity book on Amazon KDP: Market Size, Competition and Prices (November 2026). Version 1, 2026-11-17. https://kdptop.com/research/niches/activity-book-kdp/
+KDPTop Research (2026). Activity book on Amazon KDP: Market Size, Competition and Prices (November 2026). Version 2, 2026-11-17. https://kdptop.com/research/niches/activity-book-kdp/
 ```
 
 Text and data are released under CC BY 4.0: quote freely with "Source: KDPTop (kdptop.com)" and a link.
