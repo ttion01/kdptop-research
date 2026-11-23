@@ -1,0 +1,11 @@
+product_type,holiday,audience,age_band,books,on_best_sellers,median_reviews,median_price,est_daily_sales,score
+how_to,,seniors,,3458,2396,20,10.99,924,78
+how_to,,parents,,6369,4739,26,12.99,2553,75
+how_to,,nurses,,1166,844,10,14.99,249,74
+how_to,,students,,15828,12738,22,14.18,3589,73
+how_to,,,adult,125201,100725,22,12.95,34514,73
+how_to,,teachers,,5549,4341,35,16.99,1498,71
+how_to,,homeschool,,1120,890,40,13.92,901,71
+how_to,,christians,,2354,1905,40,12.99,989,70
+how_to,,men,,1231,901,32,12.99,355,70
+how_to,,grandparents,,245,163,19,12.95,90,69

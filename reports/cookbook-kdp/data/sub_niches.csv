@@ -1,0 +1,11 @@
+product_type,holiday,audience,age_band,books,on_best_sellers,median_reviews,median_price,est_daily_sales,score
+cookbook,,parents,,1971,1310,53,12.99,1148,75
+cookbook,christmas,,,987,630,26,10.99,827,73
+cookbook,winter,,,131,84,19,12.98,118,73
+cookbook,,seniors,,788,537,22,9.99,247,72
+cookbook,,grandparents,,224,131,26,14.99,92,72
+cookbook,,homeschool,,157,106,41,13.19,119,71
+cookbook,,,adult,23179,17425,54,11.71,14521,70
+cookbook,thanksgiving,,,406,253,23,10.99,306,67
+cookbook,new_year,,,86,54,36,11.97,34,67
+cookbook,,men,,144,105,76,14.99,272,64

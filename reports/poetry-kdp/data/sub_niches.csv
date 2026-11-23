@@ -1,0 +1,11 @@
+product_type,holiday,audience,age_band,books,on_best_sellers,median_reviews,median_price,est_daily_sales,score
+poetry,,,adult,8058,5420,28,10.99,2948,70
+poetry,,christians,,653,336,28,11.78,346,69
+poetry,,parents,,82,36,4,11.48,119,68
+poetry,,,3-5,86,34,8,8.99,126,67
+poetry,,men,,53,24,13,12.99,17,65
+poetry,,moms,,120,71,43,12.39,50,65
+poetry,,women,,565,356,51,12.84,230,64
+poetry,,dads,,19,6,14,12.93,8,62
+poetry,,diverse,,903,681,15,11.99,184,61
+poetry,,stress_relief,,137,83,36,11.99,71,61

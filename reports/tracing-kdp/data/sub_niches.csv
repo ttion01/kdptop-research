@@ -1,0 +1,11 @@
+product_type,holiday,audience,age_band,books,on_best_sellers,median_reviews,median_price,est_daily_sales,score
+tracing,,stress_relief,,158,96,12,10.99,78,71
+tracing,,homeschool,,307,185,28,9.99,430,67
+tracing,,,adult,338,240,19,10.99,194,66
+tracing,christmas,,,38,8,4,11.37,7,66
+tracing,,,13-17,103,63,18,10.99,65,66
+tracing,,,9-12,136,95,43,9.99,213,64
+tracing,,parents,,121,62,18,9.99,119,64
+tracing,,students,,303,211,35,9.99,295,63
+tracing,winter,,,26,2,2,11.99,0,63
+tracing,,special_needs,,44,23,9,10.99,16,63

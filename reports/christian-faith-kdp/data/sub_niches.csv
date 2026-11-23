@@ -1,0 +1,11 @@
+product_type,holiday,audience,age_band,books,on_best_sellers,median_reviews,median_price,est_daily_sales,score
+religious,new_year,,,181,86,6,11.59,81,74
+religious,christmas,,,1061,636,40,10.0,2094,73
+religious,,women,,1649,1008,72,12.0,2674,70
+religious,,,6-8,583,389,31,9.99,660,69
+religious,,seniors,,517,397,146,16.99,1014,68
+religious,,students,,1578,1086,47,14.32,764,68
+religious,,,adult,38042,24944,55,9.99,26013,68
+religious,,men,,575,323,78,11.55,1125,67
+religious,,teachers,,1205,741,61,14.45,595,67
+religious,,,13-17,863,626,46,12.99,548,66

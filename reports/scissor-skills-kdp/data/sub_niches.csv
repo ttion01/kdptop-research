@@ -1,0 +1,11 @@
+product_type,holiday,audience,age_band,books,on_best_sellers,median_reviews,median_price,est_daily_sales,score
+cut_paste,,homeschool,,55,31,7,9.99,129,72
+cut_paste,,,adult,93,57,8,15.99,42,70
+cut_paste,,teachers,,54,25,16,9.99,52,69
+cut_paste,,parents,,54,28,12,9.99,54,68
+cut_paste,,,6-8,121,74,4,12.16,41,68
+cut_paste,,,3-5,82,52,17,9.99,151,68
+cut_paste,christmas,,,53,21,4,12.99,9,68
+cut_paste,new_year,,,25,11,5,15.99,5,67
+cut_paste,,women,,27,11,10,15.99,4,63
+cut_paste,winter,,,15,5,2,12.99,2,63
