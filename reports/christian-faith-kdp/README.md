@@ -171,7 +171,7 @@ New Year christian & faith scores 74, with 181 books and 6 median reviews. Chris
 
 The niche's books are those on an Amazon.com Best Sellers or New Releases list in the three days to 2026-11-22 whose AI classification falls in this niche: 40,373 books. The review, sales and price distributions use the 40,373 of them KDPTop has full details for; sales are estimated from sales rank.
 
-List data comes from KDPTop's daily crawl of every Amazon.com Books and Kindle Best Sellers and New Releases list; book details come from the list cards, book pages and Keepa; search volumes come from a third-party keyword tool and are estimates. Adult content categories are excluded.
+List data comes from KDPTop's daily crawl of every Amazon.com Books and Kindle Best Sellers and New Releases list; book details come from the list cards, book pages and sales-rank history; search volumes are estimates. Adult content categories are excluded.
 
 Limits: lists reflect rank, not actual sales, and every sales figure is estimated from rank; books KDPTop has not seen are not counted.
 

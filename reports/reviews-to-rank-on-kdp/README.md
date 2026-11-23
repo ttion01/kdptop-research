@@ -167,7 +167,7 @@ True Crime in Print books had a median of 0 reviews, estimated median daily sale
 
 The report covers the unique books on all Amazon.com Best Sellers lists on 2026-11-08, with the review count shown on the list; rank tiers use each book's best rank in any category that day. The category comparison uses categories below the top level with at least 40 fully parsed books that day; "with sales" means the category's median estimated daily sales are at least the median across all categories. Breakout books' reviews are counted when the report was made.
 
-List data comes from KDPTop's daily crawl of every Amazon.com Books and Kindle Best Sellers and New Releases list; book details come from the list cards, book pages and Keepa; search volumes come from a third-party keyword tool and are estimates. Adult content categories are excluded.
+List data comes from KDPTop's daily crawl of every Amazon.com Books and Kindle Best Sellers and New Releases list; book details come from the list cards, book pages and sales-rank history; search volumes are estimates. Adult content categories are excluded.
 
 Limits: lists reflect rank, not actual sales, and every sales figure is estimated from rank; books KDPTop has not seen are not counted.
 

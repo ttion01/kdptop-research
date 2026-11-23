@@ -161,7 +161,7 @@ Christmas activity book scored 74 across 379 books, with a median of 14 reviews.
 
 The niche's books are those on an Amazon.com Best Sellers or New Releases list in the three days to 2026-11-16 whose AI classification falls in this niche: 3,183 books. The review, sales and price distributions use the 3,183 of them KDPTop has full details for; sales are estimated from sales rank.
 
-List data comes from KDPTop's daily crawl of every Amazon.com Books and Kindle Best Sellers and New Releases list; book details come from the list cards, book pages and Keepa; search volumes come from a third-party keyword tool and are estimates. Adult content categories are excluded.
+List data comes from KDPTop's daily crawl of every Amazon.com Books and Kindle Best Sellers and New Releases list; book details come from the list cards, book pages and sales-rank history; search volumes are estimates. Adult content categories are excluded.
 
 Limits: lists reflect rank, not actual sales, and every sales figure is estimated from rank; books KDPTop has not seen are not counted.
 

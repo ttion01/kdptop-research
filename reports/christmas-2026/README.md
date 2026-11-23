@@ -179,7 +179,7 @@ Yes. The dataset included 2198 books published in the last 120 days, representin
 
 Christmas books are books KDPTop's AI classification tags as Christmas-themed, counted on Amazon.com Best Sellers or New Releases lists in the three days to 2026-11-08. Publication age is the days from publication to 2026-11-08; monthly sales are estimated from sales rank.
 
-List data comes from KDPTop's daily crawl of every Amazon.com Books and Kindle Best Sellers and New Releases list; book details come from the list cards, book pages and Keepa; search volumes come from a third-party keyword tool and are estimates. Adult content categories are excluded.
+List data comes from KDPTop's daily crawl of every Amazon.com Books and Kindle Best Sellers and New Releases list; book details come from the list cards, book pages and sales-rank history; search volumes are estimates. Adult content categories are excluded.
 
 Limits: lists reflect rank, not actual sales, and every sales figure is estimated from rank; books KDPTop has not seen are not counted.
 

@@ -149,9 +149,9 @@ The November 2–8, 2026 benchmark shows median prices of $9.99 for books under 
 
 ## Method and limits
 
-The report covers the unique books with a price on all Amazon.com Best Sellers lists on 2026-11-08. Prices are the list price shown on the list; monthly sales are estimated from sales rank; page counts come from book pages and Keepa. The Kindle Unlimited share is over Kindle books whose KU status KDPTop has read.
+The report covers the unique books with a price on all Amazon.com Best Sellers lists on 2026-11-08. Prices are the list price shown on the list; monthly sales are estimated from sales rank; page counts come from book pages. The Kindle Unlimited share is over Kindle books whose KU status KDPTop has read.
 
-List data comes from KDPTop's daily crawl of every Amazon.com Books and Kindle Best Sellers and New Releases list; book details come from the list cards, book pages and Keepa; search volumes come from a third-party keyword tool and are estimates. Adult content categories are excluded.
+List data comes from KDPTop's daily crawl of every Amazon.com Books and Kindle Best Sellers and New Releases list; book details come from the list cards, book pages and sales-rank history; search volumes are estimates. Adult content categories are excluded.
 
 Limits: lists reflect rank, not actual sales, and every sales figure is estimated from rank; books KDPTop has not seen are not counted.
 

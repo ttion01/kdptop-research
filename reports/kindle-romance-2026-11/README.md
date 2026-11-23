@@ -161,7 +161,7 @@ _Amazon search data for 2026-09._
 
 This period's data runs from 2026-10-27 to 2026-11-16 (21 days). The market overview and product type tables count the unique books on all Best Sellers lists on 2026-11-16; opportunity scores compare the first and last day, and a category needs at least 20 fully parsed books on both.
 
-List data comes from KDPTop's daily crawl of every Amazon.com Books and Kindle Best Sellers and New Releases list; book details come from the list cards, book pages and Keepa; search volumes come from a third-party keyword tool and are estimates. Adult content categories are excluded.
+List data comes from KDPTop's daily crawl of every Amazon.com Books and Kindle Best Sellers and New Releases list; book details come from the list cards, book pages and sales-rank history; search volumes are estimates. Adult content categories are excluded.
 
 Limits: lists reflect rank, not actual sales, and every sales figure is estimated from rank; books KDPTop has not seen are not counted.
 

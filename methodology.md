@@ -5,8 +5,8 @@ Where the data in every report comes from, how each metric is calculated, what t
 ## Data sources
 
 - **Amazon Best Sellers and New Releases lists**: KDPTop captures every Amazon.com Books and Kindle eBooks Best Sellers list and New Releases list once a day (Top 100 per list), plus Kindle Top 100 Free. Full daily coverage started on 2026-10-27.
-- **Book pages and Keepa**: Title, author, price, reviews, rating, publisher, publication date, page count and trim size come from the list cards, the book pages and Keepa's sales-rank history.
-- **Search demand**: Monthly Amazon search volume, purchases and month-over-month growth for book search terms come from a third-party keyword tool (SellerSprite). They are estimates and lag by about a month.
+- **Book pages and rank history**: Title, author, price, reviews, rating, publisher, publication date, page count and trim size come from the list cards, the book pages and each book's sales-rank history.
+- **Search demand**: Monthly Amazon search volume, purchases and month-over-month growth for book search terms are estimates and lag by about a month.
 - **Book classification**: Each book is tagged with a product type (coloring book, journal, cookbook…), an age band, holidays and audiences by a language model reading its title, description and categories, with rules as a fallback.
 
 ## Definitions
@@ -81,8 +81,8 @@ Reports are versioned. When a report is refreshed with newer data, the new versi
 ## 数据来源
 
 - **亚马逊畅销榜和新品榜**: KDPTop 每天抓取一次亚马逊美国站全部图书和 Kindle 电子书类目的畅销榜和新品榜（每个榜 Top 100），以及 Kindle 免费榜 Top 100。完整的每日抓取从 2026-10-27 开始。
-- **书籍页面和 Keepa**: 书名、作者、价格、评论数、评分、出版社、出版日期、页数和开本来自榜单卡片、书籍页面和 Keepa 的销售排名历史。
-- **搜索需求**: 图书搜索词的亚马逊月搜索量、购买量和环比来自第三方关键词工具（卖家精灵），是估算值，大约滞后一个月。
+- **书籍页面和排名历史**: 书名、作者、价格、评论数、评分、出版社、出版日期、页数和开本来自榜单卡片、书籍页面和每本书的销售排名历史。
+- **搜索需求**: 图书搜索词的亚马逊月搜索量、购买量和环比是估算值，大约滞后一个月。
 - **图书分类**: 每本书的产品类型（涂色书、日记本、菜谱……）、年龄段、节日和人群标签，由语言模型读取书名、简介和类目判断，没有模型结果时按规则判断。
 
 ## 指标定义
