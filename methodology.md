@@ -7,6 +7,7 @@ Where the data in every report comes from, how each metric is calculated, what t
 - **Amazon Best Sellers and New Releases lists**: KDPTop captures every Amazon.com Books and Kindle eBooks Best Sellers list and New Releases list once a day (Top 100 per list), plus Kindle Top 100 Free. Full daily coverage started on 2026-10-27.
 - **Book pages and rank history**: Title, author, price, reviews, rating, publisher, publication date, page count and trim size come from the list cards, the book pages and each book's sales-rank history.
 - **Search demand**: Monthly Amazon search volume, purchases and month-over-month growth for book search terms are estimates and lag by about a month.
+- **Title wording**: How long a title is, the counts it states ("100 puzzles") and the promise words in it ("large print", "with solutions") are read off the title by rule. How the title is built and who likely buys the book are judged by a language model from fixed lists of answers. These describe what a listing says; nobody opened the book to check it.
 - **Book classification**: Each book is tagged with a product type (coloring book, journal, cookbook…), an age band, holidays and audiences by a language model reading its title, description and categories, with rules as a fallback.
 
 ## Definitions
@@ -40,6 +41,16 @@ A cross-category product market: product type × holiday × audience × age band
 ### Niche score
 
 0-100 from demand (estimated sales and search volume, 30%), review barrier (20%), new-release inflow (15%), price room (15%), indie share (10%) and breakouts (10%), plus timing for seasonal niches; multiplied down when many books are not something KDP can print, and shrunk toward the average on small samples.
+
+<a id="search-volume"></a>
+### Monthly searches
+
+Estimated searches for the exact term on Amazon.com in one month, with the purchases that followed them. The figures are estimates, lag by about a month, and are best used to compare terms with each other.
+
+<a id="title-wording"></a>
+### Title wording
+
+What the titles of a set of books say: their length in words, the share that state a count and the median count stated, and the share that use a promise such as large print or answers included. A stated count is the seller's statement, not a checked page or puzzle count.
 
 <a id="sales-estimate"></a>
 ### Estimated sales
@@ -83,6 +94,7 @@ Reports are versioned. When a report is refreshed with newer data, the new versi
 - **亚马逊畅销榜和新品榜**: KDPTop 每天抓取一次亚马逊美国站全部图书和 Kindle 电子书类目的畅销榜和新品榜（每个榜 Top 100），以及 Kindle 免费榜 Top 100。完整的每日抓取从 2026-10-27 开始。
 - **书籍页面和排名历史**: 书名、作者、价格、评论数、评分、出版社、出版日期、页数和开本来自榜单卡片、书籍页面和每本书的销售排名历史。
 - **搜索需求**: 图书搜索词的亚马逊月搜索量、购买量和环比是估算值，大约滞后一个月。
+- **标题写法**: 标题有多长、标题里写的数量（比如“100 puzzles”）和承诺用词（比如“large print”“with solutions”）是按规则从标题里读出来的。标题是怎么搭的、多半谁在买，由语言模型从固定的选项里判断。这些说的是商品页上写了什么，没有人打开书核对。
 - **图书分类**: 每本书的产品类型（涂色书、日记本、菜谱……）、年龄段、节日和人群标签，由语言模型读取书名、简介和类目判断，没有模型结果时按规则判断。
 
 ## 指标定义
@@ -116,6 +128,16 @@ KDPTop 给每个类目算的 0-100 分，衡量新的独立出版书有多少空
 ### 细分评分
 
 0-100 分：需求（估算销量和搜索量，30%）、评论门槛（20%）、新书流入（15%）、价格空间（15%）、独立出版占比（10%）和突围（10%），节日细分另加时机分；KDP 做不了的书占比高时打折，样本小时向平均值收缩。
+
+<a id="search-volume-zh"></a>
+### 月搜索量
+
+这个词一个月在亚马逊美国站被搜索的估算次数，以及搜索之后的购买量。数字是估算值，大约滞后一个月，适合拿来比较不同的词。
+
+<a id="title-wording-zh"></a>
+### 标题写法
+
+一组书的标题上写了什么：有多少个词、多少书在标题里写了数量、写的数量中位数是多少，以及多少书用了“大字”“带答案”这类承诺。标题里写的数量是卖家自己的说法，不是核对过的页数或题数。
 
 <a id="sales-estimate-zh"></a>
 ### 估算销量
